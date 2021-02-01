@@ -1,4 +1,80 @@
 KimpetStudio Privacy Policy
-- This Privacy Policy applies to all Services offered by KimpetStudio. By using our Services, Users agree to the collection and use of your personal information as outlined in this Privacy Policy.
-- When you install our games and apps, we may collect information to enhance the experience and benefits of using our Services. We will collect personal public information from Users only if they voluntarily submit such information to us through our Services. Users can always refuse to supply personal information. In said case, Users should avoid using social network features such as Sharing and Friend invite requests. We may collect non-personal identification information about Users whenever they interact with our Services. Said information includes, but is not limited to: device type, brand and model, OS version, unique device identifiers, location and country.
-- If there are any questions regarding this privacy policy you may contact us to email: kimjohn1721@gmail.com
+
+User Age Limits
+No product or service offered by us are aimed at children below the age of 13. Therefore, we possess no intention of collecting information from said individuals.
+
+In the event the above statement has been inadvertently compromised, we can be contacted using the contact information delineated below to permanently delete the information.
+
+ 
+What data do we collect?
+Regardless of the game or service our users consume from us, data acquisition occurs as follows:
+
+Automatic Data acquisition:
+• Device Information: Make and Model,operating system, system specifications and language.
+
+• Service usage information: Gameplay data (game progress, purchased items, current user level etc.)
+
+• Unique user identifiers: IP address, device ID, MAC address, IMEI.
+
+ 
+Voluntary Data Allocation:
+Where applicable, users may be asked to provide information to create accounts on our systems, for use of third-party sign-in options or to participate in newsletters and promotional event reminders. If a customer contacts us, their contact information will be kept.
+
+ 
+Data acquisition from third-party partners:
+Third-party services may be utilized to facilitate application functionality. These services may provide:
+
+• A convenient means to download/play our games (e.g. App store, Google Play, Facebook Game Room, Amazon App store etc.). These platforms receive and provide data as a consequence of using their services and each possess their own privacy policies as well.
+
+• A means to log into our systems using third-party login systems (e.g. Google or Facebook). We will receive the relevant information required to facilitate the login you provided.
+
+• Data for analytics, determining demographics and tailored advertising. The data collected may include the user’s estimated location, active hours and hours played etc.
+
+ 
+Personal Information
+Information that can be used to identify you as an individual is considered personal information. Your personal information will only be collected by us if you participate in the following activities:
+
+1. Feedback/Support:
+The data you provide when you contact us will be recorded. This will be used to reply to your concerns.
+
+2. Newsletters and promotional event reminders:
+If you sign up to receive newsletters/promotions from us, we will use the information you provided to tailor relevant messages to you.
+
+We will never request or record information about a user’s race, political bias, religion or other sensitive information.
+
+3. Advertising Networks
+Any advertisement viewed within our apps are served using third-party ad networks. Each of these networks will possess their own privacy statements based on the methods they employ to track and manage user data. Therefore, for the various ad networks we utilize, please refer to their respective privacy policies listed below:
+
+• AdColony: https://www.adcolony.com/privacy-policy
+
+• AppLovin: https://www.applovin.com/privacy
+
+• Google AdMob: https://policies.google.com/privacy
+
+• Unity Ads: https://unity3d.com/legal/privacy-policy
+
+ 
+Control Targeted Advertising
+If you would rather opt out of benefiting from targeted ads , you can utilize your devices’ settings do to so:
+
+• For iOS, look for “limit ad tracking” in your settings
+
+• For Android, look for “opt-out of interest-based ads” in your settings
+
+ 
+Request to View, Review or Delete Your Data
+You can send a request to view, review or delete the data we have as it relates to you. When you submit the request, we will require photo identification to verify that it is in fact you who has submitted the request.
+
+ 
+The security of your Information
+In the event we need to use your information, we will either ask for your permission or act accordingly to what is lawful. You need not worry my friend; We won’t sell, trade, rent or share your personal information to third parties.
+
+ 
+Policy Updates
+This privacy policy is subject to change as a consequence of an ever changing world. Fear not! We will always try to be as transparent and honest as humanly possible as we strive to be the best we can be as developers and as mortal beings.
+
+ 
+Comments/Complaints/Recommendations
+As always, if you have any concerns or questions regarding the privacy policy or our products/services , please feel free to contact us using the information below:
+
+Email: kimjohn1721@gmail.com
