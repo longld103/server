@@ -1,3 +1,3 @@
 {"data":"
-showAds=false,promote=false,showNativeWatch=false
+showAds=true,promote=true,showNativeWatch=true
 "}
