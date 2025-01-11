@@ -270,273 +270,138 @@
     }
   },
   {
-    "id": "Cl4Ma9MJBYY",
+    "id": "WDfq9eMPGis",
     "snippet": {
-      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "channelTitle": "Minecraft",
-      "description": "minecraft #shortsvideo #minecraftshorts #gaming #mobs #mobvariants #minecraftnews.",
-      "publishedAt": "2025-01-08T16:09:26Z",
+      "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+      "channelTitle": "Cadres",
+      "description": "Garanta seu Ingresso pro SHOW de CADRES, ATHOS E MANA: https://linktr.ee/oresgatedoportal Compre já seu BONECO ...",
+      "publishedAt": "2025-01-08T19:00:18Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/Cl4Ma9MJBYY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WDfq9eMPGis/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/Cl4Ma9MJBYY/default.jpg",
+          "url": "https://i.ytimg.com/vi/WDfq9eMPGis/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/Cl4Ma9MJBYY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WDfq9eMPGis/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "NEW MOB VARIANTS! 🐽"
+      "title": "Boneco Cadres, Pequeno até Gigante!"
     }
   },
   {
-    "id": "epwwrYprobo",
+    "id": "UU8LvVXG8ps",
     "snippet": {
-      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "channelTitle": "Minecraft",
-      "description": "Sonic-boom into ANY world with this thrilling Add-On! Transform into Sonic, Knuckles, Tails, Amy and Shadow! Run at the speed ...",
-      "publishedAt": "2025-01-08T11:00:53Z",
+      "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+      "channelTitle": "Cadres",
+      "description": "Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: ...",
+      "publishedAt": "2025-01-08T14:00:34Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/epwwrYprobo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UU8LvVXG8ps/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/epwwrYprobo/default.jpg",
+          "url": "https://i.ytimg.com/vi/UU8LvVXG8ps/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/epwwrYprobo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UU8LvVXG8ps/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "Minecraft x Sonic - Add on"
+      "title": "Desafio das Frutas"
     }
   },
   {
-    "id": "FmF_c0yzB7w",
+    "id": "HCUNO_uDHRQ",
     "snippet": {
-      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "channelTitle": "Minecraft",
-      "description": "minecraft #minecraftshorts #minecraftquiz #shortsvideo #findthedifference #gamingvideos #finderrors.",
-      "publishedAt": "2025-01-05T14:00:14Z",
+      "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+      "channelTitle": "Cadres",
+      "description": "O último coração com certeza era o mais legal de todos... Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou ...",
+      "publishedAt": "2025-01-08T12:00:29Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/FmF_c0yzB7w/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HCUNO_uDHRQ/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/FmF_c0yzB7w/default.jpg",
+          "url": "https://i.ytimg.com/vi/HCUNO_uDHRQ/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/FmF_c0yzB7w/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HCUNO_uDHRQ/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "SPOT THE ERRORS"
+      "title": "Cadres TROCOU CORAÇÕES com os MOBS!"
     }
   },
   {
-    "id": "Vcg8HjAj6dE",
+    "id": "kPMdwWsH2L8",
     "snippet": {
-      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "channelTitle": "Minecraft",
-      "description": "minecraft #shortsvideo #minecraftbuilding #minecraftshorts #ytshorts.",
-      "publishedAt": "2025-01-01T16:00:32Z",
+      "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+      "channelTitle": "Cadres",
+      "description": "Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: ...",
+      "publishedAt": "2025-01-07T21:54:00Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/Vcg8HjAj6dE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kPMdwWsH2L8/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/Vcg8HjAj6dE/default.jpg",
+          "url": "https://i.ytimg.com/vi/kPMdwWsH2L8/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/Vcg8HjAj6dE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kPMdwWsH2L8/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "REMEMBER YOUR FIRST NIGHT?"
+      "title": "Habilidade com a Boca"
     }
   },
   {
-    "id": "2bZ6-_aQHg0",
+    "id": "6cWvgcqfEjg",
     "snippet": {
-      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
-      "channelTitle": "Minecraft",
-      "description": "Did we get up to any shenanigans in 2024? More than Vu remembers! In our final Minecraft Monthly episode of the year, we look ...",
-      "publishedAt": "2024-12-30T16:00:04Z",
+      "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+      "channelTitle": "Cadres",
+      "description": "Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: ...",
+      "publishedAt": "2025-01-07T19:00:03Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/2bZ6-_aQHg0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6cWvgcqfEjg/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/2bZ6-_aQHg0/default.jpg",
+          "url": "https://i.ytimg.com/vi/6cWvgcqfEjg/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/2bZ6-_aQHg0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6cWvgcqfEjg/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "THANK YOU FOR AN AMAZING 2024 | MINECRAFT MONTHLY"
-    }
-  },
-  {
-    "id": "SyR8QBDgDsw",
-    "snippet": {
-      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelTitle": "Alan Becker",
-      "description": "Idea \u0026 Writer: @its_me_skim Animation: @its_me_skim @n8sterAnimates @ARCpersona Sounds: ...",
-      "publishedAt": "2024-12-28T13:00:36Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/SyR8QBDgDsw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/SyR8QBDgDsw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/SyR8QBDgDsw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Angry Birds - An Actual Short"
-    }
-  },
-  {
-    "id": "2eHozBXlEpw",
-    "snippet": {
-      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelTitle": "Alan Becker",
-      "description": "Only available for 4 weeks! ▻ https://www.youtooz.com/collections/alan-becker The stick figure that started it all. ASK ME ...",
-      "publishedAt": "2024-12-14T13:00:06Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/2eHozBXlEpw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/2eHozBXlEpw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/2eHozBXlEpw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Victim - Animator vs. Animation 11"
-    }
-  },
-  {
-    "id": "H7XxsTlxbFQ",
-    "snippet": {
-      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelTitle": "Alan Becker",
-      "description": "Idea \u0026 Writer: @its_me_skim Animation: @Fordz @hous3776 Exceld @ablerai Sounds: @dan_loeb Music: Platinum101 ...",
-      "publishedAt": "2024-12-07T13:00:28Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/H7XxsTlxbFQ/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/H7XxsTlxbFQ/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/H7XxsTlxbFQ/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Yellow\u0026#39;s Speedrun - An Actual Short"
-    }
-  },
-  {
-    "id": "T1hLyXI5xY8",
-    "snippet": {
-      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelTitle": "Alan Becker",
-      "description": "All the vertical shorts from the past year! ASK ME ANYTHING! ▻ https://www.youtube.com/noogai89/join MERCH!",
-      "publishedAt": "2024-11-23T13:00:37Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/T1hLyXI5xY8/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/T1hLyXI5xY8/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/T1hLyXI5xY8/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "An Actual Short Compilation - Season 2 (official)"
-    }
-  },
-  {
-    "id": "ssdnsj2bIlA",
-    "snippet": {
-      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
-      "channelTitle": "Alan Becker",
-      "description": "Follow Green\u0027s socials: YT: ‪@Greenzilla4 IG: https://www.instagram.com/greenzilla4real/ TikTok:‬ ...",
-      "publishedAt": "2024-11-09T13:01:06Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/ssdnsj2bIlA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/ssdnsj2bIlA/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/ssdnsj2bIlA/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "The Rise and Fall of Green – Influencer Arc (All Episodes)"
+      "title": "Quantos Balões fazem meu cachorro voar?"
     }
   },
   {
@@ -675,6 +540,141 @@
     }
   },
   {
+    "id": "SyR8QBDgDsw",
+    "snippet": {
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelTitle": "Alan Becker",
+      "description": "Idea \u0026 Writer: @its_me_skim Animation: @its_me_skim @n8sterAnimates @ARCpersona Sounds: ...",
+      "publishedAt": "2024-12-28T13:00:36Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/SyR8QBDgDsw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/SyR8QBDgDsw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/SyR8QBDgDsw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Angry Birds - An Actual Short"
+    }
+  },
+  {
+    "id": "2eHozBXlEpw",
+    "snippet": {
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelTitle": "Alan Becker",
+      "description": "Only available for 4 weeks! ▻ https://www.youtooz.com/collections/alan-becker The stick figure that started it all. ASK ME ...",
+      "publishedAt": "2024-12-14T13:00:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/2eHozBXlEpw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/2eHozBXlEpw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/2eHozBXlEpw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Victim - Animator vs. Animation 11"
+    }
+  },
+  {
+    "id": "H7XxsTlxbFQ",
+    "snippet": {
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelTitle": "Alan Becker",
+      "description": "Idea \u0026 Writer: @its_me_skim Animation: @Fordz @hous3776 Exceld @ablerai Sounds: @dan_loeb Music: Platinum101 ...",
+      "publishedAt": "2024-12-07T13:00:28Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/H7XxsTlxbFQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/H7XxsTlxbFQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/H7XxsTlxbFQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Yellow\u0026#39;s Speedrun - An Actual Short"
+    }
+  },
+  {
+    "id": "T1hLyXI5xY8",
+    "snippet": {
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelTitle": "Alan Becker",
+      "description": "All the vertical shorts from the past year! ASK ME ANYTHING! ▻ https://www.youtube.com/noogai89/join MERCH!",
+      "publishedAt": "2024-11-23T13:00:37Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/T1hLyXI5xY8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/T1hLyXI5xY8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/T1hLyXI5xY8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "An Actual Short Compilation - Season 2 (official)"
+    }
+  },
+  {
+    "id": "ssdnsj2bIlA",
+    "snippet": {
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelTitle": "Alan Becker",
+      "description": "Follow Green\u0027s socials: YT: ‪@Greenzilla4 IG: https://www.instagram.com/greenzilla4real/ TikTok:‬ ...",
+      "publishedAt": "2024-11-09T13:01:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ssdnsj2bIlA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ssdnsj2bIlA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ssdnsj2bIlA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "The Rise and Fall of Green – Influencer Arc (All Episodes)"
+    }
+  },
+  {
     "id": "V79nQ1mCUqc",
     "snippet": {
       "channelId": "UCicpVw2bZp330O9GdrBOmPA",
@@ -807,6 +807,141 @@
         }
       },
       "title": "Can\u0026#39;t even play Minecraft in Ohio 💀(part 11) #shorts #minecraft #ohio"
+    }
+  },
+  {
+    "id": "Cl4Ma9MJBYY",
+    "snippet": {
+      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "channelTitle": "Minecraft",
+      "description": "minecraft #shortsvideo #minecraftshorts #gaming #mobs #mobvariants #minecraftnews.",
+      "publishedAt": "2025-01-08T16:09:26Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Cl4Ma9MJBYY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Cl4Ma9MJBYY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Cl4Ma9MJBYY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "NEW MOB VARIANTS! 🐽"
+    }
+  },
+  {
+    "id": "epwwrYprobo",
+    "snippet": {
+      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "channelTitle": "Minecraft",
+      "description": "Sonic-boom into ANY world with this thrilling Add-On! Transform into Sonic, Knuckles, Tails, Amy and Shadow! Run at the speed ...",
+      "publishedAt": "2025-01-08T11:00:53Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/epwwrYprobo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/epwwrYprobo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/epwwrYprobo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Minecraft x Sonic - Add on"
+    }
+  },
+  {
+    "id": "FmF_c0yzB7w",
+    "snippet": {
+      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "channelTitle": "Minecraft",
+      "description": "minecraft #minecraftshorts #minecraftquiz #shortsvideo #findthedifference #gamingvideos #finderrors.",
+      "publishedAt": "2025-01-05T14:00:14Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/FmF_c0yzB7w/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/FmF_c0yzB7w/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/FmF_c0yzB7w/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "SPOT THE ERRORS"
+    }
+  },
+  {
+    "id": "Vcg8HjAj6dE",
+    "snippet": {
+      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "channelTitle": "Minecraft",
+      "description": "minecraft #shortsvideo #minecraftbuilding #minecraftshorts #ytshorts.",
+      "publishedAt": "2025-01-01T16:00:32Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Vcg8HjAj6dE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Vcg8HjAj6dE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Vcg8HjAj6dE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "REMEMBER YOUR FIRST NIGHT?"
+    }
+  },
+  {
+    "id": "2bZ6-_aQHg0",
+    "snippet": {
+      "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "channelTitle": "Minecraft",
+      "description": "Did we get up to any shenanigans in 2024? More than Vu remembers! In our final Minecraft Monthly episode of the year, we look ...",
+      "publishedAt": "2024-12-30T16:00:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/2bZ6-_aQHg0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/2bZ6-_aQHg0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/2bZ6-_aQHg0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "THANK YOU FOR AN AMAZING 2024 | MINECRAFT MONTHLY"
     }
   }
 ]
