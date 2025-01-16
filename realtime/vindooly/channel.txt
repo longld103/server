@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "id": "UC1sELGmy5jp5fQUugmuYlXQ",
+      "snippet": {
+        "country": "SE",
+        "customUrl": "@minecraft",
+        "description": "This is the official YouTube channel of Minecraft. We tell stories about the Minecraft Universe.\n\nESRB Rating: Everyone 10+ with Fantasy Violence",
+        "publishedAt": "2010-12-21T21:36:46Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/_DiGCcjGwJQAZ3zmlyB8TCYuA8O9tDJ9zGNysq5sR0rxwYb6SP5fW8cb3LbfcRwfui0m27oIhA=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/_DiGCcjGwJQAZ3zmlyB8TCYuA8O9tDJ9zGNysq5sR0rxwYb6SP5fW8cb3LbfcRwfui0m27oIhA=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_DiGCcjGwJQAZ3zmlyB8TCYuA8O9tDJ9zGNysq5sR0rxwYb6SP5fW8cb3LbfcRwfui0m27oIhA=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Minecraft"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "14100000",
+        "videoCount": 1089,
+        "viewCount": "2455150099"
+      }
+    },
+    {
+      "id": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+      "snippet": {
+        "country": "BR",
+        "customUrl": "@cadresplayer",
+        "description": "Minecraft channel focused on children's and teenagers' content, I hope you like it!\nCompre Produtos do Cadres, na minha Loja: https://www.curtaloja.com/marca/cadres.html\nBusiness Contact: comercial@agenciacurta.com\n*Vídeos as 09h, não perca!!!",
+        "publishedAt": "2019-12-08T21:28:05.206654Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nsuJhThcWMRh8-r3KYX1tB5anVAqpKlzN-oyQYLn27NA=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nsuJhThcWMRh8-r3KYX1tB5anVAqpKlzN-oyQYLn27NA=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nsuJhThcWMRh8-r3KYX1tB5anVAqpKlzN-oyQYLn27NA=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Cadres"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "11200000",
+        "videoCount": 2075,
+        "viewCount": "3764417735"
+      }
+    },
+    {
+      "id": "UCicpVw2bZp330O9GdrBOmPA",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@psd1gamingshorts",
+        "description": "Best Minecraft Shorts Channel!\n\nBusiness Email: psd1business@gmail.com\n\nHYPIXEL-629798\n\nMy Minecraft Java Edition In-Game Name: 1PSD1\n",
+        "publishedAt": "2021-09-19T21:46:44.075685Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/z2tw3hmW8__7ZKSVfHkGmCnCGTy9sWoFPGjFdZnaCt_krI0ByXTUy6zraHf6SnrhwDPBAPZUXRQ=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/z2tw3hmW8__7ZKSVfHkGmCnCGTy9sWoFPGjFdZnaCt_krI0ByXTUy6zraHf6SnrhwDPBAPZUXRQ=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/z2tw3hmW8__7ZKSVfHkGmCnCGTy9sWoFPGjFdZnaCt_krI0ByXTUy6zraHf6SnrhwDPBAPZUXRQ=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "PSD1 Gaming Shorts"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "2760000",
+        "videoCount": 170,
+        "viewCount": "893228615"
+      }
+    },
+    {
+      "id": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "snippet": {
+        "country": "US",
+        "customUrl": "@alanbecker",
+        "description": "Business Inquiries:Alan.Becker@InTheBlackMedia.com\n\nMy name is Alan Becker! Maybe you saw my \"Animator vs. Animation\" when it became a viral video in 2006. I make stick figure animations that take place on a computer desktop screen. There is no dialogue, but a lot of humor and emotion. Hope you enjoy!\n\nCheck out my other channels too! I teach how to animate, I run a Minecraft server, and I play games!\n\nInteresting in working for me as an animator? Apply below!\n",
+        "publishedAt": "2006-07-24T20:46:18Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_m2cWJR2ufhrX0NpQWi7_UJriTaduV-vRDS4xx5vp1hLPk=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_m2cWJR2ufhrX0NpQWi7_UJriTaduV-vRDS4xx5vp1hLPk=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_m2cWJR2ufhrX0NpQWi7_UJriTaduV-vRDS4xx5vp1hLPk=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Alan Becker"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "29800000",
+        "videoCount": 221,
+        "viewCount": "7817475883"
+      }
+    },
+    {
+      "id": "UCj4hfQEWcGtF08SLEZCZc5Q",
+      "snippet": {
+        "country": "AU",
+        "customUrl": "@vindooly",
+        "description": "If it ain't chocolate milk I don't want it. \nComedy / IRL: http://youtube.com/@vinRL\n\nSend me anything: \nPO Box 350, St Albans, VIC, Australia 3021 \n",
+        "publishedAt": "2009-11-11T11:39:20Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/AStEc_aONf41Af_L-CqonJVS3P3R4al_xPNrlzVzZehM0O5L-ji5uW7A47au0yWihydAh0oCQb4=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/AStEc_aONf41Af_L-CqonJVS3P3R4al_xPNrlzVzZehM0O5L-ji5uW7A47au0yWihydAh0oCQb4=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/AStEc_aONf41Af_L-CqonJVS3P3R4al_xPNrlzVzZehM0O5L-ji5uW7A47au0yWihydAh0oCQb4=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Vindooly"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "6050000",
+        "videoCount": 884,
+        "viewCount": "3984506972"
+      }
+    },
+    {
+      "id": "UCtu8cQFJzQOzZDWL9W7Z7lA",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@froppycraft",
+        "description": "SUBSCRIBE FOR AN EMERALD!",
+        "publishedAt": "2022-09-13T06:08:55.03489Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ht0dCSBCjmZKWCTaN0C_2UbzFG_bIb24UjZUMnocT2iRpccmN1WhhCar0PqrRPB__fzKWtaR6Q=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ht0dCSBCjmZKWCTaN0C_2UbzFG_bIb24UjZUMnocT2iRpccmN1WhhCar0PqrRPB__fzKWtaR6Q=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ht0dCSBCjmZKWCTaN0C_2UbzFG_bIb24UjZUMnocT2iRpccmN1WhhCar0PqrRPB__fzKWtaR6Q=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Froppy Craft"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "2270000",
+        "videoCount": 843,
+        "viewCount": "518979612"
+      }
+    }
+  ]
+}
