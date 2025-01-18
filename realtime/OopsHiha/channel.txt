@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "id": "UCkmd-jv9A3j1OUg6qhNwXHQ",
+      "snippet": {
+        "country": "VN",
+        "customUrl": "@huynoob",
+        "description": "Xin chào bạn mình là chủ sở hữu kênh HUY NOOB đây, chào mừng bạn đã tới kênh của mình.\nNếu các bạn thích kênh mình thì hãy ĐĂNG KÝ cho mình, nếu thích hơn nữa thì nhớ bấm LIKE và SHARE nha !!!\n\nKênh mình chủ yếu làm về GAME(minecraft)  nếu các bạn nào thích mình làm những thứ khác nữa thì hãy bình luận và góp ý kiến nhé !!!\n\n-Liên hệ quảng cáo: partners@kydstudio.com\n\nTham Gia Trang Facebook: https://bit.ly/2IB03wk\nFacebook Cá Nhân: https://www.facebook.com/huynoobcute\n──────╔╗──────────╔╗\n──────║║──────────║║\n╔══╦╗╔╣╚═╦══╦══╦═╦╣╚═╦══╗\n║══╣║║║╔╗║══╣╔═╣╔╬╣╔╗║║═╣\n╠══║╚╝║╚╝╠══║╚═╣║║║╚╝║║═╣\n╚══╩══╩══╩══╩══╩╝╚╩══╩══╝\n╔╗─────────────────╔╗\n║║─────────────────║║\n║╚═╦╗╔╦╗─╔╦═╗╔══╦══╣╚═╗\n║╔╗║║║║║─║║╔╗╣╔╗║╔╗║╔╗║\n║║║║╚╝║╚═╝║║║║╚╝║╚╝║╚╝║\n╚╝╚╩══╩═╗╔╩╝╚╩══╩══╩══╝\n──────╔═╝║\n──────╚══╝",
+        "publishedAt": "2017-07-11T02:11:08Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mbe2KkOLizZ3_C3xed1azScS2B5yksgpwOWXieoWq7Ow=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mbe2KkOLizZ3_C3xed1azScS2B5yksgpwOWXieoWq7Ow=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mbe2KkOLizZ3_C3xed1azScS2B5yksgpwOWXieoWq7Ow=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Huy Noob"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "3080000",
+        "videoCount": 1596,
+        "viewCount": "664307354"
+      }
+    },
+    {
+      "id": "UCtT5uP2WIGxyP0MYCC_ZHtQ",
+      "snippet": {
+        "country": "VN",
+        "customUrl": "@oopshiha",
+        "description": "XIN CHÀO! TÔI LÀ HIHA LÀ 1 THÀNH VIÊN CỦA OOPS GANG ĐÂY , KÊNH CỦA TÔI QUAY VỀ GAME VÀ CÓ 1 TÍ VLOG NHẸ .\nFacebook cá nhân của Hiha : https://www.facebook.com/HihaChobi\nFanpage : https://www.facebook.com/HihaDauHong/\n- Liên hệ hợp tác và quảng cáo : \nGmail : partners@kydstudio.com\n\n",
+        "publishedAt": "2013-04-12T02:16:37Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/tHxDVCQjnOD072brL0i67_CqzOI6x9HlHX-WaDgS8myTL2-0gr_XJhGjoZAU3-PVJH6ky5zk=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/tHxDVCQjnOD072brL0i67_CqzOI6x9HlHX-WaDgS8myTL2-0gr_XJhGjoZAU3-PVJH6ky5zk=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/tHxDVCQjnOD072brL0i67_CqzOI6x9HlHX-WaDgS8myTL2-0gr_XJhGjoZAU3-PVJH6ky5zk=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Oops Hiha"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "5590000",
+        "videoCount": 2367,
+        "viewCount": "3218767014"
+      }
+    },
+    {
+      "id": "UCFgdBcaVqROiBTiFlHF0SSw",
+      "snippet": {
+        "country": "VN",
+        "customUrl": "@sauriengtv",
+        "description": "Hellluuuu mình là Sầu Riêng Tv đâyyyyyyyy, Đây là kênh chuyên về Minecraft và mình sẽ quay những video thật thú vị trên này nên các bạn ủng hộ mình nhéeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee\nKênh chính :  @SauRiengTV  \nKênh Phụ :  @suritv293  \nKênh shorts :  @sauriengshorts557  \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n📰 Liên hệ hợp tác và quảng cáo \n► Gmail : partners@kydstudio.com\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nĐăng kí danh sách THÀNH VIÊN SINH TỐ TEAM\n @OopsHiha  \n @sinhto.yummie  \n @Sinhto.TogaTV  \n @NabeeST  \n @JackVNFYcraftVN  \n @HuyNoob  \n @Sinhto.hachitv  \n @OopsZeros  \n @SonDuReacts  \n @STSuperNgao  \n @Kemy102  \n @sinhtoteam  \n @bietdoisinhto  \n @BuronKanzakii  \n @channymc  \n @sinhtoshorts3935  \n @OopsMazk  \n @Sinhto.tauhutv  \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n💎Cảm ơn các bạn đã xem video nhớ Like và Đăng Kí ủng hộ mình nhé . Cám ơn các bạn 😘\n#sauriengtv #bietdoisinhto #sinhtoteam\n",
+        "publishedAt": "2020-06-02T17:10:39.412837Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nHbO__SIPuV0nPHQL5rdyT-OdoOygVdcHqhE19oNujWuU=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nHbO__SIPuV0nPHQL5rdyT-OdoOygVdcHqhE19oNujWuU=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nHbO__SIPuV0nPHQL5rdyT-OdoOygVdcHqhE19oNujWuU=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Sầu Riêng TV"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "1730000",
+        "videoCount": 1233,
+        "viewCount": "342466362"
+      }
+    },
+    {
+      "id": "UCsUR-6Ji-EH2ukHhz-TCLOg",
+      "snippet": {
+        "country": "VN",
+        "customUrl": "@sinhto.hachitv",
+        "description": "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n📌Đăng ký kênh Hachi TV : https://bit.ly/31I9JBB​\n📌 Facebook cá nhân : https://www.facebook.com/zedgamer12​\n📌 Group Discord : https://discord.gg/PBXWK6eK​\n➖🔔Subsribe & nhấn chuông để nhận nhiều video từ Mình🔔➖\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n📰 Liên hệ hợp tác và quảng cáo \n► Gmail : partners@kydstudio.com\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n♦️ĐĂNG KÝ CHO SINH TỐ TEAM ♦️  : \n► 💟 Oops Hiha : http://bit.ly/Hihaaa​\n► 🌀 Yummie TV : https://bit.ly/2YLeHLA​\n► 🐔 Tô Gà TV: https://bit.ly/3j3zGSo​\n► 💙 HuyNoob : https://bit.ly/3kQAoUk​\n► 🔴 Oops Zeros : http://bit.ly/OopsZeros​\n► 💚 Sầu Riêng TV : https://bit.ly/2Y6AhLz​\n► 💜 Nabee : https://bit.ly/3v6lkYo\n► ❤️ Hachi TV : https://bit.ly/3nnAS6p​\n► 🏵️ Hiha & Yummie Vlog : https://bit.ly/2ZQqCJU​\n► 🍄 Biệt đội Sinh Tố LiveStreams : https://bit.ly/39jRIwi​\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
+        "publishedAt": "2020-10-06T13:15:33.049328Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_klnwG4JiXEPP2dCitPsekI3cupkWDmS5jvWOOZN5B3wsk=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_klnwG4JiXEPP2dCitPsekI3cupkWDmS5jvWOOZN5B3wsk=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_klnwG4JiXEPP2dCitPsekI3cupkWDmS5jvWOOZN5B3wsk=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Hachi TV"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "991000",
+        "videoCount": 966,
+        "viewCount": "194074092"
+      }
+    },
+    {
+      "id": "UCJMTpnMz7VimxkL-Tbvji6g",
+      "snippet": {
+        "country": "VN",
+        "customUrl": "@stsuperngao",
+        "description": "CHÀO TẤT CẢ CÁC BẠN ! | MÌNH LÀ NGÁO NHƯNG THÔNG MINH LÀ 1 THÀNH VIÊN CỦA TEAM SINH TỐ, KÊNH CỦA MÌNH SẼ CHUYÊN LÀM VIDEO VỀ MINECRAFT !!!\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n📌 Facebook Cá Nhân Của Ngáo : https://www.facebook.com/profile.php?id=100024078937491\n📌 Link Donate : https://playerduo.com/superngao\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\"📰 Liên hệ hợp tác và quảng cáo:\n► Gmail : partners@kydstudio.com\"\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n➖🔔Subsribe & nhấn chuông để nhận nhiều video từ Mình🔔➖\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n",
+        "publishedAt": "2018-01-21T01:54:07Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/zcGlmFZ6U0ldqcI7oOCKJl0jdLEtaCbq7TDBV8KkMKKmPgXTKeoSl8OnkESYvox-VVWHP1LA=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/zcGlmFZ6U0ldqcI7oOCKJl0jdLEtaCbq7TDBV8KkMKKmPgXTKeoSl8OnkESYvox-VVWHP1LA=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/zcGlmFZ6U0ldqcI7oOCKJl0jdLEtaCbq7TDBV8KkMKKmPgXTKeoSl8OnkESYvox-VVWHP1LA=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Super Ngáo"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "380000",
+        "videoCount": 226,
+        "viewCount": "29153218"
+      }
+    },
+    {
+      "id": "UCyBhQGZhXQ9sAxbkxi8DI0g",
+      "snippet": {
+        "country": "VN",
+        "customUrl": "@sinhto.yummie",
+        "description": "HELLO ! XIN CHÀO TẤT CẢ CÁC BẠN MÌNH LÀ YUMMIE ĐÂY , CHANNEL CỦA MÌNH LÀM VỀ NỘI DUNG MINECRAFT , MINI WORLD , CŨNG NHƯ LÀ VLOGs , Mong các bạn ủng hộ mình \nFacebook : https://www.facebook.com/ngan.hua.79",
+        "publishedAt": "2017-04-29T03:11:41Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mfu4byCozOBJglgs-oQjIYUBHc1_lXLQxer0M2F5k8dIc=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mfu4byCozOBJglgs-oQjIYUBHc1_lXLQxer0M2F5k8dIc=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mfu4byCozOBJglgs-oQjIYUBHc1_lXLQxer0M2F5k8dIc=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "YUMMIE TV"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "2860000",
+        "videoCount": 1155,
+        "viewCount": "1193868005"
+      }
+    }
+  ]
+}
