@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "id": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "snippet": {
+        "customUrl": "@jianhao",
+        "description": "I'm JianHao Tan. I make 10 Types of People.\nFor business enquiries, contact me directly at business@thejianhaotan.com \n\nYou can also find me at:\nInstagram: http://www.instagram.com/thejianhaotan\n\nI love you HaoNation",
+        "publishedAt": "2010-09-11T16:37:14Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l1haX7dKXiwSkhVk1EKb_vFLfJBzoFLXU16sy502Sdg-0=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l1haX7dKXiwSkhVk1EKb_vFLfJBzoFLXU16sy502Sdg-0=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l1haX7dKXiwSkhVk1EKb_vFLfJBzoFLXU16sy502Sdg-0=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "JianHao Tan"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "7720000",
+        "videoCount": 1625,
+        "viewCount": "3710345050"
+      }
+    },
+    {
+      "id": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "snippet": {
+        "country": "US",
+        "customUrl": "@alanchikinchow",
+        "description": "Welcome to Alan’s Universe! 🌎\n\nMy mission is to inspire the hero within each of us.\n\n📩 alan@alanchikinchow.com",
+        "publishedAt": "2020-02-03T21:46:56.654258Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/QYrADJNN_BMJSYm0LkqAs13ehWHjtxITE7kSBPsEIB_I_VFeDvujpH4aJfHfJO3FsFMsYa6Oig=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/QYrADJNN_BMJSYm0LkqAs13ehWHjtxITE7kSBPsEIB_I_VFeDvujpH4aJfHfJO3FsFMsYa6Oig=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QYrADJNN_BMJSYm0LkqAs13ehWHjtxITE7kSBPsEIB_I_VFeDvujpH4aJfHfJO3FsFMsYa6Oig=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Alan Chikin Chow"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "79000000",
+        "videoCount": 1413,
+        "viewCount": "51211854553"
+      }
+    },
+    {
+      "id": "UCTjWJtZPa5apmfxHpTn-Zfg",
+      "snippet": {
+        "country": "SG",
+        "customUrl": "@teamtitanshorts",
+        "description": "Welcome to Team Titan Clips: where we share some of our favourite moments from your favourite Titan Academy Videos!\n\nFor business enquiries, please send an email to kexin@titandigitalmedia.com\nwww.titandigitalmedia.com\n",
+        "publishedAt": "2020-03-11T09:55:05.895305Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/MvzhbTwZuDIQdjWYslz7GUpINWCGueyjoSSguDkTNc85rJz_EglBL4Tq6l_Yw0j7gUF3mAGY1g=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/MvzhbTwZuDIQdjWYslz7GUpINWCGueyjoSSguDkTNc85rJz_EglBL4Tq6l_Yw0j7gUF3mAGY1g=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MvzhbTwZuDIQdjWYslz7GUpINWCGueyjoSSguDkTNc85rJz_EglBL4Tq6l_Yw0j7gUF3mAGY1g=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "TEAM TITAN SHORTS"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "122000",
+        "videoCount": 1248,
+        "viewCount": "51352244"
+      }
+    },
+    {
+      "id": "UCxpIZzbZjuwvLW7YlvuiuXw",
+      "snippet": {
+        "country": "US",
+        "customUrl": "@jianhaotantopvideos",
+        "description": "",
+        "publishedAt": "2023-10-19T22:26:28.948169Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/CzZrMKotQzQl5WQt9Pf_113zE94FqejcywGdWM4laBdJnSNbHpw9YTDt4C-KsufqepNm5KI-=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/CzZrMKotQzQl5WQt9Pf_113zE94FqejcywGdWM4laBdJnSNbHpw9YTDt4C-KsufqepNm5KI-=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CzZrMKotQzQl5WQt9Pf_113zE94FqejcywGdWM4laBdJnSNbHpw9YTDt4C-KsufqepNm5KI-=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "JianHao Tan Top Videos"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "88900",
+        "videoCount": 195,
+        "viewCount": "30675247"
+      }
+    },
+    {
+      "id": "UCYvoJx2JVTE6kpEAtfXpp3w",
+      "snippet": {
+        "country": "SG",
+        "customUrl": "@teamtitanofficial",
+        "description": "We are TEAM TITAN formed by group of young, vibrant & energetic individuals. From skits to challenges, watch as we showcase the different personalities of the talents here at Titan Digital Media.\n\nSubscribe NOW!",
+        "publishedAt": "2019-08-15T21:06:17Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/JOytiscQ6eWUyBfYe6o3qly9C1UwJWn889LsmsDtC0XCL6qar5-4DJhvr19B5Gj5m-lIBuY2JQ=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/JOytiscQ6eWUyBfYe6o3qly9C1UwJWn889LsmsDtC0XCL6qar5-4DJhvr19B5Gj5m-lIBuY2JQ=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/JOytiscQ6eWUyBfYe6o3qly9C1UwJWn889LsmsDtC0XCL6qar5-4DJhvr19B5Gj5m-lIBuY2JQ=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "TEAM TITAN"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "544000",
+        "videoCount": 510,
+        "viewCount": "163900479"
+      }
+    },
+    {
+      "id": "UCmufVNjbJOaiLGu3fNPGHSQ",
+      "snippet": {
+        "country": "SG",
+        "customUrl": "@titangamersofficial",
+        "description": "Formerly known as NOTGOODGAMERS, we are now TITAN GAMERS. Still the top gaming channel in Singapore bringing you the best Gaming Content that we could offer.\n\nTo advertise with us please send an email to gamers@titandigitalmedia.com\n\nFor investment and acquisition of Titan Gamers, please contact gamers@titandigitalmedia.com",
+        "publishedAt": "2010-12-27T17:53:45Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/kY5-0iPahySpbBDcQnnc7Hrt3qC9_YGyKaHaoeb5m9SuaI-uZRuEx0f09b5OxRF_qfbrZ27OHQ=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/kY5-0iPahySpbBDcQnnc7Hrt3qC9_YGyKaHaoeb5m9SuaI-uZRuEx0f09b5OxRF_qfbrZ27OHQ=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kY5-0iPahySpbBDcQnnc7Hrt3qC9_YGyKaHaoeb5m9SuaI-uZRuEx0f09b5OxRF_qfbrZ27OHQ=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "TITAN GAMERS"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "474000",
+        "videoCount": 963,
+        "viewCount": "72703107"
+      }
+    }
+  ]
+}
