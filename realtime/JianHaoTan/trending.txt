@@ -1,1489 +1,1354 @@
 {
   "items": [
-    {
-      "id": "kwKFv_aEAnw",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-15T13:01:04Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/kwKFv_aEAnw/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/kwKFv_aEAnw/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/kwKFv_aEAnw/mqdefault.jpg",
-            "width": 320
-          }
+  {
+    "id": "ukPM6QHot8A",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The students of Titan Academy take on the Dalgona Challenge. Who will fail? Who will succeed?[#Titanacademy130] Follow us ...",
+      "publishedAt": "2025-02-09T13:00:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ukPM6QHot8A/hqdefault.jpg",
+          "width": 480
         },
-        "title": "What it&#39;s like taking photos if school was Squid Game 😯"
-      }
-    },
-    {
-      "id": "RAijQ75GFVA",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-15T10:45:02Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/RAijQ75GFVA/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/RAijQ75GFVA/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/RAijQ75GFVA/mqdefault.jpg",
-            "width": 320
-          }
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ukPM6QHot8A/default.jpg",
+          "width": 120
         },
-        "title": "Who can peel the perfect egg? 🤔"
-      }
-    },
-    {
-      "id": "XBjVrkgGE-I",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-14T13:00:45Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/XBjVrkgGE-I/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/XBjVrkgGE-I/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/XBjVrkgGE-I/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "What happens when you get caught talking in Squid Game 😖"
-      }
-    },
-    {
-      "id": "-44tYKsDY88",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-14T10:45:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/-44tYKsDY88/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/-44tYKsDY88/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/-44tYKsDY88/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Who has the fastest reaction? 🤔"
-      }
-    },
-    {
-      "id": "E9eooSIPRK4",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-13T10:45:01Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/E9eooSIPRK4/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/E9eooSIPRK4/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/E9eooSIPRK4/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Who will win in Ddakji? 🤔"
-      }
-    },
-    {
-      "id": "_9yZ-7w-DOc",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-12T13:00:54Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/_9yZ-7w-DOc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/_9yZ-7w-DOc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/_9yZ-7w-DOc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Is Tasha secretly working for The Organisation? 😱"
-      }
-    },
-    {
-      "id": "RVqXhjX3-8s",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-12T10:45:03Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/RVqXhjX3-8s/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/RVqXhjX3-8s/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/RVqXhjX3-8s/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Whoever drops it first, loses! 👎"
-      }
-    },
-    {
-      "id": "AHr876XH3Eo",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-11T13:00:20Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/AHr876XH3Eo/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/AHr876XH3Eo/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/AHr876XH3Eo/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "JianHao competes a round of Russian roulette with Mr Alan 😱"
-      }
-    },
-    {
-      "id": "ReUmq7sOgT0",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-11T10:45:02Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/ReUmq7sOgT0/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/ReUmq7sOgT0/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/ReUmq7sOgT0/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "JianHao helps Denise win the Squid Game 😱"
-      }
-    },
-    {
-      "id": "JWbToy7cr7M",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-10T13:00:22Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/JWbToy7cr7M/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/JWbToy7cr7M/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/JWbToy7cr7M/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "What happens when you sabotage people in Squid Game 😣"
-      }
-    },
-    {
-      "id": "A-Yy7JeoJxs",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-10T10:45:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/A-Yy7JeoJxs/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/A-Yy7JeoJxs/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/A-Yy7JeoJxs/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "POV: You watched the wrong Squid Game 😰"
-      }
-    },
-    {
-      "id": "ukPM6QHot8A",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "The students of Titan Academy take on the Dalgona Challenge. Who will fail? Who will succeed?[#Titanacademy130] Follow us ...",
-        "publishedAt": "2025-02-09T13:00:05Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/ukPM6QHot8A/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/ukPM6QHot8A/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/ukPM6QHot8A/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "13 Types of People in Squid Game (Dalgona Challenge)"
-      }
-    },
-    {
-      "id": "-73gHEBZmWw",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-07T13:00:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/-73gHEBZmWw/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/-73gHEBZmWw/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/-73gHEBZmWw/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "When your crush saves you in Squid Game 😱"
-      }
-    },
-    {
-      "id": "9vmm6IYTh0Q",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-07T10:45:01Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/9vmm6IYTh0Q/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/9vmm6IYTh0Q/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/9vmm6IYTh0Q/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "How many cold things can you name? 🤔"
-      }
-    },
-    {
-      "id": "NQJmgaQmld4",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-06T13:00:25Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/NQJmgaQmld4/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/NQJmgaQmld4/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/NQJmgaQmld4/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Every unlucky player in Squid Game 😖"
-      }
-    },
-    {
-      "id": "7FTsVeqNpVw",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-06T10:45:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/7FTsVeqNpVw/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/7FTsVeqNpVw/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/7FTsVeqNpVw/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Can you guess whose cry it is? 😢"
-      }
-    },
-    {
-      "id": "ki7uRGl_lrg",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-05T13:01:07Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/ki7uRGl_lrg/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/ki7uRGl_lrg/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/ki7uRGl_lrg/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "How to make it pass the finish line in Squid Game 😯"
-      }
-    },
-    {
-      "id": "9FU7iSRISps",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-04T10:45:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/9FU7iSRISps/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/9FU7iSRISps/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/9FU7iSRISps/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "When you try to find ways to win the Squid Game 🤔"
-      }
-    },
-    {
-      "id": "WtxJjDET10s",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-02T11:34:44Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/WtxJjDET10s/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/WtxJjDET10s/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/WtxJjDET10s/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "When your friend betrays you in Squid Game 😓"
-      }
-    },
-    {
-      "id": "Dt4EkMxGwqY",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-02-01T11:18:33Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/Dt4EkMxGwqY/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/Dt4EkMxGwqY/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/Dt4EkMxGwqY/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "When you thought you were going to win the Squid Game 😣"
-      }
-    },
-    {
-      "id": "a66CfzKOCmc",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-30T11:56:48Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/a66CfzKOCmc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/a66CfzKOCmc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/a66CfzKOCmc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "When you&#39;re confused with how to play the Squid Game 😣"
-      }
-    },
-    {
-      "id": "84mhAirc6HY",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-29T10:45:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/84mhAirc6HY/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/84mhAirc6HY/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/84mhAirc6HY/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Who can stay in the box? 🤔"
-      }
-    },
-    {
-      "id": "NAnE7DtY7A4",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-28T10:45:01Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/NAnE7DtY7A4/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/NAnE7DtY7A4/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/NAnE7DtY7A4/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Who will win in Ddakji? 🤔"
-      }
-    },
-    {
-      "id": "2AEgSuvW2fc",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-27T10:45:00Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/2AEgSuvW2fc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/2AEgSuvW2fc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/2AEgSuvW2fc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Who can stay in the box? 🤔"
-      }
-    },
-    {
-      "id": "7XSmYIKxfKM",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "What if school life was squid game? [#Titanacademy129] Follow us on Instagram: http://www.instagram.com/thejianhaotan/ ...",
-        "publishedAt": "2025-01-26T13:00:02Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/7XSmYIKxfKM/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/7XSmYIKxfKM/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/7XSmYIKxfKM/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "If School Life was Squid Game"
-      }
-    },
-    {
-      "id": "qCV7K43BX8g",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-23T12:02:50Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/qCV7K43BX8g/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/qCV7K43BX8g/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/qCV7K43BX8g/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "What happens after you watch Squid Game 😖"
-      }
-    },
-    {
-      "id": "qP2cV93HTXg",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-22T10:59:46Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/qP2cV93HTXg/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/qP2cV93HTXg/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/qP2cV93HTXg/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "When you thought you could have a free period 😥"
-      }
-    },
-    {
-      "id": "uogwWFVym3s",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-18T11:31:29Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/uogwWFVym3s/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/uogwWFVym3s/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/uogwWFVym3s/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "How to stand out in a presidential election 😯"
-      }
-    },
-    {
-      "id": "JlOOcAYWsCc",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "",
-        "publishedAt": "2025-01-15T10:45:01Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/JlOOcAYWsCc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/JlOOcAYWsCc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/JlOOcAYWsCc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "What happens when you have stage fright 😖"
-      }
-    },
-    {
-      "id": "K1GFobkV9yQ",
-      "snippet": {
-        "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
-        "channelTitle": "JianHao Tan",
-        "description": "The organization forces the students to play Red Light, Green Light from Squid Game. Who will win? Who will lose?",
-        "publishedAt": "2025-01-12T13:00:03Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/K1GFobkV9yQ/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/K1GFobkV9yQ/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/K1GFobkV9yQ/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "14 Types of People in Squid Game"
-      }
-    },
-    {
-      "id": "2g8mlrsvAG8",
-      "snippet": {
-        "channelId": "UCxpIZzbZjuwvLW7YlvuiuXw",
-        "channelTitle": "JianHao Tan Top Videos",
-        "description": "Don't forget to SUBSCRIBE to my channel by clicking here ...",
-        "publishedAt": "2025-02-11T17:00:03Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/2g8mlrsvAG8/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/2g8mlrsvAG8/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/2g8mlrsvAG8/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Prom Night Expectations vs Reality – The Ultimate Letdown! 🎉😢 | JianHao Tan"
-      }
-    },
-    {
-      "id": "EFc9I8mjKuQ",
-      "snippet": {
-        "channelId": "UCxpIZzbZjuwvLW7YlvuiuXw",
-        "channelTitle": "JianHao Tan Top Videos",
-        "description": "Don't forget to SUBSCRIBE to my channel by clicking here ...",
-        "publishedAt": "2025-02-08T17:00:21Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/EFc9I8mjKuQ/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/EFc9I8mjKuQ/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/EFc9I8mjKuQ/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Talent Show Fails and Wins – Students Showcase Their Skills! 🎤👏 | JianHao Tan"
-      }
-    },
-    {
-      "id": "pNOrUYyPOmc",
-      "snippet": {
-        "channelId": "UCxpIZzbZjuwvLW7YlvuiuXw",
-        "channelTitle": "JianHao Tan Top Videos",
-        "description": "Don't forget to SUBSCRIBE to my channel by clicking here ...",
-        "publishedAt": "2025-02-04T17:00:59Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/pNOrUYyPOmc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/pNOrUYyPOmc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/pNOrUYyPOmc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "School Field Trip Disasters – What Could Possibly Go Wrong? 🚌😬 | JianHao Tan"
-      }
-    },
-    {
-      "id": "m54BTuM1bTs",
-      "snippet": {
-        "channelId": "UCxpIZzbZjuwvLW7YlvuiuXw",
-        "channelTitle": "JianHao Tan Top Videos",
-        "description": "Don't forget to SUBSCRIBE to my channel by clicking here ...",
-        "publishedAt": "2025-02-01T17:00:47Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/m54BTuM1bTs/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/m54BTuM1bTs/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/m54BTuM1bTs/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Study Techniques That Actually Work - Students&#39; Secret Strategies! | JianHao Tan"
-      }
-    },
-    {
-      "id": "d_eAxMJiGz0",
-      "snippet": {
-        "channelId": "UCxpIZzbZjuwvLW7YlvuiuXw",
-        "channelTitle": "JianHao Tan Top Videos",
-        "description": "Don't forget to SUBSCRIBE to my channel by clicking here ...",
-        "publishedAt": "2025-01-28T17:00:44Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/d_eAxMJiGz0/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/d_eAxMJiGz0/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/d_eAxMJiGz0/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Cheating in Exams Gone Wrong – Caught Red-Handed! 🚨✋ | JianHao Tan"
-      }
-    },
-    {
-      "id": "2DJA6ZamLKE",
-      "snippet": {
-        "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
-        "channelTitle": "Alan Chikin Chow",
-        "description": "",
-        "publishedAt": "2025-02-15T13:30:04Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/2DJA6ZamLKE/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/2DJA6ZamLKE/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/2DJA6ZamLKE/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Girls VS Boys Prank War 👊"
-      }
-    },
-    {
-      "id": "pN_kCx9bSAA",
-      "snippet": {
-        "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
-        "channelTitle": "Alan Chikin Chow",
-        "description": "Watch our latest episode ➡️ https://youtu.be/J265gwdCcy8 Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
-        "publishedAt": "2025-02-15T13:00:06Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/pN_kCx9bSAA/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/pN_kCx9bSAA/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/pN_kCx9bSAA/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Boys vs Girls: Control The School | Alan’s Universe"
-      }
-    },
-    {
-      "id": "9kYew-41Bk0",
-      "snippet": {
-        "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
-        "channelTitle": "Alan Chikin Chow",
-        "description": "",
-        "publishedAt": "2025-02-14T13:00:22Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/9kYew-41Bk0/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/9kYew-41Bk0/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/9kYew-41Bk0/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "BOYS VS GIRLS EPISODE INCOMING 🚨"
-      }
-    },
-    {
-      "id": "Hhc9MxxV498",
-      "snippet": {
-        "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
-        "channelTitle": "Alan Chikin Chow",
-        "description": "",
-        "publishedAt": "2025-02-12T13:00:19Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/Hhc9MxxV498/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/Hhc9MxxV498/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/Hhc9MxxV498/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "YES or NO Challenge"
-      }
-    },
-    {
-      "id": "hOVgozlb670",
-      "snippet": {
-        "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
-        "channelTitle": "Alan Chikin Chow",
-        "description": "",
-        "publishedAt": "2025-02-11T13:00:59Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/hOVgozlb670/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/hOVgozlb670/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/hOVgozlb670/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "3 Boys Propose to 1 Girl 😱"
-      }
-    },
-    {
-      "id": "lyY1ZNwYrWQ",
-      "snippet": {
-        "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
-        "channelTitle": "TEAM TITAN SHORTS",
-        "description": "Subscribe to JianHao's channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
-        "publishedAt": "2025-02-14T12:01:15Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/lyY1ZNwYrWQ/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/lyY1ZNwYrWQ/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/lyY1ZNwYrWQ/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Relatable School Drawing TikTok Challenges of 2025"
-      }
-    },
-    {
-      "id": "K2WqOHnLM4o",
-      "snippet": {
-        "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
-        "channelTitle": "TEAM TITAN SHORTS",
-        "description": "Subscribe to JianHao's channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
-        "publishedAt": "2025-02-12T12:00:33Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/K2WqOHnLM4o/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/K2WqOHnLM4o/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/K2WqOHnLM4o/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Relatable School TikiTok Guessing Games and Challenges of 2025"
-      }
-    },
-    {
-      "id": "KwT2LD5w6aE",
-      "snippet": {
-        "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
-        "channelTitle": "TEAM TITAN SHORTS",
-        "description": "Subscribe to JianHao's channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
-        "publishedAt": "2025-02-07T12:00:26Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/KwT2LD5w6aE/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/KwT2LD5w6aE/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/KwT2LD5w6aE/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Relatable Latest School TikTok Trends in 2025"
-      }
-    },
-    {
-      "id": "_IccUKnDn4E",
-      "snippet": {
-        "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
-        "channelTitle": "TEAM TITAN SHORTS",
-        "description": "Subscribe to JianHao's channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
-        "publishedAt": "2025-01-24T12:00:58Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/_IccUKnDn4E/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/_IccUKnDn4E/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/_IccUKnDn4E/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Relatable Latest School TikTok Challenges in 2025"
-      }
-    },
-    {
-      "id": "j9BrlFdAmug",
-      "snippet": {
-        "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
-        "channelTitle": "TEAM TITAN SHORTS",
-        "description": "Subscribe to JianHao's channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
-        "publishedAt": "2025-01-03T12:00:58Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/j9BrlFdAmug/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/j9BrlFdAmug/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/j9BrlFdAmug/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Relatable Latest School TikToks in 2025"
-      }
-    },
-    {
-      "id": "-O32aCgwSoQ",
-      "snippet": {
-        "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
-        "channelTitle": "TEAM TITAN",
-        "description": "",
-        "publishedAt": "2024-12-27T07:22:48Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/-O32aCgwSoQ/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/-O32aCgwSoQ/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/-O32aCgwSoQ/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "We bought 2 boxes of unclaimed packages and THIS WAS WHAT HAPPENED 😱"
-      }
-    },
-    {
-      "id": "BlJPnyRoLrI",
-      "snippet": {
-        "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
-        "channelTitle": "TEAM TITAN",
-        "description": "",
-        "publishedAt": "2024-11-04T10:41:25Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/BlJPnyRoLrI/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/BlJPnyRoLrI/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/BlJPnyRoLrI/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Can you guess the Singlish words? 🤔🇸🇬"
-      }
-    },
-    {
-      "id": "YYrLUBzwhJ4",
-      "snippet": {
-        "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
-        "channelTitle": "TEAM TITAN",
-        "description": "",
-        "publishedAt": "2024-10-23T04:41:52Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/YYrLUBzwhJ4/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/YYrLUBzwhJ4/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/YYrLUBzwhJ4/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Our scream quota for the year has been hit 👻"
-      }
-    },
-    {
-      "id": "NxlRc-c3Ugc",
-      "snippet": {
-        "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
-        "channelTitle": "TEAM TITAN",
-        "description": "We're back at Universal Studios Singapore for Halloween Horror Nights 12! Which haunted house do you think was the most ...",
-        "publishedAt": "2024-10-21T11:30:15Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/NxlRc-c3Ugc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/NxlRc-c3Ugc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/NxlRc-c3Ugc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Class T1-T5 Visits the Scariest Horror House - Halloween Horror Nights Universal Studios Singapore"
-      }
-    },
-    {
-      "id": "U3PYSImH3bc",
-      "snippet": {
-        "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
-        "channelTitle": "TEAM TITAN",
-        "description": "",
-        "publishedAt": "2024-10-14T05:58:38Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/U3PYSImH3bc/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/U3PYSImH3bc/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/U3PYSImH3bc/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Paying For EVERYTHING My Fans Touch!!"
-      }
-    },
-    {
-      "id": "f2QjGJHDp44",
-      "snippet": {
-        "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
-        "channelTitle": "TITAN GAMERS",
-        "description": "Our Road to Division 1 continues, or is it more like Road to Division 5? For our latest updates, follow us on: IG: ...",
-        "publishedAt": "2024-10-24T08:10:07Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/f2QjGJHDp44/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/f2QjGJHDp44/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/f2QjGJHDp44/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Can We Fight for Promotion in EA FC 25?"
-      }
-    },
-    {
-      "id": "1d4LClCNavM",
-      "snippet": {
-        "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
-        "channelTitle": "TITAN GAMERS",
-        "description": "Another round of clubs on EA FC 25, but things didn't go too well. For our latest updates, follow us on: IG: ...",
-        "publishedAt": "2024-10-22T12:45:17Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/1d4LClCNavM/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/1d4LClCNavM/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/1d4LClCNavM/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "EA FC 25 Destroyed our Friendship"
-      }
-    },
-    {
-      "id": "DIE9jsF-wiY",
-      "snippet": {
-        "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
-        "channelTitle": "TITAN GAMERS",
-        "description": "For our latest updates, follow us on: IG: http://www.instagram.com/titangamersofficial Join our membership here: ...",
-        "publishedAt": "2024-10-04T08:03:05Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/DIE9jsF-wiY/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/DIE9jsF-wiY/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/DIE9jsF-wiY/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "EA FC 25 LIVE! - Road To Promotion"
-      }
-    },
-    {
-      "id": "qfEMouJ5vf4",
-      "snippet": {
-        "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
-        "channelTitle": "TITAN GAMERS",
-        "description": "The boys are back in EA FC 25 and we start our journey to promotion in Clubs! For the first time, we have the biggest team of ...",
-        "publishedAt": "2024-10-02T11:05:33Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/qfEMouJ5vf4/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/qfEMouJ5vf4/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/qfEMouJ5vf4/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "Losing Our First Club Games in EA FC 25 😭"
-      }
-    },
-    {
-      "id": "9AxwLrxJbIM",
-      "snippet": {
-        "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
-        "channelTitle": "TITAN GAMERS",
-        "description": "Pre-Order Unicorn Overlord here: PS5: ...",
-        "publishedAt": "2024-03-01T10:36:56Z",
-        "thumbnails": {
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/9AxwLrxJbIM/hqdefault.jpg",
-            "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/9AxwLrxJbIM/default.jpg",
-            "width": 120
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/9AxwLrxJbIM/mqdefault.jpg",
-            "width": 320
-          }
-        },
-        "title": "This is Why You Should Play UNICORN OVERLORD"
-      }
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ukPM6QHot8A/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of People in Squid Game (Dalgona Challenge)"
     }
-  ]
+  },
+  {
+    "id": "K1GFobkV9yQ",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The organization forces the students to play Red Light, Green Light from Squid Game. Who will win? Who will lose?",
+      "publishedAt": "2025-01-12T13:00:03Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/K1GFobkV9yQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/K1GFobkV9yQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/K1GFobkV9yQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "14 Types of People in Squid Game"
+    }
+  },
+  {
+    "id": "ZF6Fa8nFnSo",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "If you think getting results back is bad, wait till you realise your parents have to sign it. [#Titanacademy127] Follow us on ...",
+      "publishedAt": "2024-12-29T13:00:11Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ZF6Fa8nFnSo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ZF6Fa8nFnSo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ZF6Fa8nFnSo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Parents Reactions to Exam Results"
+    }
+  },
+  {
+    "id": "MboKg4JO2q8",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The report cards are in! One student will fail and one will get expelled? Things will be shaken up! [#Titanacademy126] Follow us ...",
+      "publishedAt": "2024-12-15T13:00:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/MboKg4JO2q8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/MboKg4JO2q8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/MboKg4JO2q8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of REACTIONS to EXAM RESULTS"
+    }
+  },
+  {
+    "id": "CQaUJhmbPBA",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "How people react to newborn babies! We finally see Madam Soot beng\u0027s baby. What are the types of reactions the students (and ...",
+      "publishedAt": "2024-12-01T13:00:03Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/CQaUJhmbPBA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/CQaUJhmbPBA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/CQaUJhmbPBA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Reactions to a Newborn Baby"
+    }
+  },
+  {
+    "id": "4z0fb306Mis",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "Uno, hangman, taboo, twister and more! Which games on Game Night will bring drama? [#Titanacademy124] Follow us on ...",
+      "publishedAt": "2024-11-10T13:00:13Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/4z0fb306Mis/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/4z0fb306Mis/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/4z0fb306Mis/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students at Game Night"
+    }
+  },
+  {
+    "id": "SNoikvIuesI",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "What happens when students are put to a surprise exam?? [#Titanacademy121] Follow us on Instagram: ...",
+      "publishedAt": "2024-09-29T13:00:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/SNoikvIuesI/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/SNoikvIuesI/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/SNoikvIuesI/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students in every Exam"
+    }
+  },
+  {
+    "id": "ewd0C8cQAnw",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "Mean students, distracted students, the students with millions of excuses... what are the types of students that teachers really hate ...",
+      "publishedAt": "2024-09-01T13:00:08Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ewd0C8cQAnw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ewd0C8cQAnw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ewd0C8cQAnw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students Every Teacher HATES"
+    }
+  },
+  {
+    "id": "yRvd-s5D49s",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "What if students were really honest to teachers? [#Titanacademy118] Follow us on Instagram: ...",
+      "publishedAt": "2024-08-18T13:00:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/yRvd-s5D49s/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/yRvd-s5D49s/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/yRvd-s5D49s/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Things Every Student Says vs What They Actually Mean"
+    }
+  },
+  {
+    "id": "PATuWUYPzQ4",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "What if students became teachers? (Titan Academy #115) Follow us on Instagram: http://www.instagram.com/thejianhaotan ...",
+      "publishedAt": "2024-07-07T13:00:09Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/PATuWUYPzQ4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/PATuWUYPzQ4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/PATuWUYPzQ4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "If Students were Teachers..."
+    }
+  },
+  {
+    "id": "CzDYhmA6OLk",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "After they find out their teacher is on leave, the students are left stranded without a teacher. Who will be the substitute teacher?",
+      "publishedAt": "2024-06-23T13:00:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/CzDYhmA6OLk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/CzDYhmA6OLk/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/CzDYhmA6OLk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students when there\u0026#39;s a Substitute Teacher!"
+    }
+  },
+  {
+    "id": "F9V5AnPKV8E",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "After witnessing their teacher, Madam Soot Beng giving birth in the classroom. The students are put to a health education class ...",
+      "publishedAt": "2024-06-09T13:00:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/F9V5AnPKV8E/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/F9V5AnPKV8E/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/F9V5AnPKV8E/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students in Every Health Class"
+    }
+  },
+  {
+    "id": "ZMofKnpZrjU",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "Just when you thought nothing could be worse than exams, it\u0027s parent teacher conference day!(#TitanAcademy112) Follow us on ...",
+      "publishedAt": "2024-05-26T13:00:36Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ZMofKnpZrjU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ZMofKnpZrjU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ZMofKnpZrjU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Parents in Every Parent-Teacher Conference"
+    }
+  },
+  {
+    "id": "mLS85YE3XXE",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "What happens to the class when the teacher is gone? Do the students reign chaos? (#TitanAcademy 111) Follow us on ...",
+      "publishedAt": "2024-05-12T13:00:08Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/mLS85YE3XXE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/mLS85YE3XXE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/mLS85YE3XXE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students when the Teacher Leaves the Classroom!"
+    }
+  },
+  {
+    "id": "iWSkbQtM45A",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "What happens after a break up? Will you move on? Will you lose friends? Will you gain friends? [Titan Academy #110] Follow us ...",
+      "publishedAt": "2024-04-28T13:00:03Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/iWSkbQtM45A/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/iWSkbQtM45A/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/iWSkbQtM45A/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of People You\u0026#39;ll Meet after a Break Up"
+    }
+  },
+  {
+    "id": "0536uqExdFA",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "After fighting with the school cleaner, the teachers find themselves in a difficult position as they are forced to clean up the staffroom ...",
+      "publishedAt": "2024-03-24T13:00:11Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/0536uqExdFA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/0536uqExdFA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/0536uqExdFA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Teachers Get in TROUBLE for messing up the Staffroom!"
+    }
+  },
+  {
+    "id": "InAp24WHZo8",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "Algebra, find X, trigonometry and more, it\u0027s time for everyone\u0027s favourite subject in school! Mathematics.[Titan Academy #107] ...",
+      "publishedAt": "2024-03-10T13:00:24Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/InAp24WHZo8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/InAp24WHZo8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/InAp24WHZo8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "14 Types of Students in Every Math Class"
+    }
+  },
+  {
+    "id": "SwhVdj9HEns",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "Valentines Day is approaching and love is in the air. Students are tasked to put together a flower bouquet. Here are the types of ...",
+      "publishedAt": "2024-02-11T13:00:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/SwhVdj9HEns/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/SwhVdj9HEns/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/SwhVdj9HEns/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of COUPLES you\u0026#39;ll see in Every School"
+    }
+  },
+  {
+    "id": "C1YZR8IP4FU",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "It\u0027s that time where teachers receive performance review and are graded instead of students.Who will get promotion and who get ...",
+      "publishedAt": "2024-01-28T13:00:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/C1YZR8IP4FU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/C1YZR8IP4FU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/C1YZR8IP4FU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Teachers get a new REALITY SHOW! - The Staffroom"
+    }
+  },
+  {
+    "id": "4vJYO_RKVCY",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The life of teachers vs students. Who would you rather be? [Titan Academy #104] Trade with 0 commission with the Octa trading ...",
+      "publishedAt": "2024-01-21T13:00:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/4vJYO_RKVCY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/4vJYO_RKVCY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/4vJYO_RKVCY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "TEACHERS vs STUDENTS: School Life"
+    }
+  },
+  {
+    "id": "rr5_Kta8xSY",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The students are back from their school trip and are faced with some chaos in the public toilets! Can the students rise up to the ...",
+      "publishedAt": "2023-12-17T13:00:03Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/rr5_Kta8xSY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/rr5_Kta8xSY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/rr5_Kta8xSY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students in Public Toilets"
+    }
+  },
+  {
+    "id": "Zfi4Bu64F_o",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "After stealing and misplacing the billionaire\u0027s ring, the students are forced to spend the rest of their school trip finding it before ...",
+      "publishedAt": "2023-12-03T13:00:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Zfi4Bu64F_o/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Zfi4Bu64F_o/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Zfi4Bu64F_o/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Students Get in BIG TROUBLE after stealing Billionaire\u0026#39;s Ring"
+    }
+  },
+  {
+    "id": "PEy63I6ZsyA",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "As the school trip approaches, the students are surprised with an exam. They will all have to pass if they want to join the school ...",
+      "publishedAt": "2023-11-12T13:00:17Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/PEy63I6ZsyA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/PEy63I6ZsyA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/PEy63I6ZsyA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "14 Types of Students in a Surprise Exam!"
+    }
+  },
+  {
+    "id": "7jFqDDsQPME",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "As a new banding system is introduced, new students join Class N4T1. A familiar face also returns as the teacher [Titan Academy ...",
+      "publishedAt": "2023-10-29T13:00:14Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/7jFqDDsQPME/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/7jFqDDsQPME/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/7jFqDDsQPME/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "14 Types of NEW Students you\u0026#39;ll MEET in School"
+    }
+  },
+  {
+    "id": "WKF1ZIrMjeE",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "It\u0027s the first week of the new semester and the students are back to school! What are the types of students you\u0027ll see in every ...",
+      "publishedAt": "2023-09-03T13:00:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/WKF1ZIrMjeE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/WKF1ZIrMjeE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/WKF1ZIrMjeE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students in EVERY Classroom!"
+    }
+  },
+  {
+    "id": "sCVoXyCUu3U",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "Some people love birthdays, some hate it. What kind of person are you on your birthday? Join OctaFX\u0027s Birthday contest ...",
+      "publishedAt": "2023-07-30T13:00:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/sCVoXyCUu3U/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/sCVoXyCUu3U/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/sCVoXyCUu3U/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of People on Their Birthdays!"
+    }
+  },
+  {
+    "id": "Xyh9HcGxnX8",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "It\u0027s finally summer time. Some people loves the sand, and some just wants to be at home. Here are the types of people at the ...",
+      "publishedAt": "2023-07-23T13:00:20Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Xyh9HcGxnX8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Xyh9HcGxnX8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Xyh9HcGxnX8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "14 Types Of People At The Beach"
+    }
+  },
+  {
+    "id": "r2EEcriRcIY",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The students of Class N4T1 have their final class before the summer break! [Titan Academy #93] Follow me on TikTok: ...",
+      "publishedAt": "2023-06-25T13:00:25Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/r2EEcriRcIY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/r2EEcriRcIY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/r2EEcriRcIY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "14 Types of Students on the Last Day of School"
+    }
+  },
+  {
+    "id": "hw1nI4XqHpA",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The teachers of Titan Academy finally got their pay. How do you think they will spend it? [Titan Academy #91] Get the OctaFX ...",
+      "publishedAt": "2023-06-11T13:01:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/hw1nI4XqHpA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/hw1nI4XqHpA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/hw1nI4XqHpA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "12 Types of People on Pay Day"
+    }
+  },
+  {
+    "id": "9SBiy7ccA0w",
+    "snippet": {
+      "channelId": "UCGwcH4qnJ2qM_ZJUSFcAMAA",
+      "channelTitle": "JianHao Tan",
+      "description": "The study buddies receive their results from the SAT exams and get a big surprise from Mr James. How will they do?",
+      "publishedAt": "2023-05-14T13:02:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/9SBiy7ccA0w/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/9SBiy7ccA0w/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/9SBiy7ccA0w/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "13 Types of Students Getting Exam Results"
+    }
+  },
+  {
+    "id": "prDIZF1AWx4",
+    "snippet": {
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelTitle": "Alan Chikin Chow",
+      "description": "Watch our 2nd channel video ➡️ https://youtu.be/5psItgh-jro Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
+      "publishedAt": "2024-11-10T13:00:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/prDIZF1AWx4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/prDIZF1AWx4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/prDIZF1AWx4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I Bought a Clown Off the Dark Web | Alan’s Universe"
+    }
+  },
+  {
+    "id": "CsK2ilYcahk",
+    "snippet": {
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelTitle": "Alan Chikin Chow",
+      "description": "Watch our latest episode ➡️ https://youtu.be/cSdSQG4KMEo Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
+      "publishedAt": "2024-10-10T12:00:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/CsK2ilYcahk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/CsK2ilYcahk/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/CsK2ilYcahk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "My Son is a Vampire!? | Alan’s Universe"
+    }
+  },
+  {
+    "id": "k55Um3J793g",
+    "snippet": {
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelTitle": "Alan Chikin Chow",
+      "description": "Watch our latest episode ➡️ https://youtu.be/_fJvDHLfOYE Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
+      "publishedAt": "2024-09-02T12:00:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/k55Um3J793g/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/k55Um3J793g/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/k55Um3J793g/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I Found a HAUNTED Secret Room | Alan’s Universe"
+    }
+  },
+  {
+    "id": "_fJvDHLfOYE",
+    "snippet": {
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelTitle": "Alan Chikin Chow",
+      "description": "Watch our latest episode ➡️ https://youtu.be/GPNE41QdBbk Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
+      "publishedAt": "2024-08-14T12:00:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/_fJvDHLfOYE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/_fJvDHLfOYE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/_fJvDHLfOYE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "My Boyfriend is a Zombie | Alan’s Universe"
+    }
+  },
+  {
+    "id": "GPNE41QdBbk",
+    "snippet": {
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelTitle": "Alan Chikin Chow",
+      "description": "Watch our latest episode ➡️ https://youtu.be/0a-pSKBgc9k Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
+      "publishedAt": "2024-07-31T12:00:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/GPNE41QdBbk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/GPNE41QdBbk/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/GPNE41QdBbk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "No One Knew I Was a Famous Singer | Alan’s Universe"
+    }
+  },
+  {
+    "id": "NxlRc-c3Ugc",
+    "snippet": {
+      "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
+      "channelTitle": "TEAM TITAN",
+      "description": "We\u0027re back at Universal Studios Singapore for Halloween Horror Nights 12! Which haunted house do you think was the most ...",
+      "publishedAt": "2024-10-21T11:30:15Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/NxlRc-c3Ugc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/NxlRc-c3Ugc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/NxlRc-c3Ugc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Class T1-T5 Visits the Scariest Horror House - Halloween Horror Nights Universal Studios Singapore"
+    }
+  },
+  {
+    "id": "STkqkhDK1cY",
+    "snippet": {
+      "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
+      "channelTitle": "TEAM TITAN",
+      "description": "We buy everything that you manage to grab in this store, but with a twist! We invited contest winners to participate in this challenge ...",
+      "publishedAt": "2024-10-11T11:00:26Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/STkqkhDK1cY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/STkqkhDK1cY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/STkqkhDK1cY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Buying Everything You Grab in This Store!"
+    }
+  },
+  {
+    "id": "phxMGj_S6pA",
+    "snippet": {
+      "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
+      "channelTitle": "TEAM TITAN",
+      "description": "Le Freeport is a high-security storage and display facility in Singapore. We were lucky enough to visit such a place and we learnt ...",
+      "publishedAt": "2024-09-13T11:03:31Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/phxMGj_S6pA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/phxMGj_S6pA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/phxMGj_S6pA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "We Found Where Singapore Hides Their Gold - Le Freeport"
+    }
+  },
+  {
+    "id": "mfNn_QK1h84",
+    "snippet": {
+      "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
+      "channelTitle": "TEAM TITAN",
+      "description": "It is the grand finals of the National Youth Tech Championship 2024, and today we will see the Top 2 schools from the semi-finals ...",
+      "publishedAt": "2024-08-30T11:31:19Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/mfNn_QK1h84/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/mfNn_QK1h84/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/mfNn_QK1h84/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "The Largest Drone Obstacle Course We\u0026#39;ve Ever Seen!"
+    }
+  },
+  {
+    "id": "7dx1o_aT2Ok",
+    "snippet": {
+      "channelId": "UCYvoJx2JVTE6kpEAtfXpp3w",
+      "channelTitle": "TEAM TITAN",
+      "description": "Download the Octa trading app via this link https://bit.ly/Octa_TeamTitanAug and trade with 0 commission! Use our promo code ...",
+      "publishedAt": "2024-08-28T13:13:59Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/7dx1o_aT2Ok/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/7dx1o_aT2Ok/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/7dx1o_aT2Ok/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Our Boss Rates Our Surprise Off Day"
+    }
+  },
+  {
+    "id": "1GHw1mbS1Oc",
+    "snippet": {
+      "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
+      "channelTitle": "TEAM TITAN SHORTS",
+      "description": "Subscribe to JianHao\u0027s channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
+      "publishedAt": "2025-02-19T12:00:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/1GHw1mbS1Oc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/1GHw1mbS1Oc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/1GHw1mbS1Oc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Relatable School Accuracy TikTok Challenges of 2025"
+    }
+  },
+  {
+    "id": "7Qhxx1QS_n0",
+    "snippet": {
+      "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
+      "channelTitle": "TEAM TITAN SHORTS",
+      "description": "Subscribe to JianHao\u0027s channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
+      "publishedAt": "2025-02-17T12:00:08Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/7Qhxx1QS_n0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/7Qhxx1QS_n0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/7Qhxx1QS_n0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Relatable School Category TikTok Challenges in 2025"
+    }
+  },
+  {
+    "id": "lyY1ZNwYrWQ",
+    "snippet": {
+      "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
+      "channelTitle": "TEAM TITAN SHORTS",
+      "description": "Subscribe to JianHao\u0027s channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
+      "publishedAt": "2025-02-14T12:01:15Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/lyY1ZNwYrWQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/lyY1ZNwYrWQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/lyY1ZNwYrWQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Relatable School Drawing TikTok Challenges of 2025"
+    }
+  },
+  {
+    "id": "K2WqOHnLM4o",
+    "snippet": {
+      "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
+      "channelTitle": "TEAM TITAN SHORTS",
+      "description": "Subscribe to JianHao\u0027s channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
+      "publishedAt": "2025-02-12T12:00:33Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/K2WqOHnLM4o/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/K2WqOHnLM4o/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/K2WqOHnLM4o/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Relatable School TikiTok Guessing Games and Challenges of 2025"
+    }
+  },
+  {
+    "id": "KwT2LD5w6aE",
+    "snippet": {
+      "channelId": "UCTjWJtZPa5apmfxHpTn-Zfg",
+      "channelTitle": "TEAM TITAN SHORTS",
+      "description": "Subscribe to JianHao\u0027s channel NOW: http://www.youtube.com/jianhao FOLLOW US: http://instagram.com/theteamtitanofficial ...",
+      "publishedAt": "2025-02-07T12:00:26Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/KwT2LD5w6aE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/KwT2LD5w6aE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/KwT2LD5w6aE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Relatable Latest School TikTok Trends in 2025"
+    }
+  },
+  {
+    "id": "9AxwLrxJbIM",
+    "snippet": {
+      "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
+      "channelTitle": "TITAN GAMERS",
+      "description": "Pre-Order Unicorn Overlord here: PS5: ...",
+      "publishedAt": "2024-03-01T10:36:56Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/9AxwLrxJbIM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/9AxwLrxJbIM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/9AxwLrxJbIM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "This is Why You Should Play UNICORN OVERLORD"
+    }
+  },
+  {
+    "id": "PzzX_0mHTWI",
+    "snippet": {
+      "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
+      "channelTitle": "TITAN GAMERS",
+      "description": "It\u0027s Christmas! And we dressed up our characters in Christmas outfits to play in our promotion matches. For our latest updates, ...",
+      "publishedAt": "2023-12-22T10:00:27Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/PzzX_0mHTWI/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/PzzX_0mHTWI/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/PzzX_0mHTWI/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "We Dress Up in Christmas Outfits in EA FC24!"
+    }
+  },
+  {
+    "id": "u12zHVW4cHc",
+    "snippet": {
+      "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
+      "channelTitle": "TITAN GAMERS",
+      "description": "We asked you to DM us on Instagram if you\u0027d like a match with us on EAFC, and Funkers replied! Watch us play against our fans.",
+      "publishedAt": "2023-12-08T10:00:43Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/u12zHVW4cHc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/u12zHVW4cHc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/u12zHVW4cHc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Playing EA FC24 Pro Clubs with our Fans!"
+    }
+  },
+  {
+    "id": "PTMPYaVIU68",
+    "snippet": {
+      "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
+      "channelTitle": "TITAN GAMERS",
+      "description": "We react to the GTA 6 Trailer, which surpassed all our expectations! For our latest updates, follow us on: IG: ...",
+      "publishedAt": "2023-12-05T15:12:37Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/PTMPYaVIU68/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/PTMPYaVIU68/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/PTMPYaVIU68/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "GTA 6 Trailer is Amazing! (GTA VI Reaction)"
+    }
+  },
+  {
+    "id": "k5t7qj05lSQ",
+    "snippet": {
+      "channelId": "UCmufVNjbJOaiLGu3fNPGHSQ",
+      "channelTitle": "TITAN GAMERS",
+      "description": "We entered the EA FC24 Clubs Playoffs for the first time! It wasn\u0027t easy, but we managed to pull off great results. For our latest ...",
+      "publishedAt": "2023-11-08T09:30:18Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/k5t7qj05lSQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/k5t7qj05lSQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/k5t7qj05lSQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "We Played in our First EA FC24 Pro Clubs Playoffs!"
+    }
+  }
+]
 }
