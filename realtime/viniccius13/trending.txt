@@ -1,1 +1,812 @@
-{"items":[]}
+{"items":[
+  {
+    "id": "6H8cvCf8aP8",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Clique aqui e saiba mais sobre o novo REDMAGIC 10 Air: https://bit.ly/41V7Wr9 https://bit.ly/3QXoMAT + Episódios: ...",
+      "publishedAt": "2025-05-30T21:05:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/6H8cvCf8aP8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/6H8cvCf8aP8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/6H8cvCf8aP8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Vila da Folha - Minecraft Em busca da casa automática #384"
+    }
+  },
+  {
+    "id": "J2RmhjyY708",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Nesse episódio, voltamos a trabalhar usando os LEDs!! E dessa vez atualizamos várias construções pelo mapa, inclusive o ...",
+      "publishedAt": "2025-05-17T15:06:54Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/J2RmhjyY708/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/J2RmhjyY708/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/J2RmhjyY708/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O PODER DOS LEDS - Minecraft Em busca da casa automática #383"
+    }
+  },
+  {
+    "id": "ip2RlDHUuVs",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
+      "publishedAt": "2025-04-29T21:09:56Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ip2RlDHUuVs/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ip2RlDHUuVs/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ip2RlDHUuVs/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Farm de Flor de Cacto - Minecraft Em busca da casa automática #382"
+    }
+  },
+  {
+    "id": "m_-AvwzebXA",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "A versão 3.2 de Honkai: Star Rail está chegando em breve, junto com a celebração de 2º aniversário, trazendo ainda mais ...",
+      "publishedAt": "2025-04-07T21:02:57Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/m_-AvwzebXA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/m_-AvwzebXA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/m_-AvwzebXA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "ULTIMATE BLAZE FARM - Minecraft Em busca da casa automática #381"
+    }
+  },
+  {
+    "id": "_soNW8HvUEo",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Obtenha um navegador que é literalmente melhor em tudo: https://operagx.gg/viniccius138 Patrocinado por Opera GX!",
+      "publishedAt": "2025-03-29T18:12:33Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/_soNW8HvUEo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/_soNW8HvUEo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/_soNW8HvUEo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LED Colorido no Minecraft - Em busca da casa automática #380"
+    }
+  },
+  {
+    "id": "tVg01cWGy-4",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Pare de navegar como um clone e use um de verdade: https://operagx.gg/viniccius137 Patrocinado por Opera GX! + Episódios: ...",
+      "publishedAt": "2025-02-27T21:08:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/tVg01cWGy-4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/tVg01cWGy-4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/tVg01cWGy-4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Quebrando a MAIOR ESTRUTURA do Minecraft - Em busca da casa automática #379"
+    }
+  },
+  {
+    "id": "kEuMsSuCq1A",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
+      "publishedAt": "2025-02-17T21:16:10Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/kEuMsSuCq1A/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/kEuMsSuCq1A/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/kEuMsSuCq1A/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Fizemos um CUBO MÁGICO no Minecraft - Em busca da casa automática #378"
+    }
+  },
+  {
+    "id": "biLPLVgXz_E",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Seu navegador atual é ruim. Pegue um melhor aqui: https://operagx.gg/viniccius136 Patrocinado por Opera GX! + Episódios: ...",
+      "publishedAt": "2025-01-31T21:10:40Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/biLPLVgXz_E/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/biLPLVgXz_E/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/biLPLVgXz_E/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Farm de Ametista com Allay - Minecraft Em busca da casa automática #377"
+    }
+  },
+  {
+    "id": "c_i2pAMy3nA",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Saiba mais sobre o novo REDMAGIC 10 Pro: https://bit.ly/3UYcVF3 + Episódios: ...",
+      "publishedAt": "2025-01-24T21:02:29Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/c_i2pAMy3nA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/c_i2pAMy3nA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/c_i2pAMy3nA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A CONEXÃO | O Filme |- Minecraft Em busca da casa automática #376"
+    }
+  },
+  {
+    "id": "luVy5F4YVE8",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
+      "publishedAt": "2025-01-17T22:02:59Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/luVy5F4YVE8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/luVy5F4YVE8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/luVy5F4YVE8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "ULTIMATE Nether Hub - Minecraft Em busca da casa automática #375"
+    }
+  },
+  {
+    "id": "3nX7BHiSzFo",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Baixe Match Masters clicando aqui: https://matchmaste.rs/hCkF/jl5ythru Com o meu link você ganha boosters e perks exclusivos!",
+      "publishedAt": "2024-12-08T15:01:58Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/3nX7BHiSzFo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/3nX7BHiSzFo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/3nX7BHiSzFo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Uma Noite no Jardim Pálido - Minecraft Em busca da casa automática #374"
+    }
+  },
+  {
+    "id": "qT-9egv8fmE",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Seu navegador atual é ruim. Obtenha um melhor aqui : https://operagx.gg/viniccius135 Patrocinado pela Opera GX! + Episódios: ...",
+      "publishedAt": "2024-12-04T21:06:36Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/qT-9egv8fmE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/qT-9egv8fmE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/qT-9egv8fmE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Farm de Vento - Minecraft Em busca da casa automática #373"
+    }
+  },
+  {
+    "id": "GCzvrcxOibc",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
+      "publishedAt": "2024-11-22T21:05:20Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/GCzvrcxOibc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/GCzvrcxOibc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/GCzvrcxOibc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A Nova Farm de Madeira do Minecraft - Em busca da casa automática #372"
+    }
+  },
+  {
+    "id": "NrgqsR9I_Ac",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Saiba mais sobre o REDMAGIC Nova Gaming Tablet: https://bit.ly/3NgCHjy Redmagic Brasil no Mercado Livre: ...",
+      "publishedAt": "2024-11-06T21:03:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/NrgqsR9I_Ac/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/NrgqsR9I_Ac/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/NrgqsR9I_Ac/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A ILHA SLIME  | O Filme | - Minecraft Em busca da casa automática #371"
+    }
+  },
+  {
+    "id": "MLww8VIisKA",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Seu navegador atual é ruim. Baixe um melhor aqui: https://operagx.gg/viniccius134 Patrocinado por Opera GX! + Episódios: ...",
+      "publishedAt": "2024-09-30T22:03:43Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/MLww8VIisKA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/MLww8VIisKA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/MLww8VIisKA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A Fantástica FARM DE PISTÃO - Minecraft Em busca da casa automática #370"
+    }
+  },
+  {
+    "id": "C9IdMyuVrmM",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Saiba mais sobre o REDMAGIC 9s Pro: https://bit.ly/3xz6rEe + Episódios: ...",
+      "publishedAt": "2024-08-03T21:02:53Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/C9IdMyuVrmM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/C9IdMyuVrmM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/C9IdMyuVrmM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O PODER DO AUTO CRAFTER - Minecraft Em busca da casa automática #369"
+    }
+  },
+  {
+    "id": "P0qAAU0fPog",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Vlog especial em comemoração aos 13 anos de canal. Twitter: https://twitter.com/#!/viniccius13 Instagram: ...",
+      "publishedAt": "2024-07-07T15:04:35Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/P0qAAU0fPog/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/P0qAAU0fPog/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/P0qAAU0fPog/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A Nova Placa do Youtube - Especial 13 Anos de Canal"
+    }
+  },
+  {
+    "id": "Rj5zGNzoDZ8",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Tudo sobre a 1.21: https://www.youtube.com/watch?v\u003drcWvPuIgAJE + Episódios: ...",
+      "publishedAt": "2024-06-28T21:07:25Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Rj5zGNzoDZ8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Rj5zGNzoDZ8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Rj5zGNzoDZ8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Finalmente AUTO CRAFTER - Minecraft Em busca da casa automática #368"
+    }
+  },
+  {
+    "id": "g3Vm2Z-MUkU",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "Pare de se torturar e adquira o Opera GX: https://operagx.gg/viniccius133 Patrocinado pelo Opera GX Video do Davi: ...",
+      "publishedAt": "2024-06-26T21:15:45Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/g3Vm2Z-MUkU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/g3Vm2Z-MUkU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/g3Vm2Z-MUkU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Operação BREEZE: O Mestre do Ar - Em busca da casa automática #367"
+    }
+  },
+  {
+    "id": "teOL5mwlx44",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
+      "publishedAt": "2024-06-12T21:10:40Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/teOL5mwlx44/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/teOL5mwlx44/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/teOL5mwlx44/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Finalmente a FARM PROIBIDA - Minecraft Em busca da casa automática #366"
+    }
+  },
+  {
+    "id": "uZaCX1DaxfY",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "HOJE EU VOU COMEÇAR UM MUNDO HARDCORE AQUI NO CANAL E PRA NAO TER RISCO DE MORRER NESSA SERIE, ...",
+      "publishedAt": "2025-05-30T21:01:03Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "EU ME TORNEI IMORTAL NO MINECRAFT HARDCORE"
+    }
+  },
+  {
+    "id": "0PpPXlKC6Zw",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Hoje eu e minha namorada vamos tentar derrotar a entidade \"The God\" no mapa de um bloco só Contato profissional: ...",
+      "publishedAt": "2025-04-18T21:00:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "ESSE É O SEGREDO PARA DERROTAR O THE GOD NO MINECRAFT"
+    }
+  },
+  {
+    "id": "QapNIKX-XOE",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Olá meus amigos, hoje eu apresento a voces o Minecraft 2, um jogo que meu irmao @BeryOficial fez em 1 mes, o objetivo era ...",
+      "publishedAt": "2025-03-18T21:00:30Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "FIZERAM PRA MIM UM MINECRAFT 2 ANTES DO NOTCH"
+    }
+  },
+  {
+    "id": "XEkHUzOYXko",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Olá meus amigos, depois de muito tempo fora, eu final voltei a jogar Minecraft, os mods de terror me despertaram uma ...",
+      "publishedAt": "2025-02-08T21:57:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Minecraft 2025 é basicamente isso"
+    }
+  },
+  {
+    "id": "Zt5Dobihe6c",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Nesse vídeo eu quero quebrar o mundo inteiro do Minecraft, eu vou arrumar qualquer forma possível pra se fazer isso, seja ...",
+      "publishedAt": "2023-05-02T22:00:19Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Zt5Dobihe6c/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Zt5Dobihe6c/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Zt5Dobihe6c/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "EU DESTRUI O MUNDO INTEIRO DO MINECRAFT"
+    }
+  },
+  {
+    "id": "j6sGXNUvJsE",
+    "snippet": {
+      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+      "channelTitle": "Davi",
+      "description": "Se você curte desempenho de verdade, dá uma olhada no novo REDMAGIC 10 Air!: https://bit.ly/4hFc4kW https://bit.ly/3QXoMAT ...",
+      "publishedAt": "2025-05-30T20:08:48Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/j6sGXNUvJsE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/j6sGXNUvJsE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/j6sGXNUvJsE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Criamos o Núcleo Shulker que Quebra o Minecraft! - Craft Games 338"
+    }
+  },
+  {
+    "id": "k1vwjCGJcyY",
+    "snippet": {
+      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+      "channelTitle": "Davi",
+      "description": "A versão 3.2 de Honkai: Star Rail já chegou, trazendo novos personagens, eventos e recompensas para comemorar o segundo ...",
+      "publishedAt": "2025-04-26T15:08:59Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/k1vwjCGJcyY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/k1vwjCGJcyY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/k1vwjCGJcyY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O Desafio ULTIMATE das GALINHAS!🐔🔥- Craft Games 337"
+    }
+  },
+  {
+    "id": "SAJ20xnlVog",
+    "snippet": {
+      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+      "channelTitle": "Davi",
+      "description": "Editado por @yDanii.",
+      "publishedAt": "2025-04-16T15:02:09Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/SAJ20xnlVog/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/SAJ20xnlVog/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/SAJ20xnlVog/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Creeper OH MAN!  #minecraft #creeper"
+    }
+  },
+  {
+    "id": "ORy_4z_Ck5M",
+    "snippet": {
+      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+      "channelTitle": "Davi",
+      "description": "Fui ver o filme do Minecraft no cinema e porque não ir vestido de creeper?",
+      "publishedAt": "2025-04-15T15:00:43Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ORy_4z_Ck5M/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ORy_4z_Ck5M/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ORy_4z_Ck5M/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Fui ao Cinema de CREEPER ver \u0026quot;Um filme Minecraft\u0026quot;! #minecraft #umfilmeminecraft #creeper"
+    }
+  },
+  {
+    "id": "m3Znx2m3FgQ",
+    "snippet": {
+      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+      "channelTitle": "Davi",
+      "description": "+Episódios de CraftGames: https://www.youtube.com/playlist?list\u003dPLCp7embZy6ugEc41yQ-Ju858S23pQ4T-w Canal do ...",
+      "publishedAt": "2025-04-06T16:05:24Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/m3Znx2m3FgQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/m3Znx2m3FgQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/m3Znx2m3FgQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Como a 1.21.5 Transformou meu Mundo Survival! - Craft Games 336"
+    }
+  }
+]}
