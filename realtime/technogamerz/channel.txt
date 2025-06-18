@@ -1,1 +1,193 @@
-{"items":[{"id":"UCl_vAxZpvbO-PFXdDu7EdHw","snippet":{"country":"IN","customUrl":"@ujjwalgamer","description":"Hello friends, Welcome to \"Ujjwal Gamer\", I created this channel on Jan 20, 2018, this is my second channel on YouTube, my motive behind creating this channel is to connect more and more with you, do live streaming, I will be streaming everyday. My other channel \"Techno Gamerz\" revolves around technology and gaming where I make Easy to Understand, Gaming Videos in Hindi.Apart I am living in Delhi, doing YouTube as my Hobby. Do SUBSCRIBE to Ujjwal Gamer and Techno Gamerz, Thanks.\n\nIf you are looking for somebody to make a review of your products or product of your company, such as:\nphones, tablets, PC, gadgets or even apps, you can contact us so we can make a deal...\n\nFor Business enquiries: technogamerzofficial@gmail.com","publishedAt":"2018-01-20T18:01:58Z","thumbnails":{"high":{"url":"https://yt3.ggpht.com/ytc/AMLnZu82iPUksECFGB7hGaxFcbRZK2gJNF8pbpBNCXEsdg\u003ds800-c-k-c0x00ffffff-no-rj"},"default":{"url":"https://yt3.ggpht.com/ytc/AMLnZu82iPUksECFGB7hGaxFcbRZK2gJNF8pbpBNCXEsdg\u003ds88-c-k-c0x00ffffff-no-rj"},"medium":{"url":"https://yt3.ggpht.com/ytc/AMLnZu82iPUksECFGB7hGaxFcbRZK2gJNF8pbpBNCXEsdg\u003ds240-c-k-c0x00ffffff-no-rj"}},"title":"Ujjwal"},"statistics":{"hiddenSubscriberCount":false,"subscriberCount":"8350000","videoCount":393,"viewCount":"836022413"}},{"id":"UCX8pnu3DYUnx8qy8V_c6oHg","snippet":{"country":"IN","customUrl":"@technogamerzofficial","description":"Hey Everyone! This is Ujjwal here! Welcome to \"Techno Gamerz\" YouTube Channel!\nI created this channel for android games i upload daily videos about mobile related games and gaming news so if you’re interested in playing games so this channel is helpful for you.\nPlease SUBSCRIBE to Techno Gamerz, Thanks.\n\nIf you are looking for somebody to make a review of your products or product of your company, such as:\nphones, tablets, PC, gadgets or even apps, you can contact us so we can make a deal...\n\nFor Business enquiries: technogamerzofficial@gmail.com","publishedAt":"2017-08-13T16:15:04Z","thumbnails":{"high":{"url":"https://yt3.ggpht.com/ytc/AMLnZu-Ip_ELY-mtVJynTHtgaPDhsCfVUAK3TKMCLVsGjg\u003ds800-c-k-c0x00ffffff-no-rj-mo"},"default":{"url":"https://yt3.ggpht.com/ytc/AMLnZu-Ip_ELY-mtVJynTHtgaPDhsCfVUAK3TKMCLVsGjg\u003ds88-c-k-c0x00ffffff-no-rj-mo"},"medium":{"url":"https://yt3.ggpht.com/ytc/AMLnZu-Ip_ELY-mtVJynTHtgaPDhsCfVUAK3TKMCLVsGjg\u003ds240-c-k-c0x00ffffff-no-rj-mo"}},"title":"Techno Gamerz"},"statistics":{"hiddenSubscriberCount":false,"subscriberCount":"28300000","videoCount":841,"viewCount":"7256027916"}},{"id":"UCUA81A-VZAZXYALpOScwFOQ","snippet":{"country":"IN","customUrl":"@ujjwalshortsofficial","description":"Hey! My name is Ujjwal aka Techno Gamerz and I\u0027m a gaming YouTuber! Make sure to subscribe for funny shorts!\n\n","publishedAt":"2021-11-22T18:21:02.128686Z","thumbnails":{"high":{"url":"https://yt3.ggpht.com/VABR9KwqX0TwSpBhqtEMtz_siJxmLrQ1083_DsWs4bqIyVNvUXgn9D9i0n94fN-jpgt7GoBuaN0\u003ds800-c-k-c0x00ffffff-no-rj"},"default":{"url":"https://yt3.ggpht.com/VABR9KwqX0TwSpBhqtEMtz_siJxmLrQ1083_DsWs4bqIyVNvUXgn9D9i0n94fN-jpgt7GoBuaN0\u003ds88-c-k-c0x00ffffff-no-rj"},"medium":{"url":"https://yt3.ggpht.com/VABR9KwqX0TwSpBhqtEMtz_siJxmLrQ1083_DsWs4bqIyVNvUXgn9D9i0n94fN-jpgt7GoBuaN0\u003ds240-c-k-c0x00ffffff-no-rj"}},"title":"Ujjwal Shorts"},"statistics":{"hiddenSubscriberCount":false,"subscriberCount":"2790000","videoCount":13,"viewCount":"221680506"}}]}
+{
+  "items": [
+    {
+      "id": "UCY6s6soycjPFPAajxbmrmBg",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@technostudios",
+        "description": "Hey! My name is Ujjwal Aka Techno Gamerz, I started my YouTube journey from gaming, But now it's time to do some IRL stuff. Make sure to subscribe for Awesome videos!",
+        "publishedAt": "2023-01-13T23:16:59.537893Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/J1lCngHb9zJJLbsrcK6KwcQSGK4lBUfKDCumHuoD1BvQ2FGw0WrX2u0MSRhLiJgeeLrVVIQNfYY=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/J1lCngHb9zJJLbsrcK6KwcQSGK4lBUfKDCumHuoD1BvQ2FGw0WrX2u0MSRhLiJgeeLrVVIQNfYY=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/J1lCngHb9zJJLbsrcK6KwcQSGK4lBUfKDCumHuoD1BvQ2FGw0WrX2u0MSRhLiJgeeLrVVIQNfYY=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Techno"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "4740000",
+        "videoCount": 15,
+        "viewCount": "309951944"
+      }
+    },
+    {
+      "id": "UCebC4x5l2-PQxg46Ucv9CsA",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@crazyxyz",
+        "description": "Hello Guys, We create and upload videos related to Science Experiments, Life Hacks, Amazing Modification, Diwali Crackers and much more. \n\nPlease make sure to SUBSCRIBE our channel to make your world little bit more Curious and Joyful.\n\nCrazinos: https://crazinos.com/\nFollow our Facebook Page- https://m.facebook.com/CrazyXYZfb/\nInstagram- @amit.yt\n\nFor Business :-  business.crazyxyz@gmail.com\n\n",
+        "publishedAt": "2017-09-10T18:22:11Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_m_dwfeg3dT3tiDA8BJyWUyAk9EYZKjB5J_HGXBqSMcqmE=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_m_dwfeg3dT3tiDA8BJyWUyAk9EYZKjB5J_HGXBqSMcqmE=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_m_dwfeg3dT3tiDA8BJyWUyAk9EYZKjB5J_HGXBqSMcqmE=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Crazy XYZ"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "33600000",
+        "videoCount": 1453,
+        "viewCount": "10072537893"
+      }
+    },
+    {
+      "id": "UCl_vAxZpvbO-PFXdDu7EdHw",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@ujjwalgamer",
+        "description": "Hello friends, Welcome to \"Ujjwal Gamer\", I created this channel on Jan 20, 2018, this is my second channel on YouTube, my motive behind creating this channel is to connect more and more with you, do live streaming, I will be streaming everyday. My other channel \"Techno Gamerz\" revolves around technology and gaming where I make Easy to Understand, Gaming Videos in Hindi.Apart I am living in Delhi, doing YouTube as my Hobby. Do SUBSCRIBE to Ujjwal Gamer and Techno Gamerz, Thanks.\n\nIf you are looking for somebody to make a review of your products or product of your company, such as:\nphones, tablets, PC, gadgets or even apps, you can contact us so we can make a deal...\n\nFor Business enquiries: technogamerzofficial@gmail.com",
+        "publishedAt": "2018-01-20T18:01:58Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nmeNsubjl7Fl7Eje6G1dWkTtN8xaf1Ji1Z01xdC5NnANI=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nmeNsubjl7Fl7Eje6G1dWkTtN8xaf1Ji1Z01xdC5NnANI=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nmeNsubjl7Fl7Eje6G1dWkTtN8xaf1Ji1Z01xdC5NnANI=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Ujjwal"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "11900000",
+        "videoCount": 446,
+        "viewCount": "1463546920"
+      }
+    },
+    {
+      "id": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@technogamerzofficial",
+        "description": "Hey Everyone! This is Ujjwal here! Welcome to \"Techno Gamerz\" YouTube Channel!\nI created this channel for android games i upload daily videos about mobile related games and gaming news so if you’re interested in playing games so this channel is helpful for you.\nPlease SUBSCRIBE to Techno Gamerz, Thanks.\n\nIf you are looking for somebody to make a review of your products or product of your company, such as:\nphones, tablets, PC, gadgets or even apps, you can contact us so we can make a deal...\n\nFor Business enquiries: technogamerzofficial@gmail.com",
+        "publishedAt": "2017-08-13T16:15:04Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mSh0doIgogNhhpzLcRYEMRorZefkBUe_6LYOWnLgzSyFc=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mSh0doIgogNhhpzLcRYEMRorZefkBUe_6LYOWnLgzSyFc=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mSh0doIgogNhhpzLcRYEMRorZefkBUe_6LYOWnLgzSyFc=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Techno Gamerz"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "46400000",
+        "videoCount": 1117,
+        "viewCount": "13938044444"
+      }
+    },
+    {
+      "id": "UCUA81A-VZAZXYALpOScwFOQ",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@ujjwalshortsofficial",
+        "description": "Hey! My name is Ujjwal aka Techno Gamerz and I'm a gaming YouTuber! Make sure to subscribe for funny shorts!\n\n",
+        "publishedAt": "2021-11-22T18:21:02.128686Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/3DRlnd9h6F9JvTS1yopykwUU9azNskh_JcKuwvAIhfNroW1zVqmqpgRpwzrVtNiHQyjvgoeIqBw=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/3DRlnd9h6F9JvTS1yopykwUU9azNskh_JcKuwvAIhfNroW1zVqmqpgRpwzrVtNiHQyjvgoeIqBw=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3DRlnd9h6F9JvTS1yopykwUU9azNskh_JcKuwvAIhfNroW1zVqmqpgRpwzrVtNiHQyjvgoeIqBw=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Ujjwal Shorts"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "6980000",
+        "videoCount": 41,
+        "viewCount": "880903510"
+      }
+    },
+    {
+      "id": "UCtgGOdTlM-NdJ9rPKIYN8UQ",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@slayypointofficial",
+        "description": "This is Abhyudaya and Gautami, two school friends, who together make fun videos on millennial friendly topics & travel vlogs as well!\nSUBSCRIBE and hit the bell icon! FOLLOW US ON SOCIAL MEDIA \n\nWe also do gaming and diverse content on our second channel- SlayyPop. \n\nFor all Business enquiries :- slayypointofficial@gmail.com",
+        "publishedAt": "2016-03-07T14:34:01Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nBUWR_EdGJduY_Ve5WFSQ0kItsxkmLpWqIhzFZVOj_Rg8=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nBUWR_EdGJduY_Ve5WFSQ0kItsxkmLpWqIhzFZVOj_Rg8=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nBUWR_EdGJduY_Ve5WFSQ0kItsxkmLpWqIhzFZVOj_Rg8=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "Slayy Point"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "9570000",
+        "videoCount": 187,
+        "viewCount": "2769574802"
+      }
+    },
+    {
+      "id": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "snippet": {
+        "country": "IN",
+        "customUrl": "@techshottg",
+        "description": "Playing with tech, discovering the future.\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n",
+        "publishedAt": "2024-01-19T06:43:18.782454Z",
+        "thumbnails": {
+          "high": {
+            "url": "https://yt3.ggpht.com/nlUKAjfXyyd2DoJwpXs1AkwDveW47IEsOrPe0aZ6Dr8_MSP-49bDbFen1l11ueRry-MKfd6NRw=s800-c-k-c0x00ffffff-no-rj"
+          },
+          "default": {
+            "url": "https://yt3.ggpht.com/nlUKAjfXyyd2DoJwpXs1AkwDveW47IEsOrPe0aZ6Dr8_MSP-49bDbFen1l11ueRry-MKfd6NRw=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/nlUKAjfXyyd2DoJwpXs1AkwDveW47IEsOrPe0aZ6Dr8_MSP-49bDbFen1l11ueRry-MKfd6NRw=s240-c-k-c0x00ffffff-no-rj"
+          }
+        },
+        "title": "TechShot"
+      },
+      "statistics": {
+        "hiddenSubscriberCount": false,
+        "subscriberCount": "1790000",
+        "videoCount": 28,
+        "viewCount": "135797955"
+      }
+    }
+  ]
+}
