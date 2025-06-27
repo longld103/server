@@ -1,4 +1,32 @@
-{"items":[
+{"items":
+[
+  {
+    "id": "KFQ0rPQaIlQ",
+    "snippet": {
+      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+      "channelTitle": "viniccius13",
+      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
+      "publishedAt": "2025-06-21T15:08:34Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/KFQ0rPQaIlQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/KFQ0rPQaIlQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/KFQ0rPQaIlQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Farm de Concreto 100% Automática - Minecraft Em busca da casa automática #385"
+    }
+  },
   {
     "id": "6H8cvCf8aP8",
     "snippet": {
@@ -239,7 +267,7 @@
           "width": 320
         }
       },
-      "title": "A CONEXÃO | O Filme |- Minecraft Em busca da casa automática #376"
+      "title": "A CONEXÃO | O Filme | - Minecraft Em busca da casa automática #376"
     }
   },
   {
@@ -513,165 +541,30 @@
     }
   },
   {
-    "id": "teOL5mwlx44",
+    "id": "9-Iq_iCZov4",
     "snippet": {
-      "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
-      "channelTitle": "viniccius13",
-      "description": "+ Episódios: http://www.youtube.com/playlist?feature\u003dedit_ok\u0026list\u003dPLD40851E0E52E9080 Canal do Davi: ...",
-      "publishedAt": "2024-06-12T21:10:40Z",
+      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+      "channelTitle": "Davi",
+      "description": "+Episódios de CraftGames: https://www.youtube.com/playlist?list\u003dPLCp7embZy6ugEc41yQ-Ju858S23pQ4T-w Canal do ...",
+      "publishedAt": "2025-06-22T21:08:04Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/teOL5mwlx44/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9-Iq_iCZov4/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/teOL5mwlx44/default.jpg",
+          "url": "https://i.ytimg.com/vi/9-Iq_iCZov4/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/teOL5mwlx44/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9-Iq_iCZov4/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "Finalmente a FARM PROIBIDA - Minecraft Em busca da casa automática #366"
-    }
-  },
-  {
-    "id": "uZaCX1DaxfY",
-    "snippet": {
-      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
-      "channelTitle": "Luks",
-      "description": "HOJE EU VOU COMEÇAR UM MUNDO HARDCORE AQUI NO CANAL E PRA NAO TER RISCO DE MORRER NESSA SERIE, ...",
-      "publishedAt": "2025-05-30T21:01:03Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "EU ME TORNEI IMORTAL NO MINECRAFT HARDCORE"
-    }
-  },
-  {
-    "id": "0PpPXlKC6Zw",
-    "snippet": {
-      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
-      "channelTitle": "Luks",
-      "description": "Hoje eu e minha namorada vamos tentar derrotar a entidade \"The God\" no mapa de um bloco só Contato profissional: ...",
-      "publishedAt": "2025-04-18T21:00:01Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "ESSE É O SEGREDO PARA DERROTAR O THE GOD NO MINECRAFT"
-    }
-  },
-  {
-    "id": "QapNIKX-XOE",
-    "snippet": {
-      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
-      "channelTitle": "Luks",
-      "description": "Olá meus amigos, hoje eu apresento a voces o Minecraft 2, um jogo que meu irmao @BeryOficial fez em 1 mes, o objetivo era ...",
-      "publishedAt": "2025-03-18T21:00:30Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "FIZERAM PRA MIM UM MINECRAFT 2 ANTES DO NOTCH"
-    }
-  },
-  {
-    "id": "XEkHUzOYXko",
-    "snippet": {
-      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
-      "channelTitle": "Luks",
-      "description": "Olá meus amigos, depois de muito tempo fora, eu final voltei a jogar Minecraft, os mods de terror me despertaram uma ...",
-      "publishedAt": "2025-02-08T21:57:04Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Minecraft 2025 é basicamente isso"
-    }
-  },
-  {
-    "id": "Zt5Dobihe6c",
-    "snippet": {
-      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
-      "channelTitle": "Luks",
-      "description": "Nesse vídeo eu quero quebrar o mundo inteiro do Minecraft, eu vou arrumar qualquer forma possível pra se fazer isso, seja ...",
-      "publishedAt": "2023-05-02T22:00:19Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Zt5Dobihe6c/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Zt5Dobihe6c/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Zt5Dobihe6c/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "EU DESTRUI O MUNDO INTEIRO DO MINECRAFT"
+      "title": "Truques Malucos com o Ghast Feliz! 1.21.6 - Craft Games 339"
     }
   },
   {
@@ -783,30 +676,139 @@
     }
   },
   {
-    "id": "m3Znx2m3FgQ",
+    "id": "bW6dKLqbUAo",
     "snippet": {
-      "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
-      "channelTitle": "Davi",
-      "description": "+Episódios de CraftGames: https://www.youtube.com/playlist?list\u003dPLCp7embZy6ugEc41yQ-Ju858S23pQ4T-w Canal do ...",
-      "publishedAt": "2025-04-06T16:05:24Z",
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "HOJE EU RESOLVI PASSAR 24 HORAS CONSTRUINDO FARMS NO MEU MUNDO DO MINECRAFT HARDCORE, TA NA ...",
+      "publishedAt": "2025-06-10T15:01:04Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/m3Znx2m3FgQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bW6dKLqbUAo/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/m3Znx2m3FgQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/bW6dKLqbUAo/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/m3Znx2m3FgQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bW6dKLqbUAo/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "Como a 1.21.5 Transformou meu Mundo Survival! - Craft Games 336"
+      "title": "EU FIQUEI 24 HORAS CONSTRUINDO FARMS NO MINECRAFT HARDCORE"
+    }
+  },
+  {
+    "id": "uZaCX1DaxfY",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "HOJE EU VOU COMEÇAR UM MUNDO HARDCORE AQUI NO CANAL E PRA NAO TER RISCO DE MORRER NESSA SERIE, ...",
+      "publishedAt": "2025-05-30T21:01:03Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/uZaCX1DaxfY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "EU ME TORNEI IMORTAL NO MINECRAFT HARDCORE"
+    }
+  },
+  {
+    "id": "0PpPXlKC6Zw",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Hoje eu e minha namorada vamos tentar derrotar a entidade \"The God\" no mapa de um bloco só Contato profissional: ...",
+      "publishedAt": "2025-04-18T21:00:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/0PpPXlKC6Zw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "ESSA É UNICA FORMA DE DERROTAR O THE GOD NO MINECRAFT"
+    }
+  },
+  {
+    "id": "QapNIKX-XOE",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Olá meus amigos, hoje eu apresento a voces o Minecraft 2, um jogo que meu irmao @BeryOficial fez em 1 mes, o objetivo era ...",
+      "publishedAt": "2025-03-18T21:00:30Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/QapNIKX-XOE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "FIZERAM PRA MIM UM MINECRAFT 2 ANTES DO NOTCH"
+    }
+  },
+  {
+    "id": "XEkHUzOYXko",
+    "snippet": {
+      "channelId": "UCmfRyLxGdS-Zu1vtbX0AAjg",
+      "channelTitle": "Luks",
+      "description": "Olá meus amigos, depois de muito tempo fora, eu final voltei a jogar Minecraft, os mods de terror me despertaram uma ...",
+      "publishedAt": "2025-02-08T21:57:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/XEkHUzOYXko/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Minecraft 2025 é basicamente isso"
     }
   }
-]}
+]
+}
