@@ -1,1 +1,1219 @@
-{"items":[]}
+{"items":
+[
+  {
+    "id": "2SnqMwjqQo0",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Jogue no Capital Valley: https://discord.gg/cbbWD9wuCn Clique no link https://go.kr3w.gg/PocketBrokerPaulinho2 Use o código ...",
+      "publishedAt": "2025-06-28T00:00:44Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/2SnqMwjqQo0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/2SnqMwjqQo0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/2SnqMwjqQo0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A CIDADE FANTASMA ESTÁ DIFÍCIL 😳 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "ZQ4YAucLhew",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Jogue no Capital Valley: https://discord.gg/cbbWD9wuCn Meu Instagram: @paulinhooloko Contato Empresarial: ...",
+      "publishedAt": "2025-06-27T00:52:41Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ZQ4YAucLhew/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ZQ4YAucLhew/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ZQ4YAucLhew/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "CONFRONTO na CIDADE FANTASMA! 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "AAIQ4DoajD0",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-24T23:38:41Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/AAIQ4DoajD0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/AAIQ4DoajD0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/AAIQ4DoajD0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "RECEBI MISSÃO DA CRlMINOSA 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "6c7EdMl3gCY",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-23T22:25:15Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/6c7EdMl3gCY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/6c7EdMl3gCY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/6c7EdMl3gCY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "A CIDADE FANTASMA no GTA RP 😱 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "V5o539-ns9U",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-23T00:15:28Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/V5o539-ns9U/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/V5o539-ns9U/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/V5o539-ns9U/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "MOLEQUE FORGADO TEVE O QUE MERECEU 🤬 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "Mk8PnFB8zw4",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-21T23:47:46Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Mk8PnFB8zw4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Mk8PnFB8zw4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Mk8PnFB8zw4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PAULINHO CONHECEU O JUNINHO VIDA LOKA no GTA RP 😂 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "nZ5BgWK5loo",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-19T23:34:53Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/nZ5BgWK5loo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/nZ5BgWK5loo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/nZ5BgWK5loo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "MATEl O ABEL? 😱 E AGORA? GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "TcgvYr_WX64",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-14T00:28:54Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/TcgvYr_WX64/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/TcgvYr_WX64/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/TcgvYr_WX64/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "TOMARAM MINHA FAVELA 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "XMqWMU6NzNY",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ Clique no link https://go.kr3w.gg/PocketBrokerPaulinho e ...",
+      "publishedAt": "2025-06-12T00:06:16Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/XMqWMU6NzNY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/XMqWMU6NzNY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/XMqWMU6NzNY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "COLEI C4 nas COSTAS DELE! 😂 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "5hBw_aZP6qg",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-04T22:42:29Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/5hBw_aZP6qg/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/5hBw_aZP6qg/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/5hBw_aZP6qg/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PEGUEI O LÍDER do CRlME! 😱 CONFRONTO FINAL! GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "HdA2Umx2S5Y",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-06-02T22:17:20Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/HdA2Umx2S5Y/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/HdA2Umx2S5Y/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/HdA2Umx2S5Y/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "FUI ENGANADO 😱 O LÍDER do CRlME ESTÁ VIVO! GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "bGfMBC_3AmE",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-05-28T00:41:37Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/bGfMBC_3AmE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/bGfMBC_3AmE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/bGfMBC_3AmE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O LÍDER DO ILEGAL tomou PD 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "zajwX8G83E0",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-05-07T01:23:42Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/zajwX8G83E0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/zajwX8G83E0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/zajwX8G83E0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "HACK NA POLÍCIA 😱 DEI BAZUCADA! GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "bB3-71viFYM",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-05-03T01:20:53Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/bB3-71viFYM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/bB3-71viFYM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/bB3-71viFYM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "VOU SER JULGADO no TRIBUNAL da CIDADE! 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "sbgTBY0Nqbo",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-04-27T00:30:08Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/sbgTBY0Nqbo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/sbgTBY0Nqbo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/sbgTBY0Nqbo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "DEI BAZUCADA na POLIClA 🤬 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "UpjedZDjWmA",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-04-12T00:36:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/UpjedZDjWmA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/UpjedZDjWmA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/UpjedZDjWmA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "RECOMPENSA DE $100 MILHÕES em MIM 😱 2 TEMPORADA! GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "dmNyMNnyW-c",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-04-09T00:12:59Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/dmNyMNnyW-c/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/dmNyMNnyW-c/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/dmNyMNnyW-c/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "RECOMPENSA DE $50 MILHÕES na MINHA CABEÇA! 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "BNm1pD3BhN0",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-03-18T00:10:35Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/BNm1pD3BhN0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/BNm1pD3BhN0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/BNm1pD3BhN0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "CONFRONTO de CIDADE x CIDADE no GTA RP 😱 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "Y0bZdAFaNgw",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-02-21T23:53:58Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Y0bZdAFaNgw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Y0bZdAFaNgw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Y0bZdAFaNgw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "DESTRUÍMOS AS FAVELAS CONCORRENTES no GTA RP 😱 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "Gj8e7seArNw",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Baixe Onestate no seu telefone: ⚡️ https://onestate.onelink.me/nWr0/paulinho1 ⚡️ Código promocional: paulinho Meu ...",
+      "publishedAt": "2025-02-13T00:30:44Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Gj8e7seArNw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Gj8e7seArNw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Gj8e7seArNw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "MEUS SOLDADOS ENTRARAM EM UM CONFRONTO no GTA RP 😱 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "u6HVXl2_tXM",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-01-21T00:04:57Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/u6HVXl2_tXM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/u6HVXl2_tXM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/u6HVXl2_tXM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "ROUBANDO VENDEDORES de CASAS no GTA RP 😱 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "72gXeCCvMjY",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-01-10T00:25:55Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/72gXeCCvMjY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/72gXeCCvMjY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/72gXeCCvMjY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "SEREI O MAIS RICO da CIDADE! 🏆 GTA RP! (Paulinho o LOKO"
+    }
+  },
+  {
+    "id": "Zjp7oS5M1Xo",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2025-01-05T23:54:44Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Zjp7oS5M1Xo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Zjp7oS5M1Xo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Zjp7oS5M1Xo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "ESCONDI MINHA ARMA no FUNDO DO MAR 😱 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "CaFmTVScNjQ",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Vote em mim: https://peb.gg/votacoes/indicacao_publica/ Contato Empresarial: modderempresarial@outlook.com.",
+      "publishedAt": "2024-11-29T23:27:38Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/CaFmTVScNjQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/CaFmTVScNjQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/CaFmTVScNjQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PLANTEI MUITA ERVA ILEGAL 🌿😏 no GTA RP! (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "WzF6igMO2EQ",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Vote em mim: https://peb.gg/votacoes/indicacao_publica/ Contato Empresarial: modderempresarial@outlook.com.",
+      "publishedAt": "2024-11-08T22:43:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/WzF6igMO2EQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/WzF6igMO2EQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/WzF6igMO2EQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "SOM PROIBIDÃO na DELEGACIA da PM 😂 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "ae1QKKmVbiE",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Vote em mim: https://peb.gg/votacoes/indicacao_publica/ Contato Empresarial: modderempresarial@outlook.com.",
+      "publishedAt": "2024-10-26T23:35:09Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ae1QKKmVbiE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ae1QKKmVbiE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ae1QKKmVbiE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "INCRIMINANDO JOGADORES de ADM 😂 GTA RP (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "cwNnz8NzJWQ",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2024-08-07T23:18:48Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/cwNnz8NzJWQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/cwNnz8NzJWQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/cwNnz8NzJWQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "VlNGANÇA DENTRO da DELEGACIA no GTA RP 😡 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "YV9u_1VzZDQ",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2024-06-14T22:23:58Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/YV9u_1VzZDQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/YV9u_1VzZDQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/YV9u_1VzZDQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O DIA QUE XUXEI o DONO da CIDADE ALTA no GTA RP! Paulinho o LOKO"
+    }
+  },
+  {
+    "id": "L6pH5I3ssEc",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2023-12-28T22:36:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/L6pH5I3ssEc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/L6pH5I3ssEc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/L6pH5I3ssEc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "FINGI SER POLlCIA pro ROCKEIRO no GTA RP 😂 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "akErIoskA9g",
+    "snippet": {
+      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
+      "channelTitle": "PAULINHO O LOKO",
+      "description": "Roupas do PAAAULO: https://www.lolja.com.br/parceiros/paulinho-loko/ LIVES em: www.twitch.tv/paulinholokobr Meu Instagram: ...",
+      "publishedAt": "2023-11-30T23:00:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/akErIoskA9g/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/akErIoskA9g/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/akErIoskA9g/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "IRRITANDO GERAL no GTA RP 😂 (Paulinho o LOKO)"
+    }
+  },
+  {
+    "id": "IM_ENzWkAhs",
+    "snippet": {
+      "channelId": "UCHRZR1HWojKvtAxEWQJOH0Q",
+      "channelTitle": "Cortes LOUD Coringa",
+      "description": "Fala pessoal! Bem-vindos ao meu canal de cortes OFICIAL! Se inscreva no meu canal pessoal: https://bit.ly/LOUDcoringa​ Faço ...",
+      "publishedAt": "2025-06-27T23:37:25Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/IM_ENzWkAhs/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/IM_ENzWkAhs/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/IM_ENzWkAhs/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "RESENHANDO NO PEAK KKKK #shorts"
+    }
+  },
+  {
+    "id": "ka-Yg2uNyaA",
+    "snippet": {
+      "channelId": "UCHRZR1HWojKvtAxEWQJOH0Q",
+      "channelTitle": "Cortes LOUD Coringa",
+      "description": "Fala pessoal! Bem-vindos ao meu canal de cortes OFICIAL! Se inscreva no meu canal pessoal: https://bit.ly/LOUDcoringa​ Faço ...",
+      "publishedAt": "2025-06-26T19:23:10Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ka-Yg2uNyaA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ka-Yg2uNyaA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ka-Yg2uNyaA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "CORINGA REAGE AO FALA DE TUDO: AS PESSOAS MAIS LEIGAS DO PLANETA TERRA KKK"
+    }
+  },
+  {
+    "id": "G1I93GQ62Mc",
+    "snippet": {
+      "channelId": "UCHRZR1HWojKvtAxEWQJOH0Q",
+      "channelTitle": "Cortes LOUD Coringa",
+      "description": "Fala pessoal! Bem-vindos ao meu canal de cortes OFICIAL! Se inscreva no meu canal pessoal: https://bit.ly/LOUDcoringa​ Faço ...",
+      "publishedAt": "2025-06-25T23:44:50Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/G1I93GQ62Mc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/G1I93GQ62Mc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/G1I93GQ62Mc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "CORINGA ESTÁ NO PRIME KKKK #shorts"
+    }
+  },
+  {
+    "id": "gGgCXNkdIYY",
+    "snippet": {
+      "channelId": "UCHRZR1HWojKvtAxEWQJOH0Q",
+      "channelTitle": "Cortes LOUD Coringa",
+      "description": "Fala pessoal! Bem-vindos ao meu canal de OFICIAL! Se inscreva no meu canal pessoal: https://bit.ly/LOUDcoringa​ Faço live ...",
+      "publishedAt": "2025-06-24T03:19:41Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/gGgCXNkdIYY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/gGgCXNkdIYY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/gGgCXNkdIYY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "CORINGA REAGE AO MRBEAST: PERCA 45KG E GANHE 250 MIL DÓLARES!!"
+    }
+  },
+  {
+    "id": "KnBJ8g3_rMs",
+    "snippet": {
+      "channelId": "UCHRZR1HWojKvtAxEWQJOH0Q",
+      "channelTitle": "Cortes LOUD Coringa",
+      "description": "Fala pessoal! Bem-vindos ao meu canal de OFICIAL! Se inscreva no meu canal pessoal: https://bit.ly/LOUDcoringa​ Faço live ...",
+      "publishedAt": "2025-06-20T17:25:35Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/KnBJ8g3_rMs/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/KnBJ8g3_rMs/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/KnBJ8g3_rMs/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "CORINGA JOGANDO BLASFEMIA: TENTE NÃO RIR COM ESSA GAMEPLAY KKKK"
+    }
+  },
+  {
+    "id": "pZwB3SqvJtY",
+    "snippet": {
+      "channelId": "UC7hvsI7ZjjwbFs2TUDpCUDA",
+      "channelTitle": "Modder Clips [OFICIAL]",
+      "description": "PAULINHO DESCOBRIU a SENHA do BUNKER do ABEL!   GTA RP (Modder clips) ❤️ Lives de Segunda a Sexta às 20h ...",
+      "publishedAt": "2025-06-27T21:01:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/pZwB3SqvJtY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/pZwB3SqvJtY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/pZwB3SqvJtY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PAULINHO DESCOBRIU a SENHA do BUNKER do ABEL!😱 GTA RP (Modder clips)"
+    }
+  },
+  {
+    "id": "DyWOW-q4pO4",
+    "snippet": {
+      "channelId": "UC7hvsI7ZjjwbFs2TUDpCUDA",
+      "channelTitle": "Modder Clips [OFICIAL]",
+      "description": "PAULINHO E O BOPE FIZERAM o BANCO CENTRAL no CAPITAL! GTA RP (Modder clips) ❤️ Lives de Segunda a Sexta às ...",
+      "publishedAt": "2025-06-26T22:00:13Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/DyWOW-q4pO4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/DyWOW-q4pO4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/DyWOW-q4pO4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PAULINHO E O BOPE FIZERAM o BANCO CENTRAL no CAPITAL! GTA RP (Modder clips)"
+    }
+  },
+  {
+    "id": "d0WlcQ44PS8",
+    "snippet": {
+      "channelId": "UC7hvsI7ZjjwbFs2TUDpCUDA",
+      "channelTitle": "Modder Clips [OFICIAL]",
+      "description": "O SECRETÁRIO DERRITE FOI PEDIR AJUDA ao PAULINHO O LOKO e CONTOU TUDO!   GTA RP (Modder clips) ❤️ Lives de ...",
+      "publishedAt": "2025-06-25T22:00:45Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/d0WlcQ44PS8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/d0WlcQ44PS8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/d0WlcQ44PS8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O SECRETÁRIO DERRITE FOI PEDIR AJUDA ao PAULINHO o LOKO e CONTOU TUDO!😱 GTA RP (Modder clips)"
+    }
+  },
+  {
+    "id": "9Nt7vVnVi3g",
+    "snippet": {
+      "channelId": "UC7hvsI7ZjjwbFs2TUDpCUDA",
+      "channelTitle": "Modder Clips [OFICIAL]",
+      "description": "PAULINHO CONSEGUIU DERRUBAR o ABEL da SECRETARIA de SEGURANÇA! GTA RP (Modder clips) ❤️ Lives de ...",
+      "publishedAt": "2025-06-24T16:51:59Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/9Nt7vVnVi3g/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/9Nt7vVnVi3g/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/9Nt7vVnVi3g/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PAULINHO CONSEGUIU DERRUBAR o ABEL da SECRETARIA de SEGURANÇA! GTA RP (Modder clips)"
+    }
+  },
+  {
+    "id": "WUcJ_gTvp3c",
+    "snippet": {
+      "channelId": "UC7hvsI7ZjjwbFs2TUDpCUDA",
+      "channelTitle": "Modder Clips [OFICIAL]",
+      "description": "INVADIRAM a FAVELA do PAULINHO O LOKO e DEU RUIM!!   GTA RP (Modder clips) ❤️ Lives de Segunda a Sexta às 20h ...",
+      "publishedAt": "2025-06-20T22:00:44Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/WUcJ_gTvp3c/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/WUcJ_gTvp3c/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/WUcJ_gTvp3c/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "INVADIRAM a FAVELA do PAULINHO O LOKO e DEU RUIM!!😢 GTA RP (Modder clips)"
+    }
+  },
+  {
+    "id": "a3pYQ3qltYw",
+    "snippet": {
+      "channelId": "UCPHXtOVmjvbP9OJihsd7gCg",
+      "channelTitle": "Canal Canalha",
+      "description": "",
+      "publishedAt": "2025-06-27T21:00:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/a3pYQ3qltYw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/a3pYQ3qltYw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/a3pYQ3qltYw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O ÚLTIMO é o PIOR 💀"
+    }
+  },
+  {
+    "id": "K9kw7Lqc7B4",
+    "snippet": {
+      "channelId": "UCPHXtOVmjvbP9OJihsd7gCg",
+      "channelTitle": "Canal Canalha",
+      "description": "por MUITO POUCO QUASE foram DE ARRASTA! SORTE OU NÃO ERA A HORA?! Já passou por alguma situação que quase ...",
+      "publishedAt": "2025-06-26T17:19:20Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/K9kw7Lqc7B4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/K9kw7Lqc7B4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/K9kw7Lqc7B4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "PESSOAS SORTUDAS que ESCAPARAM DA M0RTE!!! ⚠️😱 (ft. Renato Albani \u0026amp; Victor Sarro)"
+    }
+  },
+  {
+    "id": "YuMOzN8z2B8",
+    "snippet": {
+      "channelId": "UCPHXtOVmjvbP9OJihsd7gCg",
+      "channelTitle": "Canal Canalha",
+      "description": "",
+      "publishedAt": "2025-06-25T21:00:38Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/YuMOzN8z2B8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/YuMOzN8z2B8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/YuMOzN8z2B8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Tomei o remedinho pra NADA 😭"
+    }
+  },
+  {
+    "id": "-PQWnprSSVc",
+    "snippet": {
+      "channelId": "UCPHXtOVmjvbP9OJihsd7gCg",
+      "channelTitle": "Canal Canalha",
+      "description": "",
+      "publishedAt": "2025-06-24T21:00:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/-PQWnprSSVc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/-PQWnprSSVc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/-PQWnprSSVc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "O Caio é gente boa demais 😎👍"
+    }
+  },
+  {
+    "id": "-ntM16LS7tc",
+    "snippet": {
+      "channelId": "UCPHXtOVmjvbP9OJihsd7gCg",
+      "channelTitle": "Canal Canalha",
+      "description": "INGRESSOS AQUI: https://sac.nonstop.com.br/agenda SE INSCREVA NO CANAL E DEIXE O LIKE, NAMORAL! Segue a gente: ...",
+      "publishedAt": "2025-06-23T21:31:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/-ntM16LS7tc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/-ntM16LS7tc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/-ntM16LS7tc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "3 HUMORISTAS LENDO AVALIAÇÕES DE MOTEL 😳😳 (ft. Renato Albani \u0026amp; Victor Sarro)"
+    }
+  }
+]
+}
