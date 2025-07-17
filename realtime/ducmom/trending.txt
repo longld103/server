@@ -1,6 +1,168 @@
 {"items":
 [
   {
+    "id": "QD9fmNJyOh4",
+    "snippet": {
+      "channelId": "UC94-P57m75DJoYxmCYikSeA",
+      "channelTitle": "Đức Mõm Gamer",
+      "description": "Em đổi lại a chỗ mô tả gồm: Link Groups Facebook: https://www.facebook.com/groups/2555920437998342 Thu Ẹc FF cho ...",
+      "publishedAt": "2025-07-16T11:02:40Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/QD9fmNJyOh4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/QD9fmNJyOh4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/QD9fmNJyOh4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Đức Mõm Kể Chuyện Quá Khứ \u0026quot;Tiêu Tiền Như Nước\u0026quot; Thật Hoang Phí !!!"
+    }
+  },
+  {
+    "id": "9-e2cpTtWhw",
+    "snippet": {
+      "channelId": "UC94-P57m75DJoYxmCYikSeA",
+      "channelTitle": "Đức Mõm Gamer",
+      "description": "Em đổi lại a chỗ mô tả gồm: Link Groups Facebook: https://www.facebook.com/groups/2555920437998342 Thu Ẹc FF cho ...",
+      "publishedAt": "2025-07-12T12:47:11Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/9-e2cpTtWhw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/9-e2cpTtWhw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/9-e2cpTtWhw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Đức Mõm Kể Chuyện Hành Trình Trở Thành Youtuber P2 ???"
+    }
+  },
+  {
+    "id": "3RJv2sPMu9E",
+    "snippet": {
+      "channelId": "UC94-P57m75DJoYxmCYikSeA",
+      "channelTitle": "Đức Mõm Gamer",
+      "description": "Em đổi lại a chỗ mô tả gồm: Link Groups Facebook: https://www.facebook.com/groups/2555920437998342 Thu Ẹc FF cho ...",
+      "publishedAt": "2025-07-10T10:00:16Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/3RJv2sPMu9E/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/3RJv2sPMu9E/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/3RJv2sPMu9E/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Đức Mõm Kể Chuyện Hành Trình Trở Thành Youtuber P1 ???"
+    }
+  },
+  {
+    "id": "glvzBVi3BVQ",
+    "snippet": {
+      "channelId": "UC94-P57m75DJoYxmCYikSeA",
+      "channelTitle": "Đức Mõm Gamer",
+      "description": "Em đổi lại a chỗ mô tả gồm: PAGE Thu Ẹcc FF: https://www.facebook.com/taphoaaccfreefire Thu Ẹc FF cho ace nghĩ game ...",
+      "publishedAt": "2025-07-07T12:20:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/glvzBVi3BVQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/glvzBVi3BVQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/glvzBVi3BVQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Thử Thách Nhặt Súng Trong \u0026quot;Bánh Kem\u0026quot; Lấy Top, Đức Mõm Quá Đen !!!"
+    }
+  },
+  {
+    "id": "kNqBA9-FVVA",
+    "snippet": {
+      "channelId": "UC94-P57m75DJoYxmCYikSeA",
+      "channelTitle": "Đức Mõm Gamer",
+      "description": "Link Groups Phở Bò Chuyên Ẹcc: https://www.facebook.com/2555920437998342 PAGE Thu Ẹcc FF: ...",
+      "publishedAt": "2025-07-04T13:06:33Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/kNqBA9-FVVA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/kNqBA9-FVVA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/kNqBA9-FVVA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Full Trận \u0026quot;M590 Đa Diện\u0026quot; + Caroline, Đức Mõm Quét Máp !!!"
+    }
+  },
+  {
+    "id": "vQxGnBhk2Hg",
+    "snippet": {
+      "channelId": "UC94-P57m75DJoYxmCYikSeA",
+      "channelTitle": "Đức Mõm Gamer",
+      "description": "Link Groups Phở Bò Chuyên Ẹcc: https://www.facebook.com/2555920437998342 PAGE Thu Ẹcc FF: ...",
+      "publishedAt": "2025-07-01T11:15:55Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/vQxGnBhk2Hg/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/vQxGnBhk2Hg/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/vQxGnBhk2Hg/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Thử Thách Nhặt Súng “Trạm Tiếp Tế Vật Phẩm”, Đức Mõm Lấy Top Cực Mượt !!!"
+    }
+  },
+  {
     "id": "f3L71iBYQhE",
     "snippet": {
       "channelId": "UC94-P57m75DJoYxmCYikSeA",
@@ -379,435 +541,192 @@
     }
   },
   {
-    "id": "c25Flgsd_u8",
-    "snippet": {
-      "channelId": "UC94-P57m75DJoYxmCYikSeA",
-      "channelTitle": "Đức Mõm Gamer",
-      "description": "Link Groups Phở Bò Chuyên Ẹcc : https://www.facebook.com/groups/2555920437998342 Ủng Hộ Mình Sớm Lên 500K Sub Nha, ...",
-      "publishedAt": "2025-03-23T11:52:32Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/c25Flgsd_u8/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/c25Flgsd_u8/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/c25Flgsd_u8/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Trận Siêu Kinh Điển 1 Cân 4 ĐẠI KIỆN TƯỚNG, Đức Mõm Trở Lại !!!"
-    }
-  },
-  {
-    "id": "jDCjPix8a6A",
-    "snippet": {
-      "channelId": "UC94-P57m75DJoYxmCYikSeA",
-      "channelTitle": "Đức Mõm Gamer",
-      "description": "Giúp mình đạt 100k subcribe nha :3 Kênh này chuyên game nha :)",
-      "publishedAt": "2025-02-21T11:53:12Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/jDCjPix8a6A/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/jDCjPix8a6A/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/jDCjPix8a6A/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Đức Mõm Công Nghệ Bay Bổng Leo Rank Tử Chiến !!!"
-    }
-  },
-  {
-    "id": "SI3VEz6eL7k",
-    "snippet": {
-      "channelId": "UC94-P57m75DJoYxmCYikSeA",
-      "channelTitle": "Đức Mõm Gamer",
-      "description": "GenshinImpact Tải ngay Genshin Impact: https://hoyo.link/4xL0ThquU Nhập c o d e F16CDD5VWSCS nhận 60 nguyên thạch và 5 ...",
-      "publishedAt": "2025-02-13T11:34:55Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/SI3VEz6eL7k/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/SI3VEz6eL7k/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/SI3VEz6eL7k/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Giải Đấu \u0026quot;VUA MÚA KEO\u0026quot; Phiên Bản Thiếu Kinh Phí Của Team Đức Mõm !!!"
-    }
-  },
-  {
-    "id": "xfQBJqiJwS8",
-    "snippet": {
-      "channelId": "UC94-P57m75DJoYxmCYikSeA",
-      "channelTitle": "Đức Mõm Gamer",
-      "description": "Link Groups Phở Bò Chuyên Ẹcc : https://www.facebook.com/groups/2555920437998342 Kênh này chuyên game nha :) booking ...",
-      "publishedAt": "2025-02-06T11:33:46Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/xfQBJqiJwS8/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/xfQBJqiJwS8/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/xfQBJqiJwS8/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Liệu 2025 Đức Mõm Còn 1 VS 4 Được Hay Không ???"
-    }
-  },
-  {
-    "id": "FO4ihPRgmZY",
-    "snippet": {
-      "channelId": "UC94-P57m75DJoYxmCYikSeA",
-      "channelTitle": "Đức Mõm Gamer",
-      "description": "Giúp mình đạt 100k subcribe nha :3 Kênh này chuyên game nha :)",
-      "publishedAt": "2025-02-03T16:00:41Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/FO4ihPRgmZY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/FO4ihPRgmZY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/FO4ihPRgmZY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Đức Mõm Leo Thách Đấu Tử Chiến !!!"
-    }
-  },
-  {
-    "id": "pi_KXvlb5Ew",
-    "snippet": {
-      "channelId": "UC94-P57m75DJoYxmCYikSeA",
-      "channelTitle": "Đức Mõm Gamer",
-      "description": "Giúp mình đạt 100k subcribe nha :3 Kênh này chuyên game nha :) booking : nhanv874@gmail.com.",
-      "publishedAt": "2025-02-01T10:56:12Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/pi_KXvlb5Ew/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/pi_KXvlb5Ew/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/pi_KXvlb5Ew/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Đức Mõm 1 VS 47 Cân Cả Map Trực Tiếp Trên Live, Thở Không Nổi !!!"
-    }
-  },
-  {
-    "id": "9f7waWFy6D8",
-    "snippet": {
-      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
-      "channelTitle": "Nguyễn Khả Khánh",
-      "description": "freefire #ff #trummoclopfreefire #garenafreefire #tiktokfreefire #nguyenkhakhanh #games #nhasangtaofreefire #sangtaofreefire.",
-      "publishedAt": "2025-06-28T10:48:26Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/9f7waWFy6D8/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/9f7waWFy6D8/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/9f7waWFy6D8/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Liệu thầy có giúp được LongR trận cuối lên rank huyền thoại không🤔🤔?? #8namfreefire #freefire"
-    }
-  },
-  {
-    "id": "3Dt8T3R_WBw",
-    "snippet": {
-      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
-      "channelTitle": "Nguyễn Khả Khánh",
-      "description": "freefire #ff #trummoclopfreefire #garenafreefire #tiktokfreefire #nguyenkhakhanh #games #gamefreefire #nhasangtaofreefire ...",
-      "publishedAt": "2025-06-28T08:16:53Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/3Dt8T3R_WBw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/3Dt8T3R_WBw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/3Dt8T3R_WBw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Liệu thầy và LongR có cân 4 gánh team lật kèo lên cao thủ được không🤔🤔?? #8namfreefire #freefire"
-    }
-  },
-  {
-    "id": "Ebr8zy2ztPE",
-    "snippet": {
-      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
-      "channelTitle": "Nguyễn Khả Khánh",
-      "description": "SUBSCRIBE kênh: @nguyenkhakhanh47 Facabook: Facebook.com/chubodoi47p1 TikTok: ...",
-      "publishedAt": "2025-06-26T09:35:21Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Ebr8zy2ztPE/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Ebr8zy2ztPE/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Ebr8zy2ztPE/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Hoá Thân Thành Biệt Đội Tung Tung Tung \u0026#39;\u0026#39;Đá Live Bác Gấu\u0026#39;\u0026#39; Bất Ngờ Chạm Mặt \u0026#39;\u0026#39;C4 Gaming\u0026#39;\u0026#39; Và Cái Kết"
-    }
-  },
-  {
-    "id": "hyT9CcH64Wk",
-    "snippet": {
-      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
-      "channelTitle": "Nguyễn Khả Khánh",
-      "description": "freefire #garenafreefire #trummoclopfreefire #tiktokfreefire #ff #nguyenkhakhanh SUBSCRIBE kênh: ...",
-      "publishedAt": "2025-06-25T08:07:18Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/hyT9CcH64Wk/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/hyT9CcH64Wk/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/hyT9CcH64Wk/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Liệu đây có phải là cách kéo tâm ảo nhất không 🤔🤔?? #freefire #8namfreefire #trummoclopfreefire"
-    }
-  },
-  {
-    "id": "qej5fbIPeGI",
-    "snippet": {
-      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
-      "channelTitle": "Nguyễn Khả Khánh",
-      "description": "SUBSCRIBE kênh: @nguyenkhakhanh47 Facabook: Facebook.com/chubodoi47p1 TikTok: ...",
-      "publishedAt": "2025-06-24T08:55:06Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/qej5fbIPeGI/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/qej5fbIPeGI/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/qej5fbIPeGI/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Trùm Móc Lốp \u0026#39;\u0026#39;Đá Live ALTP Bác Gấu\u0026#39;\u0026#39; Cân 3 Thách Đấu Top Sever Trực Tiếp Trên Live Và Cái Kết !!!"
-    }
-  },
-  {
-    "id": "gqetUQm9TEI",
+    "id": "Xpz1UGt_440",
     "snippet": {
       "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
       "channelTitle": "LMC Gamer",
-      "description": "Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer #8NamFreeFire Link ...",
-      "publishedAt": "2025-06-28T03:00:00Z",
+      "description": "Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer Link Facebook ...",
+      "publishedAt": "2025-07-15T03:00:30Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/gqetUQm9TEI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Xpz1UGt_440/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/gqetUQm9TEI/default.jpg",
+          "url": "https://i.ytimg.com/vi/Xpz1UGt_440/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/gqetUQm9TEI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Xpz1UGt_440/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "LMC Leo Rank Kèo Búng Tai Khiến Thần Đồng k14 Phát Khóc !!!"
+      "title": "LMC Solo Kèo Cùng Thần Đồng 2k14 !!!"
     }
   },
   {
-    "id": "90HEu5W50J4",
-    "snippet": {
-      "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
-      "channelTitle": "LMC Gamer",
-      "description": "Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer #8NamFreeFire Link ...",
-      "publishedAt": "2025-06-26T09:25:00Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/90HEu5W50J4/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/90HEu5W50J4/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/90HEu5W50J4/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "LMC Leo Rank Gánh Thần Đồng k14 Siêu Hài !!!"
-    }
-  },
-  {
-    "id": "8j4GvBrDXEg",
-    "snippet": {
-      "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
-      "channelTitle": "LMC Gamer",
-      "description": "Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer #8NamFreeFire Link ...",
-      "publishedAt": "2025-06-24T03:00:13Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/8j4GvBrDXEg/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/8j4GvBrDXEg/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/8j4GvBrDXEg/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "LMC Leo Rank Gánh Người Yêu Phần 2 !!!"
-    }
-  },
-  {
-    "id": "Inzohw2DcI0",
-    "snippet": {
-      "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
-      "channelTitle": "LMC Gamer",
-      "description": "GenshinImpact #Genshin #Skirk Link tải : https://hoyo.link/MPYjiMOxz Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động ...",
-      "publishedAt": "2025-06-23T02:56:23Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Inzohw2DcI0/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Inzohw2DcI0/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Inzohw2DcI0/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "LMC Rủ Người Yêu Chơi Genshin imapact !!!"
-    }
-  },
-  {
-    "id": "i5R3tcZhXZ0",
+    "id": "YiaIoDQcZzs",
     "snippet": {
       "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
       "channelTitle": "LMC Gamer",
       "description": "8NamFreeFire Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer Link ...",
-      "publishedAt": "2025-06-22T03:00:49Z",
+      "publishedAt": "2025-07-14T03:10:02Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/i5R3tcZhXZ0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YiaIoDQcZzs/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/i5R3tcZhXZ0/default.jpg",
+          "url": "https://i.ytimg.com/vi/YiaIoDQcZzs/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/i5R3tcZhXZ0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YiaIoDQcZzs/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "LMC Troll Thần Đồng 2k14 Siêu Hài !!!"
+      "title": "LMC Làm Đám Cưới !!!"
+    }
+  },
+  {
+    "id": "5nnRlcs-baE",
+    "snippet": {
+      "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
+      "channelTitle": "LMC Gamer",
+      "description": "8NamFreeFire Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer Link ...",
+      "publishedAt": "2025-07-12T03:00:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/5nnRlcs-baE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/5nnRlcs-baE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/5nnRlcs-baE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LMC Tặng Acc Free Fire Cho Thần Đồng 2k14"
+    }
+  },
+  {
+    "id": "3APVFJzYQGA",
+    "snippet": {
+      "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
+      "channelTitle": "LMC Gamer",
+      "description": "8NamFreeFire Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer Link ...",
+      "publishedAt": "2025-07-10T03:00:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/3APVFJzYQGA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/3APVFJzYQGA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/3APVFJzYQGA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LMC Dẫn Người Yêu Về Ra Mắt ?"
+    }
+  },
+  {
+    "id": "B-6VdAsD9pU",
+    "snippet": {
+      "channelId": "UC_RlQANKI-NoVRjdbjYzu5Q",
+      "channelTitle": "LMC Gamer",
+      "description": "8NamFreeFire Đừng quên cho lmc 1 like 1 đăng kí để lmc có nhiều động lực ra nhiều video hay hơn nha #lmcgamer Link ...",
+      "publishedAt": "2025-07-08T03:35:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/B-6VdAsD9pU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/B-6VdAsD9pU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/B-6VdAsD9pU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LMC Solo Với Gà Chiến Bác Gấu !!!"
+    }
+  },
+  {
+    "id": "-Z-JU18GRro",
+    "snippet": {
+      "channelId": "UCWcjISB2hngdUg0sFpI0f0w",
+      "channelTitle": "Khánh Linh FF",
+      "description": "Nếu các bạn xem video thấy hay thì đừng quên ấn Thích và Chia sẻ nó đó là động lực để mình ra video càng thêm chất lượng và ...",
+      "publishedAt": "2025-07-11T04:30:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/-Z-JU18GRro/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/-Z-JU18GRro/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/-Z-JU18GRro/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Cuộc Chiến Bể Bơi Với 1000 Quả Bóng Nước Cùng Quang Con"
+    }
+  },
+  {
+    "id": "UAqxeU1GZtc",
+    "snippet": {
+      "channelId": "UCWcjISB2hngdUg0sFpI0f0w",
+      "channelTitle": "Khánh Linh FF",
+      "description": "Nếu các bạn xem video thấy hay thì đừng quên ấn Thích và Chia sẻ nó đó là động lực để mình ra video càng thêm chất lượng và ...",
+      "publishedAt": "2025-07-04T04:30:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/UAqxeU1GZtc/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/UAqxeU1GZtc/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/UAqxeU1GZtc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Thử Thách 24H Chỉ Ăn Đồ \u0026quot; Màu Hồng \u0026quot; Cùng Quang Con Và Cái Kết ?"
     }
   },
   {
@@ -892,57 +811,138 @@
     }
   },
   {
-    "id": "P_iHCj9AroM",
+    "id": "7KSB8gFQT34",
     "snippet": {
-      "channelId": "UCWcjISB2hngdUg0sFpI0f0w",
-      "channelTitle": "Khánh Linh FF",
-      "description": "Nếu các bạn xem video thấy hay thì đừng quên ấn Thích và Chia sẻ nó đó là động lực để mình ra video càng thêm chất lượng và ...",
-      "publishedAt": "2025-06-06T04:30:15Z",
+      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
+      "channelTitle": "Nguyễn Khả Khánh",
+      "description": "SUBSCRIBE kênh: @nguyenkhakhanh47 Facabook: Facebook.com/chubodoi47p1 TikTok: ...",
+      "publishedAt": "2025-07-17T09:40:06Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/P_iHCj9AroM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7KSB8gFQT34/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/P_iHCj9AroM/default.jpg",
+          "url": "https://i.ytimg.com/vi/7KSB8gFQT34/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/P_iHCj9AroM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7KSB8gFQT34/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "Cho Quang Con Uống Thuốc Xổ Và Cái Kết ?"
+      "title": "Trùm Móc Lốp  \u0026#39;\u0026#39;Đá Live Gánh Idol Tích Chữ V Lấy Top 1\u0026#39;\u0026#39; Bất Ngờ Chạm Mặt C4 Gaming Và Cái Kết !!!"
     }
   },
   {
-    "id": "UJGajbvk_p8",
+    "id": "tk2yHnK-6bI",
     "snippet": {
-      "channelId": "UCWcjISB2hngdUg0sFpI0f0w",
-      "channelTitle": "Khánh Linh FF",
-      "description": "Nếu các bạn xem video thấy hay thì đừng quên ấn Thích và Chia sẻ nó đó là động lực để mình ra video càng thêm chất lượng và ...",
-      "publishedAt": "2025-05-29T04:30:06Z",
+      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
+      "channelTitle": "Nguyễn Khả Khánh",
+      "description": "SUBSCRIBE kênh: @nguyenkhakhanh47 Facabook: Facebook.com/chubodoi47p1 TikTok: ...",
+      "publishedAt": "2025-07-15T04:02:26Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/UJGajbvk_p8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tk2yHnK-6bI/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/UJGajbvk_p8/default.jpg",
+          "url": "https://i.ytimg.com/vi/tk2yHnK-6bI/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/UJGajbvk_p8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tk2yHnK-6bI/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "Khánh Linh Bị Les \u0026quot; Đòi Yêu Con Gái \u0026quot; Khiến Quang Con Khóc Thét"
+      "title": "Oan Gia Ngõ Hẹp | Trùm Móc Lốp Bất Ngờ Đụng Độ LongR Trong Độc Lang Chiến Và Cái Kết Cực Căng !"
+    }
+  },
+  {
+    "id": "MhH0dxNy_m0",
+    "snippet": {
+      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
+      "channelTitle": "Nguyễn Khả Khánh",
+      "description": "SUBSCRIBE kênh: @nguyenkhakhanh47 Facabook: Facebook.com/chubodoi47p1 TikTok: ...",
+      "publishedAt": "2025-07-13T03:10:22Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/MhH0dxNy_m0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/MhH0dxNy_m0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/MhH0dxNy_m0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Trùm Móc Lốp Thử Thách \u0026#39;\u0026#39;Đá Live Bác Gấu\u0026#39;\u0026#39; Lụm Kèo 5 Củ ALTP Và Cái Kết Cực Đắng !!!"
+    }
+  },
+  {
+    "id": "qP3rgNYCbTk",
+    "snippet": {
+      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
+      "channelTitle": "Nguyễn Khả Khánh",
+      "description": "SUBSCRIBE kênh: @nguyenkhakhanh47 Facabook: Facebook.com/chubodoi47p1 TikTok: ...",
+      "publishedAt": "2025-07-09T04:55:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/qP3rgNYCbTk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/qP3rgNYCbTk/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/qP3rgNYCbTk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Trùm Móc Lốp Cùng Kí Đầu Mày Giờ Thử Thách \u0026#39;\u0026#39;Hoá Thân Thành Anh Shipper\u0026#39;\u0026#39; Phát Kẹo Đồng Cho Cả Map 🤣"
+    }
+  },
+  {
+    "id": "lsThP7kVJQQ",
+    "snippet": {
+      "channelId": "UCBUDTDZo0QenO5ou_Ik3cTQ",
+      "channelTitle": "Nguyễn Khả Khánh",
+      "description": "freefire #ff #trummoclopfreefire #garenafreefire #tiktokfreefire #nguyenkhakhanh #games #nhasangtaofreefire #sangtaofreefire ...",
+      "publishedAt": "2025-07-09T03:54:37Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/lsThP7kVJQQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/lsThP7kVJQQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/lsThP7kVJQQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Liệu thầy có tiêu diệt được hách giúp khánh đoàn lọt top 10 thách đấu sever không🤔?? #8namfreefire"
     }
   }
 ]
