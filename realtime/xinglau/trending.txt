@@ -1,5 +1,167 @@
 {"items":[
   {
+    "id": "8uVBsmJ2LXk",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "shorts #funny #comedia #humor #funny.",
+      "publishedAt": "2025-07-22T16:00:14Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/8uVBsmJ2LXk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/8uVBsmJ2LXk/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/8uVBsmJ2LXk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "assim não..."
+    }
+  },
+  {
+    "id": "LN5eduOdzz4",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
+      "publishedAt": "2025-07-22T14:01:28Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/LN5eduOdzz4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/LN5eduOdzz4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/LN5eduOdzz4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "EXPLOREI UM ORFANATO ABANDONADO! Lenda da Diretora macabra"
+    }
+  },
+  {
+    "id": "6cFneOtHsKM",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "shorts #funny #comedy #trending.",
+      "publishedAt": "2025-07-21T17:15:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/6cFneOtHsKM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/6cFneOtHsKM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/6cFneOtHsKM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "o  cofre indestrutível..."
+    }
+  },
+  {
+    "id": "K0QqzJHNI3Y",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
+      "publishedAt": "2025-07-21T14:00:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/K0QqzJHNI3Y/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/K0QqzJHNI3Y/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/K0QqzJHNI3Y/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "OS BOTFRIENDS SÃO HUMANOS???"
+    }
+  },
+  {
+    "id": "dKHMyGUDKAo",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "shorts #funny #humor #trending.",
+      "publishedAt": "2025-07-20T17:25:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/dKHMyGUDKAo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/dKHMyGUDKAo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/dKHMyGUDKAo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "foi você que pediu"
+    }
+  },
+  {
+    "id": "LY8IK8qaggs",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
+      "publishedAt": "2025-07-20T14:13:50Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/LY8IK8qaggs/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/LY8IK8qaggs/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/LY8IK8qaggs/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LIGA MISTÉRIO TROCOU DE PERSONALIDADE POR 24 HORAS"
+    }
+  },
+  {
     "id": "5SiTNNkfFtU",
     "snippet": {
       "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
@@ -105,6 +267,33 @@
         }
       },
       "title": "negociação é tudo..."
+    }
+  },
+  {
+    "id": "P14g57UM1pY",
+    "snippet": {
+      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
+      "channelTitle": "Xinglau",
+      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
+      "publishedAt": "2025-07-17T14:00:06Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/P14g57UM1pY/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/P14g57UM1pY/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/P14g57UM1pY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "GASTEI 10 MIL REAIS EM LABUBUS NA DEEPWEB ( veio raros? )"
     }
   },
   {
@@ -351,192 +540,165 @@
     }
   },
   {
-    "id": "cAHAnpSXeVI",
+    "id": "m40fXRLAs1Q",
     "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
-      "publishedAt": "2025-07-14T14:10:49Z",
+      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
+      "channelTitle": "Enaldinho",
+      "description": "",
+      "publishedAt": "2025-07-22T22:01:00Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/cAHAnpSXeVI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m40fXRLAs1Q/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/cAHAnpSXeVI/default.jpg",
+          "url": "https://i.ytimg.com/vi/m40fXRLAs1Q/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/cAHAnpSXeVI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m40fXRLAs1Q/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "PESQUEI O LABUBU RARO NA PESCA MAGNÉTICA!!!"
+      "title": "TIRA A MÃO DAÍ! #shorts"
     }
   },
   {
-    "id": "VRfVtCQ_CVc",
+    "id": "YmfsZMdIkpA",
     "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "shorts #funny #comedy #trending.",
-      "publishedAt": "2025-07-13T18:42:34Z",
+      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
+      "channelTitle": "Enaldinho",
+      "description": "Meu espetáculo: https://www.enaldinho.com.br O conteúdo deste e de todos os vídeos do canal tem como principal intuito o ...",
+      "publishedAt": "2025-07-22T15:00:06Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/VRfVtCQ_CVc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YmfsZMdIkpA/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/VRfVtCQ_CVc/default.jpg",
+          "url": "https://i.ytimg.com/vi/YmfsZMdIkpA/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/VRfVtCQ_CVc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YmfsZMdIkpA/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "não entendeu nada..."
+      "title": "COMPREI UM LABUBU DO MAL NA DARKWEB!"
     }
   },
   {
-    "id": "t40RxhVl2I4",
+    "id": "YhTVnK8NDE0",
     "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
-      "publishedAt": "2025-07-13T14:01:11Z",
+      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
+      "channelTitle": "Enaldinho",
+      "description": "",
+      "publishedAt": "2025-07-20T22:00:37Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/t40RxhVl2I4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YhTVnK8NDE0/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/t40RxhVl2I4/default.jpg",
+          "url": "https://i.ytimg.com/vi/YhTVnK8NDE0/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/t40RxhVl2I4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YhTVnK8NDE0/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "KID CHEGOU! Nova PEROSNALIDADE do SMILE"
+      "title": "CAMA DE PREGOS! #shorts"
     }
   },
   {
-    "id": "YvgN4MvPIXQ",
+    "id": "O-VfA9d70YM",
     "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "shorts #funny #comedy #engraçado.",
-      "publishedAt": "2025-07-12T17:30:08Z",
+      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
+      "channelTitle": "Enaldinho",
+      "description": "Meu espetáculo: https://www.enaldinho.com.br O conteúdo deste e de todos os vídeos do canal tem como principal intuito o ...",
+      "publishedAt": "2025-07-20T15:00:06Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/YvgN4MvPIXQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/O-VfA9d70YM/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/YvgN4MvPIXQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/O-VfA9d70YM/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/YvgN4MvPIXQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/O-VfA9d70YM/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "o que você prefere?"
+      "title": "ENCONTRANDO ITENS RAROS ONDE NINGUÉM IMAGINA!"
     }
   },
   {
-    "id": "pQk8RzHylO0",
+    "id": "55qjuF9Yu48",
     "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
-      "publishedAt": "2025-07-12T14:01:18Z",
+      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
+      "channelTitle": "Enaldinho",
+      "description": "",
+      "publishedAt": "2025-07-19T22:00:06Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/pQk8RzHylO0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/55qjuF9Yu48/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/pQk8RzHylO0/default.jpg",
+          "url": "https://i.ytimg.com/vi/55qjuF9Yu48/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/pQk8RzHylO0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/55qjuF9Yu48/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "AS NOVAS PERSONALIDADES DO SMILE 😱"
+      "title": "DESAFIO DAS BOLINHAS! #shorts"
     }
   },
   {
-    "id": "nchf5oNbW5c",
+    "id": "D9q6SKvEEYc",
     "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "shorts #humor #funny #comedy.",
-      "publishedAt": "2025-07-11T16:01:24Z",
+      "channelId": "UChPrmxucpqE8Pvr0uhNS0-g",
+      "channelTitle": "Sandega",
+      "description": "shorts #funny #comedy #humor #comedia.",
+      "publishedAt": "2025-07-22T15:50:00Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/nchf5oNbW5c/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/D9q6SKvEEYc/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/nchf5oNbW5c/default.jpg",
+          "url": "https://i.ytimg.com/vi/D9q6SKvEEYc/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/nchf5oNbW5c/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/D9q6SKvEEYc/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "você conhece?"
-    }
-  },
-  {
-    "id": "MOpaB1D_h6o",
-    "snippet": {
-      "channelId": "UCQEUV7le_zYKNKGmUJOwvBw",
-      "channelTitle": "Xinglau",
-      "description": "SE INSCREVE    ** Contato Profissional: bauers@agenciacurta.com CAMISAS LIGA MISTÉRIO ...",
-      "publishedAt": "2025-07-11T15:20:08Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/MOpaB1D_h6o/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/MOpaB1D_h6o/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/MOpaB1D_h6o/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "ZIGGY POR FAVOR ME PERDOA 😞"
+      "title": "entramos em um loop"
     }
   },
   {
@@ -648,165 +810,57 @@
     }
   },
   {
-    "id": "hSpIbroHEak",
+    "id": "zAPlqo080xM",
     "snippet": {
-      "channelId": "UChPrmxucpqE8Pvr0uhNS0-g",
-      "channelTitle": "Sandega",
-      "description": "shorts #funny #comedy #trending.",
-      "publishedAt": "2025-07-13T21:00:43Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/hSpIbroHEak/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/hSpIbroHEak/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/hSpIbroHEak/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "🕺🕺"
-    }
-  },
-  {
-    "id": "55qjuF9Yu48",
-    "snippet": {
-      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
-      "channelTitle": "Enaldinho",
+      "channelId": "UCMkJF-1FaHGRZWH9ZwkoO1Q",
+      "channelTitle": "ZIGGY",
       "description": "",
-      "publishedAt": "2025-07-19T22:00:06Z",
+      "publishedAt": "2025-07-23T13:31:07Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/55qjuF9Yu48/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zAPlqo080xM/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/55qjuF9Yu48/default.jpg",
+          "url": "https://i.ytimg.com/vi/zAPlqo080xM/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/55qjuF9Yu48/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zAPlqo080xM/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "DESAFIO DAS BOLINHAS! #shorts"
+      "title": "DA LIKE, SE INSCREVA-SE…E COMENTA😡"
     }
   },
   {
-    "id": "toTlhjok7Mg",
+    "id": "6_OZp_b78tE",
     "snippet": {
-      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
-      "channelTitle": "Enaldinho",
-      "description": "Meu espetáculo: https://www.enaldinho.com.br O conteúdo deste e de todos os vídeos do canal tem como principal intuito o ...",
-      "publishedAt": "2025-07-19T15:00:06Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/toTlhjok7Mg/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/toTlhjok7Mg/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/toTlhjok7Mg/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DEI UM PORCO ESPINHO DE PRESENTE PARA A EMILLY VICK!"
-    }
-  },
-  {
-    "id": "5LDw2BrxxbM",
-    "snippet": {
-      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
-      "channelTitle": "Enaldinho",
+      "channelId": "UCMkJF-1FaHGRZWH9ZwkoO1Q",
+      "channelTitle": "ZIGGY",
       "description": "",
-      "publishedAt": "2025-07-18T22:22:49Z",
+      "publishedAt": "2025-07-22T15:29:54Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/5LDw2BrxxbM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6_OZp_b78tE/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/5LDw2BrxxbM/default.jpg",
+          "url": "https://i.ytimg.com/vi/6_OZp_b78tE/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/5LDw2BrxxbM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6_OZp_b78tE/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "DESAFIO DO OVO! #shorts"
-    }
-  },
-  {
-    "id": "Ik7W0C4fqDo",
-    "snippet": {
-      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
-      "channelTitle": "Enaldinho",
-      "description": "Meu espetáculo: https://www.enaldinho.com.br O conteúdo deste e de todos os vídeos do canal tem como principal intuito o ...",
-      "publishedAt": "2025-07-18T15:00:06Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Ik7W0C4fqDo/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Ik7W0C4fqDo/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Ik7W0C4fqDo/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "QUEM COMPLETAR A COLEÇÃO DE LABUBU PRIMEIRO, VENCE!"
-    }
-  },
-  {
-    "id": "e4uGYCtgbWM",
-    "snippet": {
-      "channelId": "UC2bYhAHyaqfWlPXWBVk4BcA",
-      "channelTitle": "Enaldinho",
-      "description": "",
-      "publishedAt": "2025-07-17T22:00:48Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/e4uGYCtgbWM/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/e4uGYCtgbWM/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/e4uGYCtgbWM/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DESAFIO DOS COPOS! #shorts"
+      "title": "PENSA 🤔"
     }
   },
   {
@@ -889,59 +943,6 @@
       },
       "title": "DUVIDA É? 🤨 #humor #comedia"
     }
-  },
-  {
-    "id": "GKOVZAe9BDY",
-    "snippet": {
-      "channelId": "UCMkJF-1FaHGRZWH9ZwkoO1Q",
-      "channelTitle": "ZIGGY",
-      "description": "",
-      "publishedAt": "2025-07-09T22:22:28Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/GKOVZAe9BDY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/GKOVZAe9BDY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/GKOVZAe9BDY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "O FIM DA LIGA MISTÉRIO"
-    }
-  },
-  {
-    "id": "392sdJpHJB4",
-    "snippet": {
-      "channelId": "UCMkJF-1FaHGRZWH9ZwkoO1Q",
-      "channelTitle": "ZIGGY",
-      "description": "",
-      "publishedAt": "2025-07-04T22:56:38Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/392sdJpHJB4/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/392sdJpHJB4/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/392sdJpHJB4/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "ZIGGY O MÚSICO VOLTOU  🪈🎶"
-    }
   }
-]}
+]
+}
