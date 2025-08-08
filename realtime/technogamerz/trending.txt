@@ -5,6 +5,111 @@
       "caption": false,
       "definition": "hd",
       "dimension": "2d",
+      "duration": "PT1H12M8S",
+      "licensedContent": true
+    },
+    "id": "r2JEr7_TU3I",
+    "snippet": {
+      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "channelTitle": "Techno Gamerz",
+      "description": "WORKING IN A HORROR CAFE AT NIGHT | THE CLOSING SHIFT\n#technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+      "publishedAt": "2025-08-07T03:30:41Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/r2JEr7_TU3I/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/r2JEr7_TU3I/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/r2JEr7_TU3I/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/r2JEr7_TU3I/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/r2JEr7_TU3I/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "WORKING IN A HAUNTED CAFE AT NIGHT"
+    },
+    "statistics": {
+      "commentCount": 7753,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 120851,
+      "viewCount": 2534381
+    }
+  },
+  {
+    "id": "uKKIzbYf7R8",
+    "snippet": {
+      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
+      "channelTitle": "Techno Plays",
+      "description": "I GOT A SECURITY GUARD JOB AT AIRPORT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
+      "publishedAt": "2025-08-06T04:42:12Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/uKKIzbYf7R8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/uKKIzbYf7R8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/uKKIzbYf7R8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I GOT A SECURITY GUARD JOB AT AIRPORT | TECHNO GAMERZ"
+    }
+  },
+  {
+    "id": "OSAklfQ5CUE",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "1000 VS ₹100000 DRONES #drone #technogamerz #ujjwal In this video, I tested multiple drones ranging from ₹1000 to ...",
+      "publishedAt": "2025-08-04T12:00:49Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/OSAklfQ5CUE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/OSAklfQ5CUE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/OSAklfQ5CUE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "₹1000 VS ₹100000 DRONES"
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
       "duration": "PT50M28S",
       "licensedContent": true
     },
@@ -44,11 +149,11 @@
       "title": "I BUILT THE MOST BEAUTIFUL TOWN"
     },
     "statistics": {
-      "commentCount": 10339,
+      "commentCount": 19397,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 117806,
-      "viewCount": 1368646
+      "likeCount": 245121,
+      "viewCount": 4209164
     }
   },
   {
@@ -110,7 +215,7 @@
     "snippet": {
       "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
       "channelTitle": "TechShot",
-      "description": "I TRIED BEST HOME GADGETS #homegadgets #ujjwal #technogamerz In this video I tried out 5 top home gadgets that are ...",
+      "description": "5000 VS ₹200000 HOME GADGETS #homegadgets #ujjwal #technogamerz In this video I tried out 5 top home gadgets that are ...",
       "publishedAt": "2025-07-29T06:30:13Z",
       "thumbnails": {
         "high": {
@@ -129,7 +234,7 @@
           "width": 320
         }
       },
-      "title": "I TRIED BEST HOME GADGETS"
+      "title": "₹5000 VS ₹200000 HOME GADGETS"
     }
   },
   {
@@ -203,11 +308,11 @@
       "title": "I WON $100,000 IN SQUID GAME"
     },
     "statistics": {
-      "commentCount": 14390,
+      "commentCount": 14967,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 237459,
-      "viewCount": 7585439
+      "likeCount": 253365,
+      "viewCount": 8884700
     }
   },
   {
@@ -281,11 +386,11 @@
       "title": "BUYING A NEW SPORTS CAR | CAR DEALER SIMULATOR GAMEPLAY #3"
     },
     "statistics": {
-      "commentCount": 9135,
+      "commentCount": 9298,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 168833,
-      "viewCount": 4140882
+      "likeCount": 174018,
+      "viewCount": 4451434
     }
   },
   {
@@ -386,11 +491,11 @@
       "title": "I BUILT AN AIRPORT IN MY CITY"
     },
     "statistics": {
-      "commentCount": 13323,
+      "commentCount": 13402,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 201463,
-      "viewCount": 4953957
+      "likeCount": 205860,
+      "viewCount": 5193750
     }
   },
   {
@@ -464,11 +569,11 @@
       "title": "LEVEL 1 VS LEVEL 100 WARSHIP BATTLE"
     },
     "statistics": {
-      "commentCount": 8236,
+      "commentCount": 8254,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 123367,
-      "viewCount": 3287164
+      "likeCount": 125100,
+      "viewCount": 3432500
     }
   },
   {
@@ -515,11 +620,11 @@
       "title": "MY FIRST DAY IN GENSHIN IMPACT"
     },
     "statistics": {
-      "commentCount": 15858,
+      "commentCount": 15941,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 139771,
-      "viewCount": 2739598
+      "likeCount": 141391,
+      "viewCount": 2814847
     }
   },
   {
@@ -728,11 +833,11 @@
       "title": "SELLING OLD SPORTS CARS FOR MONEY"
     },
     "statistics": {
-      "commentCount": 23018,
+      "commentCount": 22986,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 228786,
-      "viewCount": 7480535
+      "likeCount": 229586,
+      "viewCount": 7557835
     }
   },
   {
@@ -779,11 +884,11 @@
       "title": "MY NEW CAR GOT DESTROYED IN DESERT"
     },
     "statistics": {
-      "commentCount": 14223,
+      "commentCount": 14238,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 216194,
-      "viewCount": 6747354
+      "likeCount": 217203,
+      "viewCount": 6847064
     }
   },
   {
@@ -830,11 +935,11 @@
       "title": "I OPENED A NEW CAR DEALERSHIP  | CAR DEALER SIMULATOR GAMEPLAY #1"
     },
     "statistics": {
-      "commentCount": 17950,
+      "commentCount": 17941,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 271501,
-      "viewCount": 6685081
+      "likeCount": 272281,
+      "viewCount": 6741963
     }
   },
   {
@@ -935,11 +1040,11 @@
       "title": "I BUILT A NEW MODERN CITY"
     },
     "statistics": {
-      "commentCount": 34804,
+      "commentCount": 34809,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 325745,
-      "viewCount": 7831199
+      "likeCount": 327090,
+      "viewCount": 7897359
     }
   },
   {
@@ -986,11 +1091,11 @@
       "title": "BUILDING A NEW METRO IN MY CITY"
     },
     "statistics": {
-      "commentCount": 26557,
+      "commentCount": 26539,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 298604,
-      "viewCount": 7542655
+      "likeCount": 299336,
+      "viewCount": 7585410
     }
   },
   {
@@ -1037,11 +1142,11 @@
       "title": "I BUILD MY NEW CITY"
     },
     "statistics": {
-      "commentCount": 24238,
+      "commentCount": 24239,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 356995,
-      "viewCount": 9403597
+      "likeCount": 358155,
+      "viewCount": 9476914
     }
   },
   {
@@ -1088,11 +1193,11 @@
       "title": "THE END OF CALL OF DUTY MODERN WARFARE"
     },
     "statistics": {
-      "commentCount": 11120,
+      "commentCount": 11113,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 128857,
-      "viewCount": 4155546
+      "likeCount": 129178,
+      "viewCount": 4191283
     }
   },
   {
@@ -1139,11 +1244,11 @@
       "title": "THERE\u0027S A SHARK IN MY SWIMMING POOL"
     },
     "statistics": {
-      "commentCount": 13615,
+      "commentCount": 13607,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 200975,
-      "viewCount": 6782683
+      "likeCount": 201351,
+      "viewCount": 6828429
     }
   },
   {
@@ -1171,84 +1276,6 @@
         }
       },
       "title": "I TRIED COOL KITCHEN GADGETS"
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT51M10S",
-      "licensedContent": true
-    },
-    "id": "CVXB1aLJu9E",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "I BUILD THE BEST CAR TO SURVIVE | DRIVE BEYOND HORIZONS\n#technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2025-05-14T03:30:08Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/CVXB1aLJu9E/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/CVXB1aLJu9E/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/CVXB1aLJu9E/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/CVXB1aLJu9E/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/CVXB1aLJu9E/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "I BUILD THE BEST CAR TO SURVIVE"
-    },
-    "statistics": {
-      "commentCount": 19189,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 305231,
-      "viewCount": 11003924
-    }
-  },
-  {
-    "id": "PukQnBiWgkg",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DO NOT STAY IN THIS HORROR RESTAURANT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
-      "publishedAt": "2025-05-13T04:25:49Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/PukQnBiWgkg/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/PukQnBiWgkg/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/PukQnBiWgkg/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DO NOT STAY IN THIS HORROR RESTAURANT | TECHNO GAMERZ"
     }
   },
   {
@@ -1384,60 +1411,6 @@
         }
       },
       "title": "Franklin stole my car... for real this time! @ShawnSoloFonteno  I’ts time to take revenge"
-    }
-  },
-  {
-    "id": "hRHQgU5obiQ",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED 7 COOL GADGETS FROM SHARK TANK #ujjwal #technogamerz #gadgets Shark Tank Season 4 introduced some of the ...",
-      "publishedAt": "2025-03-18T12:30:43Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED 7 COOL GADGETS FROM SHARK TANK"
-    }
-  },
-  {
-    "id": "rb4TtjH6qFs",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Hey guys! Today, I\u0027m jumping into the intense world of World War Z, where survival is everything! Get ready for nonstop action, ...",
-      "publishedAt": "2025-02-26T15:26:34Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/rb4TtjH6qFs/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/rb4TtjH6qFs/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/rb4TtjH6qFs/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "The Ultimate Zombie Battle - Playing World War Z with @OMENIndia"
     }
   },
   {
@@ -1870,6 +1843,33 @@
         }
       },
       "title": "I HAVE TO SAVE THIS AIRPORT | READY OR NOT GAMEPLAY"
+    }
+  },
+  {
+    "id": "1XoA7o-k004",
+    "snippet": {
+      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
+      "channelTitle": "Ujjwal",
+      "description": "I BECAME A BABY | WHO\u0027S YOUR DADDY #funny #technogamerz Share, Support, Subscribe!!! Subscribe: ...",
+      "publishedAt": "2024-06-13T03:30:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/1XoA7o-k004/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/1XoA7o-k004/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/1XoA7o-k004/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I BECAME A BABY"
     }
   },
   {
