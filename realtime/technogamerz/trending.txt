@@ -1,6 +1,57 @@
 {"items":
 [
   {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
+      "duration": "PT17M11S",
+      "licensedContent": true
+    },
+    "id": "c0nCZL7WxWI",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON\n#gadgets #technogamerz #ujjwal \n\nLevel up your mobile gaming experience with these amazing gaming gadgets designed for phone gamers who want better control, comfort, and immersive gameplay. These accessories work perfectly with Android and iOS devices and help you enjoy smoother, more exciting gaming sessions. Watch till the end and let me know which gadget impressed you the most!\n\nJump into Asphalt Legends here: https://gmlft.co/AL-Techshot\nThe new India racetrack is out now and you can use my code INDIASPHALT25 until January 15th to unlock exclusive rewards\n\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "publishedAt": "2025-12-16T03:32:28Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON"
+    },
+    "statistics": {
+      "commentCount": 1208,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 23331,
+      "viewCount": 452561
+    }
+  },
+  {
     "id": "6v1vJGZ5IQk",
     "snippet": {
       "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
@@ -71,11 +122,11 @@
       "title": "WORLD\u0027S MOST TROLLING GAME"
     },
     "statistics": {
-      "commentCount": 15321,
+      "commentCount": 19269,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 165821,
-      "viewCount": 4238412
+      "likeCount": 179753,
+      "viewCount": 4905763
     }
   },
   {
@@ -122,11 +173,11 @@
       "title": "SUPER CRAZY CYCLE STUNTS"
     },
     "statistics": {
-      "commentCount": 17035,
+      "commentCount": 17339,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 160793,
-      "viewCount": 4906214
+      "likeCount": 166882,
+      "viewCount": 5423572
     }
   },
   {
@@ -173,11 +224,11 @@
       "title": "I BECAME A CRIME DETECTIVE"
     },
     "statistics": {
-      "commentCount": 17212,
+      "commentCount": 17501,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 219701,
-      "viewCount": 7421139
+      "likeCount": 227910,
+      "viewCount": 8069773
     }
   },
   {
@@ -278,11 +329,11 @@
       "title": "THIS MONSTER IS CHASING ME | SUBLIMINAL"
     },
     "statistics": {
-      "commentCount": 10784,
+      "commentCount": 10802,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 134061,
-      "viewCount": 3926425
+      "likeCount": 136710,
+      "viewCount": 4125721
     }
   },
   {
@@ -329,11 +380,11 @@
       "title": "I OPENED AN INDIAN CAR MECHANIC SHOP"
     },
     "statistics": {
-      "commentCount": 10542,
+      "commentCount": 10550,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 176727,
-      "viewCount": 4297649
+      "likeCount": 179636,
+      "viewCount": 4487468
     }
   },
   {
@@ -380,11 +431,11 @@
       "title": "WORKING LATE NIGHT SHIFT AT A GAS STATION"
     },
     "statistics": {
-      "commentCount": 13778,
+      "commentCount": 13829,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 184298,
-      "viewCount": 4547327
+      "likeCount": 186951,
+      "viewCount": 4723330
     }
   },
   {
@@ -485,11 +536,11 @@
       "title": "ESCAPE THE INDIAN HORROR TRAIN | ANANT EXPRESS"
     },
     "statistics": {
-      "commentCount": 24580,
+      "commentCount": 24645,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 304976,
-      "viewCount": 9081749
+      "likeCount": 308622,
+      "viewCount": 9351317
     }
   },
   {
@@ -563,11 +614,11 @@
       "title": "I PLAYED GTA 6 FANMADES"
     },
     "statistics": {
-      "commentCount": 34146,
+      "commentCount": 34118,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 331001,
-      "viewCount": 8569604
+      "likeCount": 333017,
+      "viewCount": 8737697
     }
   },
   {
@@ -641,11 +692,11 @@
       "title": "MY FIRST DAY IN INDIAN TRUCK SIMULATOR"
     },
     "statistics": {
-      "commentCount": 26943,
+      "commentCount": 26958,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 260801,
-      "viewCount": 7948481
+      "likeCount": 262584,
+      "viewCount": 8133712
     }
   },
   {
@@ -692,11 +743,11 @@
       "title": "BIGGEST POLICE CHASE IN THE CITY | GTA 5 GAMEPLAY #161"
     },
     "statistics": {
-      "commentCount": 430487,
+      "commentCount": 439966,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1242851,
-      "viewCount": 20092720
+      "likeCount": 1250673,
+      "viewCount": 20751861
     }
   },
   {
@@ -797,11 +848,11 @@
       "title": "FERRARI RACECAR DESTROYED AGAIN | GTA 5 GAMEPLAY #160"
     },
     "statistics": {
-      "commentCount": 453363,
+      "commentCount": 452876,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1254091,
-      "viewCount": 17420491
+      "likeCount": 1255221,
+      "viewCount": 17654069
     }
   },
   {
@@ -875,11 +926,11 @@
       "title": "FINALLY I ESCAPED THE PRISON"
     },
     "statistics": {
-      "commentCount": 11555,
+      "commentCount": 11564,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 312343,
-      "viewCount": 11821618
+      "likeCount": 314165,
+      "viewCount": 12020217
     }
   },
   {
@@ -926,11 +977,11 @@
       "title": "CAN I ESCAPE THE PRISON FROM A SPOON?"
     },
     "statistics": {
-      "commentCount": 18708,
+      "commentCount": 18682,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 353015,
-      "viewCount": 15751093
+      "likeCount": 354842,
+      "viewCount": 15997198
     }
   },
   {
@@ -977,62 +1028,11 @@
       "title": "I DESTROYED 50,000,000 SUPERCAR | GTA 5 GAMEPLAY #158"
     },
     "statistics": {
-      "commentCount": 51267,
+      "commentCount": 51187,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 994807,
-      "viewCount": 22100159
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT28M37S",
-      "licensedContent": true
-    },
-    "id": "wR2M_bSeHN4",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "MY FIRST DAY IN RACING MASTER\n\nLAVA PLAY ULTRA\nLink -  https://amzn.in/d/beRWZQ1\n\n#LAVAMobiles #PlayUltra5G #ProudlyIndian #IndianSmartphone\n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2025-08-27T09:46:20Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/wR2M_bSeHN4/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/wR2M_bSeHN4/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/wR2M_bSeHN4/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/wR2M_bSeHN4/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/wR2M_bSeHN4/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "MY FIRST DAY IN RACING MASTER"
-    },
-    "statistics": {
-      "commentCount": 19906,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 212228,
-      "viewCount": 6343091
+      "likeCount": 996177,
+      "viewCount": 22272720
     }
   },
   {
@@ -1414,6 +1414,87 @@
     }
   },
   {
+    "id": "rjZkV3M7dzI",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED COOL KITCHEN GADGETS #cooking #kitchen #ujjwal #technogamerz In this video, I explore some super useful and fun ...",
+      "publishedAt": "2025-05-14T06:30:24Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/rjZkV3M7dzI/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/rjZkV3M7dzI/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/rjZkV3M7dzI/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED COOL KITCHEN GADGETS"
+    }
+  },
+  {
+    "id": "xnDbTcUUpLU",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "BUILDING A CAR IN REAL LIFE #2 #technogamerz #ujjwal #car In Part 1, I built my own toy Mustang car from scratch and now it\u0027s ...",
+      "publishedAt": "2025-05-03T13:30:44Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/xnDbTcUUpLU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/xnDbTcUUpLU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/xnDbTcUUpLU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "BUILDING A CAR IN REAL LIFE #2"
+    }
+  },
+  {
+    "id": "Oi33hv9vCu4",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED LIE DETECTOR TEST #technogamerz #ujjwal #liedetector In this video, I take on the ultimate challenge—a lie detector ...",
+      "publishedAt": "2025-04-30T11:30:19Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Oi33hv9vCu4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Oi33hv9vCu4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Oi33hv9vCu4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED LIE DETECTOR TEST"
+    }
+  },
+  {
     "id": "Dc4ZMNbG2TI",
     "snippet": {
       "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
@@ -1438,6 +1519,33 @@
         }
       },
       "title": "I Entered a Real Minecraft World #shorts"
+    }
+  },
+  {
+    "id": "Dqlp598fl0c",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED BEST HANDHELD CONSOLE #ujjwal #technogamerz #console The AYANEO Console is changing the game for ...",
+      "publishedAt": "2025-03-23T08:30:12Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Dqlp598fl0c/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Dqlp598fl0c/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Dqlp598fl0c/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED BEST HANDHELD CONSOLE"
     }
   },
   {
@@ -1468,6 +1576,141 @@
     }
   },
   {
+    "id": "hRHQgU5obiQ",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED 7 COOL GADGETS FROM SHARK TANK #ujjwal #technogamerz #gadgets Shark Tank Season 4 introduced some of the ...",
+      "publishedAt": "2025-03-18T12:30:43Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED 7 COOL GADGETS FROM SHARK TANK"
+    }
+  },
+  {
+    "id": "KePaeezX4A0",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "THIS SMART GLASSES WILL MAKE YOU SUPERHERO #technogamerz #ujjwal #smartglasses I got my hands on the Even ...",
+      "publishedAt": "2025-03-05T06:30:10Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/KePaeezX4A0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/KePaeezX4A0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/KePaeezX4A0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "THIS SMART GLASSES WILL MAKE YOU SUPERHERO"
+    }
+  },
+  {
+    "id": "9BNH19EBHDw",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "DRIVING A LAMBORGHINI GO KART #technogamerz #ujjwal #driving I got my hands on the Lamborghini Go-Kart, and it was an ...",
+      "publishedAt": "2025-02-26T10:30:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/9BNH19EBHDw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/9BNH19EBHDw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/9BNH19EBHDw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "DRIVING A LAMBORGHINI GO KART"
+    }
+  },
+  {
+    "id": "4RFwQoOp4DU",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "BUILDING A CAR IN REAL LIFE #ujjwal #technogamerz #car Ever wondered what it takes to build a toy Mustang from scratch?",
+      "publishedAt": "2025-02-22T10:30:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/4RFwQoOp4DU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/4RFwQoOp4DU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/4RFwQoOp4DU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "BUILDING A CAR IN REAL LIFE"
+    }
+  },
+  {
+    "id": "LyFgZiYfl_M",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "9 COOL GADGETS FOR STUDENTS #ujjwal #technogamerz #students Students, this video is for you! I\u0027ve found some amazing ...",
+      "publishedAt": "2025-02-16T11:30:12Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/LyFgZiYfl_M/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/LyFgZiYfl_M/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/LyFgZiYfl_M/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "9 COOL GADGETS FOR STUDENTS"
+    }
+  },
+  {
     "id": "yYJA2SMRy8E",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -1495,6 +1738,114 @@
     }
   },
   {
+    "id": "WoHS28_WERo",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "9 USEFUL GADGETS UNDER ₹100 #gadgets #ujjwal #technogamerz I found some amazing gadgets under ₹100, and you ...",
+      "publishedAt": "2025-02-08T12:30:35Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/WoHS28_WERo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/WoHS28_WERo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/WoHS28_WERo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "9 USEFUL GADGETS UNDER ₹100"
+    }
+  },
+  {
+    "id": "XqD_VcQBY_s",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED WORLD\u0027S SMALLEST ELECTRIC CAR #robincar #ujjwal #technogamerz TEST 12345 I had an exciting experience ...",
+      "publishedAt": "2025-02-05T12:30:33Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/XqD_VcQBY_s/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/XqD_VcQBY_s/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/XqD_VcQBY_s/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED WORLD\u0026#39;S SMALLEST ELECTRIC CAR"
+    }
+  },
+  {
+    "id": "gUyKWXu6ZuU",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "MIND BLOWING MAGIC TRICKS #ujjwal #technogamerz #magic Step into the world of magic with these incredible gadgets!",
+      "publishedAt": "2025-02-01T08:30:14Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/gUyKWXu6ZuU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/gUyKWXu6ZuU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/gUyKWXu6ZuU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "MIND BLOWING MAGIC TRICKS"
+    }
+  },
+  {
+    "id": "6-GKE76K9Pk",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED BEST SURVIVAL GADGETS #ujjwal #technogamerz #camping #survival Survival gadgets can be lifesavers in tough ...",
+      "publishedAt": "2025-01-25T08:30:02Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/6-GKE76K9Pk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/6-GKE76K9Pk/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/6-GKE76K9Pk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED BEST SURVIVAL GADGETS"
+    }
+  },
+  {
     "id": "l8C7th9e0T8",
     "snippet": {
       "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
@@ -1519,6 +1870,33 @@
         }
       },
       "title": "Ultimate Survival Challenge - Playing Grounded LIVE with @OMENIndia"
+    }
+  },
+  {
+    "id": "PlU-W15AlY0",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED COOL FITNESS GADGETS #gaming #ujjwal #technogamerz I Tried Fitness Gadgets\" explores various fitness devices ...",
+      "publishedAt": "2025-01-18T06:30:17Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/PlU-W15AlY0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/PlU-W15AlY0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/PlU-W15AlY0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED COOL FITNESS GADGETS"
     }
   },
   {
