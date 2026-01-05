@@ -5,6 +5,111 @@
       "caption": false,
       "definition": "hd",
       "dimension": "2d",
+      "duration": "PT47M15S",
+      "licensedContent": true
+    },
+    "id": "ZIwzRBcwnUk",
+    "snippet": {
+      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "channelTitle": "Techno Gamerz",
+      "description": "NEW GANGSTER IN CITY | GTA 5 GAMEPLAY #162\n#162 #gta5 #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+      "publishedAt": "2026-01-04T13:01:07Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "NEW GANGSTER IN CITY | GTA 5 GAMEPLAY #162"
+    },
+    "statistics": {
+      "commentCount": 49725,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 491988,
+      "viewCount": 5552486
+    }
+  },
+  {
+    "id": "C7dhSEpWv8k",
+    "snippet": {
+      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
+      "channelTitle": "Techno Plays",
+      "description": "DRAWING PEOPLE IN DANGEROUS PLACES | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
+      "publishedAt": "2026-01-02T05:46:11Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/C7dhSEpWv8k/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/C7dhSEpWv8k/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/C7dhSEpWv8k/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "DRAWING PEOPLE IN DANGEROUS PLACES | TECHNO GAMERZ"
+    }
+  },
+  {
+    "id": "3zWIVq5n4sU",
+    "snippet": {
+      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
+      "channelTitle": "Ujjwal",
+      "description": "BGMI SOLO VS SQUAD AFTER 2 YEARS You can write Pre-order from- https://www.oneplus.in/oneplus-15r #OnePlus15R ...",
+      "publishedAt": "2025-12-18T13:22:51Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/3zWIVq5n4sU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/3zWIVq5n4sU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/3zWIVq5n4sU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "BGMI SOLO VS SQUAD AFTER 2 YEARS"
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
       "duration": "PT17M11S",
       "licensedContent": true
     },
@@ -44,11 +149,11 @@
       "title": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON"
     },
     "statistics": {
-      "commentCount": 1208,
+      "commentCount": 2230,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 23331,
-      "viewCount": 452561
+      "likeCount": 45876,
+      "viewCount": 1498098
     }
   },
   {
@@ -122,11 +227,11 @@
       "title": "WORLD\u0027S MOST TROLLING GAME"
     },
     "statistics": {
-      "commentCount": 19269,
+      "commentCount": 30672,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 179753,
-      "viewCount": 4905763
+      "likeCount": 198734,
+      "viewCount": 5911393
     }
   },
   {
@@ -173,11 +278,11 @@
       "title": "SUPER CRAZY CYCLE STUNTS"
     },
     "statistics": {
-      "commentCount": 17339,
+      "commentCount": 17847,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 166882,
-      "viewCount": 5423572
+      "likeCount": 176342,
+      "viewCount": 6348855
     }
   },
   {
@@ -224,11 +329,11 @@
       "title": "I BECAME A CRIME DETECTIVE"
     },
     "statistics": {
-      "commentCount": 17501,
+      "commentCount": 17986,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 227910,
-      "viewCount": 8069773
+      "likeCount": 240057,
+      "viewCount": 9086127
     }
   },
   {
@@ -329,11 +434,11 @@
       "title": "THIS MONSTER IS CHASING ME | SUBLIMINAL"
     },
     "statistics": {
-      "commentCount": 10802,
+      "commentCount": 10830,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 136710,
-      "viewCount": 4125721
+      "likeCount": 140781,
+      "viewCount": 4475652
     }
   },
   {
@@ -380,11 +485,11 @@
       "title": "I OPENED AN INDIAN CAR MECHANIC SHOP"
     },
     "statistics": {
-      "commentCount": 10550,
+      "commentCount": 10582,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 179636,
-      "viewCount": 4487468
+      "likeCount": 184180,
+      "viewCount": 4829122
     }
   },
   {
@@ -431,11 +536,11 @@
       "title": "WORKING LATE NIGHT SHIFT AT A GAS STATION"
     },
     "statistics": {
-      "commentCount": 13829,
+      "commentCount": 13849,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 186951,
-      "viewCount": 4723330
+      "likeCount": 191038,
+      "viewCount": 5016221
     }
   },
   {
@@ -536,11 +641,11 @@
       "title": "ESCAPE THE INDIAN HORROR TRAIN | ANANT EXPRESS"
     },
     "statistics": {
-      "commentCount": 24645,
+      "commentCount": 24779,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 308622,
-      "viewCount": 9351317
+      "likeCount": 314908,
+      "viewCount": 9870211
     }
   },
   {
@@ -614,11 +719,11 @@
       "title": "I PLAYED GTA 6 FANMADES"
     },
     "statistics": {
-      "commentCount": 34118,
+      "commentCount": 34109,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 333017,
-      "viewCount": 8737697
+      "likeCount": 337071,
+      "viewCount": 9111229
     }
   },
   {
@@ -692,11 +797,11 @@
       "title": "MY FIRST DAY IN INDIAN TRUCK SIMULATOR"
     },
     "statistics": {
-      "commentCount": 26958,
+      "commentCount": 27000,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 262584,
-      "viewCount": 8133712
+      "likeCount": 265908,
+      "viewCount": 8506511
     }
   },
   {
@@ -743,11 +848,11 @@
       "title": "BIGGEST POLICE CHASE IN THE CITY | GTA 5 GAMEPLAY #161"
     },
     "statistics": {
-      "commentCount": 439966,
+      "commentCount": 455536,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1250673,
-      "viewCount": 20751861
+      "likeCount": 1267870,
+      "viewCount": 22115458
     }
   },
   {
@@ -848,11 +953,11 @@
       "title": "FERRARI RACECAR DESTROYED AGAIN | GTA 5 GAMEPLAY #160"
     },
     "statistics": {
-      "commentCount": 452876,
+      "commentCount": 451894,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1255221,
-      "viewCount": 17654069
+      "likeCount": 1257767,
+      "viewCount": 18187873
     }
   },
   {
@@ -926,11 +1031,11 @@
       "title": "FINALLY I ESCAPED THE PRISON"
     },
     "statistics": {
-      "commentCount": 11564,
+      "commentCount": 11612,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 314165,
-      "viewCount": 12020217
+      "likeCount": 318458,
+      "viewCount": 12536485
     }
   },
   {
@@ -977,62 +1082,11 @@
       "title": "CAN I ESCAPE THE PRISON FROM A SPOON?"
     },
     "statistics": {
-      "commentCount": 18682,
+      "commentCount": 18677,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 354842,
-      "viewCount": 15997198
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT1H6M40S",
-      "licensedContent": true
-    },
-    "id": "xLXiYgP03e0",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "I DESTROYED 50,000,000 SUPERCAR | GTA 5 GAMEPLAY #158\n#158 #GTA5 #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2025-09-01T03:30:42Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/xLXiYgP03e0/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/xLXiYgP03e0/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/xLXiYgP03e0/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/xLXiYgP03e0/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/xLXiYgP03e0/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "I DESTROYED 50,000,000 SUPERCAR | GTA 5 GAMEPLAY #158"
-    },
-    "statistics": {
-      "commentCount": 51187,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 996177,
-      "viewCount": 22272720
+      "likeCount": 359006,
+      "viewCount": 16627087
     }
   },
   {
@@ -1306,33 +1360,6 @@
     }
   },
   {
-    "id": "Bg9_nQ1j8uA",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DON\u0027T TRUST HIM AT NIGHT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-07-19T04:24:47Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Bg9_nQ1j8uA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Bg9_nQ1j8uA/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Bg9_nQ1j8uA/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DON\u0026#39;T TRUST HIM AT NIGHT | TECHNO GAMERZ"
-    }
-  },
-  {
     "id": "xewKXOownhA",
     "snippet": {
       "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
@@ -1387,114 +1414,6 @@
     }
   },
   {
-    "id": "Ef7UWqajCGM",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED 7 WEIRD GADGETS #weird #funny #technogamerz #ujjwal In this video, I explored some of the weirdest and most ...",
-      "publishedAt": "2025-06-15T10:30:07Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Ef7UWqajCGM/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Ef7UWqajCGM/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Ef7UWqajCGM/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED 7 WEIRD GADGETS"
-    }
-  },
-  {
-    "id": "rjZkV3M7dzI",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED COOL KITCHEN GADGETS #cooking #kitchen #ujjwal #technogamerz In this video, I explore some super useful and fun ...",
-      "publishedAt": "2025-05-14T06:30:24Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/rjZkV3M7dzI/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/rjZkV3M7dzI/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/rjZkV3M7dzI/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED COOL KITCHEN GADGETS"
-    }
-  },
-  {
-    "id": "xnDbTcUUpLU",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "BUILDING A CAR IN REAL LIFE #2 #technogamerz #ujjwal #car In Part 1, I built my own toy Mustang car from scratch and now it\u0027s ...",
-      "publishedAt": "2025-05-03T13:30:44Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/xnDbTcUUpLU/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/xnDbTcUUpLU/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/xnDbTcUUpLU/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "BUILDING A CAR IN REAL LIFE #2"
-    }
-  },
-  {
-    "id": "Oi33hv9vCu4",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED LIE DETECTOR TEST #technogamerz #ujjwal #liedetector In this video, I take on the ultimate challenge—a lie detector ...",
-      "publishedAt": "2025-04-30T11:30:19Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Oi33hv9vCu4/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Oi33hv9vCu4/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Oi33hv9vCu4/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED LIE DETECTOR TEST"
-    }
-  },
-  {
     "id": "Dc4ZMNbG2TI",
     "snippet": {
       "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
@@ -1519,33 +1438,6 @@
         }
       },
       "title": "I Entered a Real Minecraft World #shorts"
-    }
-  },
-  {
-    "id": "Dqlp598fl0c",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED BEST HANDHELD CONSOLE #ujjwal #technogamerz #console The AYANEO Console is changing the game for ...",
-      "publishedAt": "2025-03-23T08:30:12Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Dqlp598fl0c/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Dqlp598fl0c/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Dqlp598fl0c/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED BEST HANDHELD CONSOLE"
     }
   },
   {
@@ -1576,141 +1468,6 @@
     }
   },
   {
-    "id": "hRHQgU5obiQ",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED 7 COOL GADGETS FROM SHARK TANK #ujjwal #technogamerz #gadgets Shark Tank Season 4 introduced some of the ...",
-      "publishedAt": "2025-03-18T12:30:43Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/hRHQgU5obiQ/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED 7 COOL GADGETS FROM SHARK TANK"
-    }
-  },
-  {
-    "id": "KePaeezX4A0",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "THIS SMART GLASSES WILL MAKE YOU SUPERHERO #technogamerz #ujjwal #smartglasses I got my hands on the Even ...",
-      "publishedAt": "2025-03-05T06:30:10Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/KePaeezX4A0/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/KePaeezX4A0/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/KePaeezX4A0/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "THIS SMART GLASSES WILL MAKE YOU SUPERHERO"
-    }
-  },
-  {
-    "id": "9BNH19EBHDw",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "DRIVING A LAMBORGHINI GO KART #technogamerz #ujjwal #driving I got my hands on the Lamborghini Go-Kart, and it was an ...",
-      "publishedAt": "2025-02-26T10:30:04Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/9BNH19EBHDw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/9BNH19EBHDw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/9BNH19EBHDw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DRIVING A LAMBORGHINI GO KART"
-    }
-  },
-  {
-    "id": "4RFwQoOp4DU",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "BUILDING A CAR IN REAL LIFE #ujjwal #technogamerz #car Ever wondered what it takes to build a toy Mustang from scratch?",
-      "publishedAt": "2025-02-22T10:30:05Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/4RFwQoOp4DU/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/4RFwQoOp4DU/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/4RFwQoOp4DU/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "BUILDING A CAR IN REAL LIFE"
-    }
-  },
-  {
-    "id": "LyFgZiYfl_M",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "9 COOL GADGETS FOR STUDENTS #ujjwal #technogamerz #students Students, this video is for you! I\u0027ve found some amazing ...",
-      "publishedAt": "2025-02-16T11:30:12Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/LyFgZiYfl_M/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/LyFgZiYfl_M/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/LyFgZiYfl_M/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "9 COOL GADGETS FOR STUDENTS"
-    }
-  },
-  {
     "id": "yYJA2SMRy8E",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -1738,114 +1495,6 @@
     }
   },
   {
-    "id": "WoHS28_WERo",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "9 USEFUL GADGETS UNDER ₹100 #gadgets #ujjwal #technogamerz I found some amazing gadgets under ₹100, and you ...",
-      "publishedAt": "2025-02-08T12:30:35Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/WoHS28_WERo/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/WoHS28_WERo/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/WoHS28_WERo/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "9 USEFUL GADGETS UNDER ₹100"
-    }
-  },
-  {
-    "id": "XqD_VcQBY_s",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED WORLD\u0027S SMALLEST ELECTRIC CAR #robincar #ujjwal #technogamerz TEST 12345 I had an exciting experience ...",
-      "publishedAt": "2025-02-05T12:30:33Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/XqD_VcQBY_s/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/XqD_VcQBY_s/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/XqD_VcQBY_s/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED WORLD\u0026#39;S SMALLEST ELECTRIC CAR"
-    }
-  },
-  {
-    "id": "gUyKWXu6ZuU",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "MIND BLOWING MAGIC TRICKS #ujjwal #technogamerz #magic Step into the world of magic with these incredible gadgets!",
-      "publishedAt": "2025-02-01T08:30:14Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/gUyKWXu6ZuU/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/gUyKWXu6ZuU/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/gUyKWXu6ZuU/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "MIND BLOWING MAGIC TRICKS"
-    }
-  },
-  {
-    "id": "6-GKE76K9Pk",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED BEST SURVIVAL GADGETS #ujjwal #technogamerz #camping #survival Survival gadgets can be lifesavers in tough ...",
-      "publishedAt": "2025-01-25T08:30:02Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/6-GKE76K9Pk/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/6-GKE76K9Pk/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/6-GKE76K9Pk/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED BEST SURVIVAL GADGETS"
-    }
-  },
-  {
     "id": "l8C7th9e0T8",
     "snippet": {
       "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
@@ -1870,33 +1519,6 @@
         }
       },
       "title": "Ultimate Survival Challenge - Playing Grounded LIVE with @OMENIndia"
-    }
-  },
-  {
-    "id": "PlU-W15AlY0",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED COOL FITNESS GADGETS #gaming #ujjwal #technogamerz I Tried Fitness Gadgets\" explores various fitness devices ...",
-      "publishedAt": "2025-01-18T06:30:17Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/PlU-W15AlY0/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/PlU-W15AlY0/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/PlU-W15AlY0/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED COOL FITNESS GADGETS"
     }
   },
   {
@@ -2248,33 +1870,6 @@
         }
       },
       "title": "MY FIRST GANGWAR IN THIS CITY"
-    }
-  },
-  {
-    "id": "EPnluuKTIdE",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I HAVE TO SAVE THIS AIRPORT | READY OR NOT GAMEPLAY #readyornot #ujjwal Share, Support, Subscribe!!! Subscribe: ...",
-      "publishedAt": "2024-06-16T12:18:38Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/EPnluuKTIdE/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/EPnluuKTIdE/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/EPnluuKTIdE/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I HAVE TO SAVE THIS AIRPORT | READY OR NOT GAMEPLAY"
     }
   },
   {
