@@ -5,6 +5,261 @@
       "caption": false,
       "definition": "hd",
       "dimension": "2d",
+      "duration": "PT29M39S",
+      "licensedContent": true
+    },
+    "id": "baqsoqqJCuE",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED GADGETS UNDER ₹500\n#gadgets #technogamerz #ujjwal \n\nDiscover amazing imaging gadgets and trending products on Deodap. In this video, we explore smart, useful, and exciting finds across a variety of categories. If you love practical and trending gadgets, you’re in the right place.\n\nLinks- \n👉 Official Website: https://deodap.in/?ref\u003dyoutube\n👉 DeoDap App: https://bit.ly/DeoDapApp\n\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "publishedAt": "2026-02-21T06:00:29Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/baqsoqqJCuE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/baqsoqqJCuE/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/baqsoqqJCuE/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/baqsoqqJCuE/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/baqsoqqJCuE/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "I TRIED GADGETS UNDER ₹500"
+    },
+    "statistics": {
+      "commentCount": 2071,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 37363,
+      "viewCount": 876499
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
+      "duration": "PT47M19S",
+      "licensedContent": true
+    },
+    "id": "db-fpyGiZLA",
+    "snippet": {
+      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "channelTitle": "Techno Gamerz",
+      "description": "MICHAEL GOT KIDNAPPED BY TOMMY VERCETTI | GTA 5 GAMEPLAY #165 \n#gta5 #165 #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+      "publishedAt": "2026-02-21T03:30:24Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/db-fpyGiZLA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/db-fpyGiZLA/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/db-fpyGiZLA/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/db-fpyGiZLA/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/db-fpyGiZLA/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "MICHAEL GOT KIDNAPPED BY TOMMY VERCETTI | GTA 5 GAMEPLAY #165"
+    },
+    "statistics": {
+      "commentCount": 183825,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 758936,
+      "viewCount": 7663513
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
+      "duration": "PT45M54S",
+      "licensedContent": true
+    },
+    "id": "3uxDhtiXHMQ",
+    "snippet": {
+      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "channelTitle": "Techno Gamerz",
+      "description": "ESCAPING A GANGSTER’S SECRET BASE | GTA 5 GAMEPLAY #164\n#gta5 #164  #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+      "publishedAt": "2026-02-17T03:30:05Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/3uxDhtiXHMQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/3uxDhtiXHMQ/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/3uxDhtiXHMQ/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/3uxDhtiXHMQ/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/3uxDhtiXHMQ/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "ESCAPING A GANGSTER’S SECRET BASE | GTA 5 GAMEPLAY #164"
+    },
+    "statistics": {
+      "commentCount": 58736,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 794223,
+      "viewCount": 11940912
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
+      "duration": "PT1H5M23S",
+      "licensedContent": true
+    },
+    "id": "8lO_GYI8K4o",
+    "snippet": {
+      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "channelTitle": "Techno Gamerz",
+      "description": "LIVING IN A FOREST AT NIGHT GONE WRONG!\n#fearstofathom #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+      "publishedAt": "2026-02-15T03:30:11Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/8lO_GYI8K4o/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/8lO_GYI8K4o/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/8lO_GYI8K4o/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/8lO_GYI8K4o/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/8lO_GYI8K4o/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "LIVING IN A FOREST AT NIGHT GONE WRONG!"
+    },
+    "statistics": {
+      "commentCount": 21910,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 214676,
+      "viewCount": 5571083
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
+      "duration": "PT10M52S",
+      "licensedContent": true
+    },
+    "id": "8NdP0yrHOQo",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "BEST SMARTPHONE UNDER ₹30,000\n#phone #technogamerz #ujjwal \n\nToday, we’re unboxing and putting the brand-new TECNO POVA Curve 2 5G to the test! Get ready for a complete hands-on experience covering design, performance, gaming, camera, and the massive battery performance.\nCheck Out Tecno POVA Curve 2 5G : \nhttps://knw.one/povacurve2\n\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "publishedAt": "2026-02-13T16:11:52Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/8NdP0yrHOQo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/8NdP0yrHOQo/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/8NdP0yrHOQo/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/8NdP0yrHOQo/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/8NdP0yrHOQo/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "BEST SMARTPHONE UNDER ₹30,000"
+    },
+    "statistics": {
+      "commentCount": 1413,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 20633,
+      "viewCount": 384642
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
       "duration": "PT55M32S",
       "licensedContent": true
     },
@@ -44,11 +299,11 @@
       "title": "ATTACKING ON A LUXURY HOTEL | GTA 5 GAMEPLAY #163"
     },
     "statistics": {
-      "commentCount": 52250,
+      "commentCount": 58550,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1306384,
-      "viewCount": 12664060
+      "likeCount": 1464578,
+      "viewCount": 16446530
     }
   },
   {
@@ -95,11 +350,11 @@
       "title": "MY EX-GIRL FRIEND BROKE INTO MY HOUSE"
     },
     "statistics": {
-      "commentCount": 13448,
+      "commentCount": 13873,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 163460,
-      "viewCount": 4603110
+      "likeCount": 179328,
+      "viewCount": 5478806
     }
   },
   {
@@ -146,11 +401,11 @@
       "title": "I TRIED EVERY TYPE OF RING FROM WATCH TO FITNESS"
     },
     "statistics": {
-      "commentCount": 1649,
+      "commentCount": 1694,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 38664,
-      "viewCount": 1902410
+      "likeCount": 40238,
+      "viewCount": 2062037
     }
   },
   {
@@ -197,11 +452,11 @@
       "title": "CARS VS EXTREME CHALLENGES"
     },
     "statistics": {
-      "commentCount": 15796,
+      "commentCount": 15993,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 247445,
-      "viewCount": 7012756
+      "likeCount": 255505,
+      "viewCount": 7522403
     }
   },
   {
@@ -248,11 +503,11 @@
       "title": "THIS CYCLE STUNT IS IMPOSSIBLE"
     },
     "statistics": {
-      "commentCount": 10770,
+      "commentCount": 10789,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 117548,
-      "viewCount": 3994124
+      "likeCount": 121088,
+      "viewCount": 4389733
     }
   },
   {
@@ -299,11 +554,11 @@
       "title": "₹1000 VS ₹5,00,000 F1 TICKETS"
     },
     "statistics": {
-      "commentCount": 8025,
+      "commentCount": 8028,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 156906,
-      "viewCount": 3372346
+      "likeCount": 160179,
+      "viewCount": 3535345
     }
   },
   {
@@ -377,11 +632,11 @@
       "title": "HAUNTED HIGHWAY NIGHT DRIVE"
     },
     "statistics": {
-      "commentCount": 11074,
+      "commentCount": 11145,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 175007,
-      "viewCount": 4753104
+      "likeCount": 181783,
+      "viewCount": 5073212
     }
   },
   {
@@ -428,11 +683,11 @@
       "title": "BEST DESK GADGETS WORTH BUYING"
     },
     "statistics": {
-      "commentCount": 2910,
+      "commentCount": 2920,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 72719,
-      "viewCount": 2222957
+      "likeCount": 74520,
+      "viewCount": 2327654
     }
   },
   {
@@ -479,11 +734,11 @@
       "title": "EXTREME BIKE OBSTACLE COURSE"
     },
     "statistics": {
-      "commentCount": 12743,
+      "commentCount": 12728,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 153363,
-      "viewCount": 3781989
+      "likeCount": 154560,
+      "viewCount": 3923290
     }
   },
   {
@@ -557,62 +812,11 @@
       "title": "MY FIRST NIGHT AT THE SHAWARMA SHOP"
     },
     "statistics": {
-      "commentCount": 18641,
+      "commentCount": 18707,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 221066,
-      "viewCount": 8205755
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT47M15S",
-      "licensedContent": true
-    },
-    "id": "ZIwzRBcwnUk",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "NEW GANGSTER IN CITY | GTA 5 GAMEPLAY #162\n#162 #gta5 #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2026-01-04T13:01:07Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/ZIwzRBcwnUk/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "NEW GANGSTER IN CITY | GTA 5 GAMEPLAY #162"
-    },
-    "statistics": {
-      "commentCount": 72759,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 837534,
-      "viewCount": 16549267
+      "likeCount": 225884,
+      "viewCount": 8628450
     }
   },
   {
@@ -670,18 +874,11 @@
     }
   },
   {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT17M11S",
-      "licensedContent": true
-    },
     "id": "c0nCZL7WxWI",
     "snippet": {
       "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
       "channelTitle": "TechShot",
-      "description": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON\n#gadgets #technogamerz #ujjwal \n\nLevel up your mobile gaming experience with these amazing gaming gadgets designed for phone gamers who want better control, comfort, and immersive gameplay. These accessories work perfectly with Android and iOS devices and help you enjoy smoother, more exciting gaming sessions. Watch till the end and let me know which gadget impressed you the most!\n\nJump into Asphalt Legends here: https://gmlft.co/AL-Techshot\nThe new India racetrack is out now and you can use my code INDIASPHALT25 until January 15th to unlock exclusive rewards\n\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "description": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON #gadgets #technogamerz #ujjwal Level up your mobile gaming ...",
       "publishedAt": "2025-12-16T03:32:28Z",
       "thumbnails": {
         "high": {
@@ -694,30 +891,13 @@
           "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/default.jpg",
           "width": 120
         },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/maxresdefault.jpg",
-          "width": 1280
-        },
         "medium": {
           "height": 180,
           "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/mqdefault.jpg",
           "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/sddefault.jpg",
-          "width": 640
         }
       },
       "title": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON"
-    },
-    "statistics": {
-      "commentCount": 2304,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 48783,
-      "viewCount": 1685060
     }
   },
   {
@@ -745,159 +925,6 @@
         }
       },
       "title": "₹10 vs ₹10000000 WATCHES"
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT48M14S",
-      "licensedContent": true
-    },
-    "id": "-DM5_A-j6N4",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "WORLD\u0027S MOST TROLLING GAMEE | LEVEL DEVIL\n#leveldevil #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2025-11-27T03:30:01Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/-DM5_A-j6N4/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/-DM5_A-j6N4/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/-DM5_A-j6N4/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/-DM5_A-j6N4/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/-DM5_A-j6N4/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "WORLD\u0027S MOST TROLLING GAME"
-    },
-    "statistics": {
-      "commentCount": 30787,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 208757,
-      "viewCount": 6638139
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT38M57S",
-      "licensedContent": true
-    },
-    "id": "hlxO5eXy2xA",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "SUPER CRAZY CYCLE STUNTS\n#technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2025-11-22T06:10:11Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/hlxO5eXy2xA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/hlxO5eXy2xA/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/hlxO5eXy2xA/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/hlxO5eXy2xA/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/hlxO5eXy2xA/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "SUPER CRAZY CYCLE STUNTS"
-    },
-    "statistics": {
-      "commentCount": 17975,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 184699,
-      "viewCount": 7350562
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT50M58S",
-      "licensedContent": true
-    },
-    "id": "htCLVGDNdZU",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "I BECAME A CRIME DETECTIVE | CRIME DETECTIVE RED FLAGS\n#technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2025-11-17T03:30:37Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/htCLVGDNdZU/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/htCLVGDNdZU/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/htCLVGDNdZU/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/htCLVGDNdZU/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/htCLVGDNdZU/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "I BECAME A CRIME DETECTIVE"
-    },
-    "statistics": {
-      "commentCount": 18249,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 254278,
-      "viewCount": 10272041
     }
   },
   {
@@ -1225,33 +1252,6 @@
     }
   },
   {
-    "id": "OSAklfQ5CUE",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "1000 VS ₹100000 DRONES #drone #technogamerz #ujjwal In this video, I tested multiple drones ranging from ₹1000 to ...",
-      "publishedAt": "2025-08-04T12:00:49Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/OSAklfQ5CUE/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/OSAklfQ5CUE/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/OSAklfQ5CUE/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "₹1000 VS ₹100000 DRONES"
-    }
-  },
-  {
     "id": "QGWGtfnKjLM",
     "snippet": {
       "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
@@ -1306,33 +1306,6 @@
     }
   },
   {
-    "id": "T21Ah2cJnhk",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "INSANE HOME GADGETS IN 2025 #homegadgets #ujjwal #technogamerz In this video I tried out 5 top home gadgets that are ...",
-      "publishedAt": "2025-07-29T06:30:13Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/T21Ah2cJnhk/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/T21Ah2cJnhk/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/T21Ah2cJnhk/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "INSANE HOME GADGETS IN 2025"
-    }
-  },
-  {
     "id": "0wx3K_6Ztx4",
     "snippet": {
       "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
@@ -1360,168 +1333,6 @@
     }
   },
   {
-    "id": "5OHLR7UsyiA",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DON\u0027T GO SWIMMING POOL AT NIGHT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-07-21T04:55:12Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/5OHLR7UsyiA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/5OHLR7UsyiA/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/5OHLR7UsyiA/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DON\u0026#39;T GO SWIMMING POOL AT NIGHT | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "Bg9_nQ1j8uA",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DON\u0027T TRUST HIM AT NIGHT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-07-19T04:24:47Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Bg9_nQ1j8uA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Bg9_nQ1j8uA/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Bg9_nQ1j8uA/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DON\u0026#39;T TRUST HIM AT NIGHT | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "kuYRLBurEYk",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "CAN I ESCAPE FROM TUNG TUNG SAHUR | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
-      "publishedAt": "2025-07-16T04:08:29Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/kuYRLBurEYk/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/kuYRLBurEYk/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/kuYRLBurEYk/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "CAN I ESCAPE FROM TUNG TUNG SAHUR | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "ltOLGO94Rsc",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DO NOT OPEN THE WINDOW AT NIGHT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
-      "publishedAt": "2025-07-08T06:30:36Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/ltOLGO94Rsc/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/ltOLGO94Rsc/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/ltOLGO94Rsc/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DO NOT OPEN THE WINDOW AT NIGHT | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "zFN7Cu1yRYo",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "CAN I ESCAPE FROM BARRY\u0027S PRISON | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
-      "publishedAt": "2025-07-06T06:17:09Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/zFN7Cu1yRYo/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/zFN7Cu1yRYo/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/zFN7Cu1yRYo/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "CAN I ESCAPE FROM BARRY\u0026#39;S PRISON | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "903Y3cNZw_Y",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "I BECAME THE PERFECT LIAR | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-07-03T06:21:45Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/903Y3cNZw_Y/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/903Y3cNZw_Y/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/903Y3cNZw_Y/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BECAME THE PERFECT LIAR | TECHNO GAMERZ"
-    }
-  },
-  {
     "id": "QSNRks_9Ms8",
     "snippet": {
       "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
@@ -1546,87 +1357,6 @@
         }
       },
       "title": "My first Red Carpet #f1themovie"
-    }
-  },
-  {
-    "id": "PukQnBiWgkg",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DO NOT STAY IN THIS HORROR RESTAURANT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
-      "publishedAt": "2025-05-13T04:25:49Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/PukQnBiWgkg/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/PukQnBiWgkg/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/PukQnBiWgkg/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DO NOT STAY IN THIS HORROR RESTAURANT | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "a1-ocowKNAs",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "CAN I SAVE THE BABY FROM GHOST | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-05-08T03:59:53Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/a1-ocowKNAs/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/a1-ocowKNAs/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/a1-ocowKNAs/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "CAN I SAVE THE BABY FROM GHOST | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "z6DUQkYLWtw",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "I TOOK BAD DECISION IN LIFE | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-04-30T06:13:31Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/z6DUQkYLWtw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/z6DUQkYLWtw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/z6DUQkYLWtw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TOOK BAD DECISION IN LIFE | TECHNO GAMERZ"
     }
   },
   {
@@ -1684,87 +1414,6 @@
     }
   },
   {
-    "id": "fYn_4lIE8eE",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DRAW PEOPLE IN DANGER PLACES | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-02-27T05:00:30Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/fYn_4lIE8eE/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/fYn_4lIE8eE/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/fYn_4lIE8eE/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DRAW PEOPLE IN DANGER PLACES | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "GOFC1S8ExN0",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "CARS DESTRUCTION IS SUPER FUN | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-02-19T03:38:19Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/GOFC1S8ExN0/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/GOFC1S8ExN0/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/GOFC1S8ExN0/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "CARS DESTRUCTION IS SUPER FUN | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "ajI1nOiKBXc",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DO NOT OPEN THE DOOR AT NIGHT | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-02-16T03:17:32Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/ajI1nOiKBXc/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/ajI1nOiKBXc/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/ajI1nOiKBXc/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DO NOT OPEN THE DOOR AT NIGHT | TECHNO GAMERZ"
-    }
-  },
-  {
     "id": "yYJA2SMRy8E",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -1789,87 +1438,6 @@
         }
       },
       "title": "I BUILT AN IGLOO IN -20°C"
-    }
-  },
-  {
-    "id": "4L9LyfZd6PA",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "I BECAME A THIEF | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-02-12T03:16:28Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/4L9LyfZd6PA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/4L9LyfZd6PA/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/4L9LyfZd6PA/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BECAME A THIEF | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "i5j6e2gu9ro",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "DO NOT TRUST SPONGEBOB | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-02-09T03:31:56Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/i5j6e2gu9ro/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/i5j6e2gu9ro/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/i5j6e2gu9ro/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "DO NOT TRUST SPONGEBOB | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "mA_GQkupFKs",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "THIS CREEPY CREATURE DESTROYED EARTH | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
-      "publishedAt": "2025-02-08T03:07:05Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/mA_GQkupFKs/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/mA_GQkupFKs/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/mA_GQkupFKs/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "THIS CREEPY CREATURE DESTROYED EARTH | TECHNO GAMERZ"
     }
   },
   {
@@ -2278,6 +1846,114 @@
     }
   },
   {
+    "id": "A_me8Q3o524",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2024-05-26T04:30:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/A_me8Q3o524/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/A_me8Q3o524/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/A_me8Q3o524/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "THIS MINI SUPER CAR IS MAGICAL"
+    }
+  },
+  {
+    "id": "61H4qso8-Ro",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2024-05-25T04:30:04Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/61H4qso8-Ro/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/61H4qso8-Ro/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/61H4qso8-Ro/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "MAGIC REMOTE CONTROL CAR"
+    }
+  },
+  {
+    "id": "4SumcpvjXuU",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2024-05-24T04:30:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/4SumcpvjXuU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/4SumcpvjXuU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/4SumcpvjXuU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "SUPER COOL MINI GAMING GADGET"
+    }
+  },
+  {
+    "id": "98EMVB56LUU",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2024-05-23T16:59:45Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/98EMVB56LUU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/98EMVB56LUU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/98EMVB56LUU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I GOT THE BEST TOY GUN FROM MYSTERY BOX"
+    }
+  },
+  {
     "id": "MnnHTynA6QY",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -2305,6 +1981,33 @@
     }
   },
   {
+    "id": "q0MlsIsbkz0",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "Immersive gaming and a great experience at #AndroidLand! #TeamAndroid #ad.",
+      "publishedAt": "2024-05-01T15:38:52Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/q0MlsIsbkz0/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/q0MlsIsbkz0/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/q0MlsIsbkz0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "WELCOME TO COMICON"
+    }
+  },
+  {
     "id": "q4X7WSwH1Y0",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -2329,6 +2032,33 @@
         }
       },
       "title": "DRIVING A SUPERCAR ON WATER"
+    }
+  },
+  {
+    "id": "AgbN3sjVq-w",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "Exams aane waale hai? Mera experience suno. @youtubeindia.",
+      "publishedAt": "2024-02-01T12:37:45Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/AgbN3sjVq-w/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/AgbN3sjVq-w/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/AgbN3sjVq-w/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Exams aane waale hai? Mera experience suno  @YouTubeIndia"
     }
   },
   {
@@ -2413,6 +2143,33 @@
     }
   },
   {
+    "id": "mhy4u-t2tm8",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "I BECAME A HITMAN IN REAL LIFE.",
+      "publishedAt": "2023-08-16T04:30:18Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/mhy4u-t2tm8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/mhy4u-t2tm8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/mhy4u-t2tm8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I BECAME A HITMAN IN REAL LIFE"
+    }
+  },
+  {
     "id": "SA3d7WCb510",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -2437,6 +2194,222 @@
         }
       },
       "title": "WE MADE A WORLD RECORD"
+    }
+  },
+  {
+    "id": "421dHcnBSnw",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "I GOT A SUPER SMARTWATCH (BeatXP) Buy Now - https://bit.ly/3NyVlTu Code - TECH200 Description - 1.8” Amoled screen with ...",
+      "publishedAt": "2023-07-02T13:41:53Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/421dHcnBSnw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/421dHcnBSnw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/421dHcnBSnw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I GOT A SUPER SMARTWATCH"
+    }
+  },
+  {
+    "id": "Jxi1a6TaZ1k",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "TRIAL MEMBERSHIP LINKS for adding in caption/description Upto 3 months Shazam Offer link for iOS users: ...",
+      "publishedAt": "2023-06-02T17:26:52Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Jxi1a6TaZ1k/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Jxi1a6TaZ1k/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Jxi1a6TaZ1k/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I BECAME A GAMING CHARACTER"
+    }
+  },
+  {
+    "id": "ZT10HVntE6k",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "Use code Ujjwal20 to get 20% discount! Amazon - https://amzn.to/44cRyTy Flipkart - https://bit.ly/3L7pIPy Nykaa ...",
+      "publishedAt": "2023-05-01T03:30:36Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ZT10HVntE6k/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ZT10HVntE6k/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ZT10HVntE6k/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I GOT A GADGET FROM DORAEMON"
+    }
+  },
+  {
+    "id": "QOfkZcmqUjw",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2023-04-20T03:30:12Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/QOfkZcmqUjw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/QOfkZcmqUjw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/QOfkZcmqUjw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LEARNING SUPERCRAZY CYCLE STUNTS"
+    }
+  },
+  {
+    "id": "QWvUHWDOR7k",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2023-04-17T06:06:20Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/QWvUHWDOR7k/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/QWvUHWDOR7k/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/QWvUHWDOR7k/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "WORLD\u0026#39;S MOST EPIC RC CAR"
+    }
+  },
+  {
+    "id": "kB9xrxuoxeA",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2023-02-07T09:08:17Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/kB9xrxuoxeA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/kB9xrxuoxeA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/kB9xrxuoxeA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "COMMANDER UJJWAL IS ON DUTY"
+    }
+  },
+  {
+    "id": "iz9Et0IVifU",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2022-12-29T17:34:56Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/iz9Et0IVifU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/iz9Et0IVifU/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/iz9Et0IVifU/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "BAAZIGAR OF MINECRAFT"
+    }
+  },
+  {
+    "id": "2OsbqGq9ajo",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "shorts.",
+      "publishedAt": "2022-12-29T16:32:37Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/2OsbqGq9ajo/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/2OsbqGq9ajo/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/2OsbqGq9ajo/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "HOW TO BECOME A GOOD YOUTUBER"
     }
   }
 ]
