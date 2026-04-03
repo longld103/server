@@ -5,6 +5,111 @@
       "caption": false,
       "definition": "hd",
       "dimension": "2d",
+      "duration": "PT21M7S",
+      "licensedContent": true
+    },
+    "id": "E19XB2uVETQ",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "₹50 VS ₹50000 MOUSE\n#gadgets #ujjwal #technogamerz \n\nIn this video I tested and compared computer mouses ranging from just ₹50 to ₹50,000 to see how big the difference really is. From basic everyday use to high-end performance and features I explored build quality, comfort, precision, and overall experience. Watch till the end to find out which one is actually worth it and whether expensive options truly make a difference. Let me know in the comments which one you would choose!\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "publishedAt": "2026-04-02T14:32:57Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/E19XB2uVETQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/E19XB2uVETQ/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/E19XB2uVETQ/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/E19XB2uVETQ/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/E19XB2uVETQ/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "₹50 VS ₹50000 MOUSE"
+    },
+    "statistics": {
+      "commentCount": 2969,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 58137,
+      "viewCount": 1482272
+    }
+  },
+  {
+    "id": "5bdsq08pG-E",
+    "snippet": {
+      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
+      "channelTitle": "Ujjwal",
+      "description": "LEVEL 1 VS LEVEL 100 MINECRAFT CANNON Share, Support, Subscribe!!! Subscribe: http://bit.ly/ujjwalgamer Discord ...",
+      "publishedAt": "2026-04-02T09:16:24Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/5bdsq08pG-E/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/5bdsq08pG-E/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/5bdsq08pG-E/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LEVEL 1 VS LEVEL 100 MINECRAFT CANNON"
+    }
+  },
+  {
+    "id": "hP4KByUi_uw",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "Imagine wild version of yourself with Nano Banana in Google Gemini on Samsung Galaxy Z Fold7. Plus, Get 6 months of Google ...",
+      "publishedAt": "2026-04-02T06:46:38Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/hP4KByUi_uw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/hP4KByUi_uw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/hP4KByUi_uw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "When you start playing games too much"
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
       "duration": "PT17M43S",
       "licensedContent": true
     },
@@ -44,11 +149,11 @@
       "title": "THE MYSTERY OF HEROBRINE IN MINECRAFT"
     },
     "statistics": {
-      "commentCount": 16607,
+      "commentCount": 18188,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 175852,
-      "viewCount": 3366774
+      "likeCount": 203844,
+      "viewCount": 4761551
     }
   },
   {
@@ -149,11 +254,11 @@
       "title": "MY GAMING CONSOLE COLLECTION"
     },
     "statistics": {
-      "commentCount": 6060,
+      "commentCount": 6494,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 70799,
-      "viewCount": 2712462
+      "likeCount": 75765,
+      "viewCount": 3102897
     }
   },
   {
@@ -200,11 +305,11 @@
       "title": "I BECAME A BUS DRIVER"
     },
     "statistics": {
-      "commentCount": 46817,
+      "commentCount": 53826,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 253846,
-      "viewCount": 7033446
+      "likeCount": 265008,
+      "viewCount": 7730233
     }
   },
   {
@@ -251,11 +356,11 @@
       "title": "I TRIED ₹12,00,000 HUMAN ROBOT"
     },
     "statistics": {
-      "commentCount": 2168,
+      "commentCount": 2193,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 63505,
-      "viewCount": 2799018
+      "likeCount": 65901,
+      "viewCount": 3122201
     }
   },
   {
@@ -302,11 +407,11 @@
       "title": "WELCOME TO THE MOST EXPENSIVE CITY | GTA 5 GAMEPLAY #166"
     },
     "statistics": {
-      "commentCount": 171117,
+      "commentCount": 177348,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 976868,
-      "viewCount": 16713051
+      "likeCount": 992554,
+      "viewCount": 17861460
     }
   },
   {
@@ -353,11 +458,11 @@
       "title": "APPLE PRODUCTS THAT FAILED BUT BECAME RARE"
     },
     "statistics": {
-      "commentCount": 4657,
+      "commentCount": 4662,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 51233,
-      "viewCount": 1555943
+      "likeCount": 51665,
+      "viewCount": 1595399
     }
   },
   {
@@ -404,11 +509,11 @@
       "title": "I TRIED GADGETS UNDER ₹500"
     },
     "statistics": {
-      "commentCount": 3411,
+      "commentCount": 3444,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 81179,
-      "viewCount": 3480303
+      "likeCount": 82898,
+      "viewCount": 3708531
     }
   },
   {
@@ -455,11 +560,11 @@
       "title": "MICHAEL GOT KIDNAPPED BY TOMMY VERCETTI | GTA 5 GAMEPLAY #165"
     },
     "statistics": {
-      "commentCount": 292667,
+      "commentCount": 292267,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1033761,
-      "viewCount": 16874098
+      "likeCount": 1038144,
+      "viewCount": 17444722
     }
   },
   {
@@ -506,11 +611,11 @@
       "title": "ESCAPING A GANGSTER’S SECRET BASE | GTA 5 GAMEPLAY #164"
     },
     "statistics": {
-      "commentCount": 60225,
+      "commentCount": 60172,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 857700,
-      "viewCount": 15616628
+      "likeCount": 860726,
+      "viewCount": 15970723
     }
   },
   {
@@ -557,11 +662,11 @@
       "title": "LIVING IN A FOREST AT NIGHT GONE WRONG!"
     },
     "statistics": {
-      "commentCount": 24061,
+      "commentCount": 24243,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 276326,
-      "viewCount": 9557464
+      "likeCount": 283448,
+      "viewCount": 10140507
     }
   },
   {
@@ -608,11 +713,11 @@
       "title": "BEST SMARTPHONE UNDER ₹30,000"
     },
     "statistics": {
-      "commentCount": 1477,
+      "commentCount": 1480,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 22866,
-      "viewCount": 481509
+      "likeCount": 23017,
+      "viewCount": 489711
     }
   },
   {
@@ -659,11 +764,11 @@
       "title": "ATTACKING ON A LUXURY HOTEL | GTA 5 GAMEPLAY #163"
     },
     "statistics": {
-      "commentCount": 58849,
+      "commentCount": 58814,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1509675,
-      "viewCount": 18716848
+      "likeCount": 1513077,
+      "viewCount": 19034293
     }
   },
   {
@@ -710,11 +815,11 @@
       "title": "MY EX-GIRL FRIEND BROKE INTO MY HOUSE"
     },
     "statistics": {
-      "commentCount": 14203,
+      "commentCount": 14263,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 196997,
-      "viewCount": 6721123
+      "likeCount": 199591,
+      "viewCount": 6943117
     }
   },
   {
@@ -788,62 +893,11 @@
       "title": "CARS VS EXTREME CHALLENGES"
     },
     "statistics": {
-      "commentCount": 16375,
+      "commentCount": 16436,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 270902,
-      "viewCount": 8850396
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT20M2S",
-      "licensedContent": true
-    },
-    "id": "j3fwzfMOZdc",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "THIS CYCLE STUNT IS IMPOSSIBLE\n#technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2026-01-26T03:30:27Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/j3fwzfMOZdc/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/j3fwzfMOZdc/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/j3fwzfMOZdc/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/j3fwzfMOZdc/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/j3fwzfMOZdc/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "THIS CYCLE STUNT IS IMPOSSIBLE"
-    },
-    "statistics": {
-      "commentCount": 10918,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 130399,
-      "viewCount": 5575432
+      "likeCount": 273072,
+      "viewCount": 9110159
     }
   },
   {
@@ -1168,33 +1222,6 @@
         }
       },
       "title": "STICKMAN FALLING IS SUPER FUN | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "uybO4Bpviq8",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I BOUGHT 5 BEST MINI CAMERAS #camera #technogamerz #ujjwal In this video I tested and compared 5 amazing mini cameras ...",
-      "publishedAt": "2025-10-18T04:30:41Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/uybO4Bpviq8/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/uybO4Bpviq8/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/uybO4Bpviq8/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BOUGHT 5 BEST MINI CAMERAS"
     }
   },
   {
@@ -1711,33 +1738,6 @@
     }
   },
   {
-    "id": "bkp1RMnVgbU",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "CLIMBING TO THE TOP, BUT WE\u0027RE CHAINED TOGETHER #ujjwal #technogamerz Share, Support, Subscribe!!! Subscribe: ...",
-      "publishedAt": "2024-07-21T12:25:31Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/bkp1RMnVgbU/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/bkp1RMnVgbU/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/bkp1RMnVgbU/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "CLIMBING TO THE TOP, BUT WE\u0026#39;RE CHAINED TOGETHER"
-    }
-  },
-  {
     "id": "pWy7XxyS8vc",
     "snippet": {
       "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
@@ -1762,114 +1762,6 @@
         }
       },
       "title": "Playing Cricket At Home Gone Wrong"
-    }
-  },
-  {
-    "id": "8cD3d-dS-VI",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Join the Best GTA RP Server Grand RP!!! https://gta5grand.com/?ref\u003d135155 - my referral link by clicking on which you will get ...",
-      "publishedAt": "2024-06-20T12:19:34Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/8cD3d-dS-VI/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/8cD3d-dS-VI/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/8cD3d-dS-VI/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "MY FIRST GANGWAR IN THIS CITY"
-    }
-  },
-  {
-    "id": "EPnluuKTIdE",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I HAVE TO SAVE THIS AIRPORT | READY OR NOT GAMEPLAY #readyornot #ujjwal Share, Support, Subscribe!!! Subscribe: ...",
-      "publishedAt": "2024-06-16T12:18:38Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/EPnluuKTIdE/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/EPnluuKTIdE/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/EPnluuKTIdE/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I HAVE TO SAVE THIS AIRPORT | READY OR NOT GAMEPLAY"
-    }
-  },
-  {
-    "id": "1XoA7o-k004",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I BECAME A BABY | WHO\u0027S YOUR DADDY #funny #technogamerz Share, Support, Subscribe!!! Subscribe: ...",
-      "publishedAt": "2024-06-13T03:30:00Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/1XoA7o-k004/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/1XoA7o-k004/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/1XoA7o-k004/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BECAME A BABY"
-    }
-  },
-  {
-    "id": "cf_PpBfMq3M",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I PAID DEVELOPERS TO MAKE GAME FOR ME #ujjwal Share, Support, Subscribe!!! Subscribe: http://bit.ly/ujjwalgamer Discord ...",
-      "publishedAt": "2024-06-10T07:24:47Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/cf_PpBfMq3M/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/cf_PpBfMq3M/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/cf_PpBfMq3M/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I PAID DEVELOPERS TO MAKE GAME FOR ME"
     }
   },
   {
@@ -1900,60 +1792,6 @@
     }
   },
   {
-    "id": "oc4fp6nwWZk",
-    "snippet": {
-      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
-      "channelTitle": "Ujjwal Shorts",
-      "description": "GalaxyF55 #Samsung #CraftedByTheMasters #shorts @SamsungIndia.",
-      "publishedAt": "2024-05-27T11:15:27Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/oc4fp6nwWZk/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/oc4fp6nwWZk/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/oc4fp6nwWZk/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "WHEN A GAMER METS REELER"
-    }
-  },
-  {
-    "id": "yV1XsRQGkTA",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "40000000 SUBSCRIBERS CELEBRATION | TECHNO GAMERZ #celebration #technogamerz Share, Support, Subscribe!",
-      "publishedAt": "2024-05-26T04:30:30Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/yV1XsRQGkTA/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/yV1XsRQGkTA/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/yV1XsRQGkTA/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "40,000,000 SUBSCRIBERS CELEBRATION | TECHNO GAMERZ"
-    }
-  },
-  {
     "id": "MnnHTynA6QY",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -1978,141 +1816,6 @@
         }
       },
       "title": "I JOINED AN IPL TEAM FOR 24 HOURS"
-    }
-  },
-  {
-    "id": "dCNU2JI7InY",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Join the Best GTA RP Server Grand RP!!! https://gta5grand.com/?ref\u003d135155 - my referral link by clicking on which you will get ...",
-      "publishedAt": "2024-05-05T04:30:14Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/dCNU2JI7InY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/dCNU2JI7InY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/dCNU2JI7InY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BOUGHT A NEW HOUSE IN THE CITY"
-    }
-  },
-  {
-    "id": "iG9lHwyohws",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I BECAME A MILITARY SOLDIER | READY OR NOT GAMEPLAY #readyornot #ujjwal Share, Support, Subscribe!!! Subscribe: ...",
-      "publishedAt": "2024-04-28T03:30:14Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/iG9lHwyohws/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/iG9lHwyohws/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/iG9lHwyohws/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BECAME A MILITARY SOLDIER | READY OR NOT GAMEPLAY"
-    }
-  },
-  {
-    "id": "vHN5EB9pK6w",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Join the Best GTA RP Server Grand RP!!! https://gta5grand.com/?ref\u003d135155 - my referral link by clicking on which you will get ...",
-      "publishedAt": "2024-04-18T04:10:49Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/vHN5EB9pK6w/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/vHN5EB9pK6w/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/vHN5EB9pK6w/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I JOINED A BIG GANG IN NEW GANGSTER CITY"
-    }
-  },
-  {
-    "id": "UDjvLknqNY8",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "MY BEST HAPPY HOLI GADGETS #happyholi #technogamerz Share, Support, Subscribe!!! Subscribe: http://bit.ly/ujjwalgamer ...",
-      "publishedAt": "2024-03-24T14:40:55Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/UDjvLknqNY8/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/UDjvLknqNY8/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/UDjvLknqNY8/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "MY BEST HAPPY HOLI GADGETS"
-    }
-  },
-  {
-    "id": "7lK3Hz3XUtY",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Join the Best GTA RP Server Grand RP!!! https://gta5grand.com/?ref\u003d135155 My referral link by clicking on which you will get ...",
-      "publishedAt": "2024-02-18T03:30:04Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/7lK3Hz3XUtY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/7lK3Hz3XUtY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/7lK3Hz3XUtY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "MY FIRST DAY IN NEW GANGSTER CITY"
     }
   },
   {
@@ -2170,33 +1873,6 @@
     }
   },
   {
-    "id": "f9DZC-_lsd0",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "2 team captains, 1 question: Can Team @TechnoGamerzOfficial beat Team @V3nombiceps ? We are BACK with yet another ...",
-      "publishedAt": "2023-11-24T14:07:23Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/f9DZC-_lsd0/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/f9DZC-_lsd0/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/f9DZC-_lsd0/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Red Bull Showdown | Game Day 🏏| Team @TechnoGamerzOfficial v Team @V3nombiceps 🔥"
-    }
-  },
-  {
     "id": "TIHmE67QoVA",
     "snippet": {
       "channelId": "UCY6s6soycjPFPAajxbmrmBg",
@@ -2221,60 +1897,6 @@
         }
       },
       "title": "I BUILT A HOUSE ON A CAR"
-    }
-  },
-  {
-    "id": "YeupbO9RANw",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Who Can Survive the \"Halloween Hunt\"? | UJJWAL Join us in making this Halloween even spookier for Ujjwal, 8-bit Thug, Scout, ...",
-      "publishedAt": "2023-10-31T15:09:26Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/YeupbO9RANw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/YeupbO9RANw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/YeupbO9RANw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Who Can Survive the \u0026quot;Halloween Hunt\u0026quot;?"
-    }
-  },
-  {
-    "id": "fpD6YKicNFY",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I BUILT A HOUSE AND GOT ATTACKED! | THE FRONT #technogamerz Download \"The Front\" Game: ...",
-      "publishedAt": "2023-10-31T07:29:28Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/fpD6YKicNFY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/fpD6YKicNFY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/fpD6YKicNFY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BUILT A HOUSE AND GOT ATTACKED!"
     }
   },
   {
@@ -2305,57 +1927,219 @@
     }
   },
   {
-    "id": "qSDW4gnnNWc",
+    "id": "SA3d7WCb510",
     "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "LETS PLAY INDIA\u0027S BATTLE ROYALE #Indus #battleroyale #ujjwal Hello everyone, I\u0027ve got some mega news for you!",
-      "publishedAt": "2023-08-16T13:06:11Z",
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "WE MADE A WORLD RECORD #WorldRecord #Techno LAVA is Crazy   #proudlyindian YouTube: ...",
+      "publishedAt": "2023-08-15T18:09:36Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/qSDW4gnnNWc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SA3d7WCb510/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/qSDW4gnnNWc/default.jpg",
+          "url": "https://i.ytimg.com/vi/SA3d7WCb510/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/qSDW4gnnNWc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SA3d7WCb510/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "LETS PLAY INDIA\u0026#39;S BATTLE ROYALE"
+      "title": "WE MADE A WORLD RECORD"
     }
   },
   {
-    "id": "w8DbEyk0Yt4",
+    "id": "zZH_xy-aAuc",
     "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "WE ARE LOST IN A FOREST #forest #ujjwal Share, Support, Subscribe!!! Subscribe: http://bit.ly/ujjwalgamer Discord ...",
-      "publishedAt": "2023-08-09T17:03:13Z",
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "I BUILD MY NEW GAMING ROOM #Gaming #Techno Business Email : technogamerzofficial@gmail.com About : Hey! My name is ...",
+      "publishedAt": "2023-07-15T18:27:15Z",
       "thumbnails": {
         "high": {
           "height": 360,
-          "url": "https://i.ytimg.com/vi/w8DbEyk0Yt4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zZH_xy-aAuc/hqdefault.jpg",
           "width": 480
         },
         "default": {
           "height": 90,
-          "url": "https://i.ytimg.com/vi/w8DbEyk0Yt4/default.jpg",
+          "url": "https://i.ytimg.com/vi/zZH_xy-aAuc/default.jpg",
           "width": 120
         },
         "medium": {
           "height": 180,
-          "url": "https://i.ytimg.com/vi/w8DbEyk0Yt4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zZH_xy-aAuc/mqdefault.jpg",
           "width": 320
         }
       },
-      "title": "WE ARE LOST IN A FOREST"
+      "title": "I BUILD MY NEW GAMING ROOM"
+    }
+  },
+  {
+    "id": "AOcdgJmfwXg",
+    "snippet": {
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "LEARNING CRAZY PARKOUR SKILLS #Parkour #Techno Business Email : technogamerzofficial@gmail.com About : Hey!",
+      "publishedAt": "2023-06-15T18:26:14Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/AOcdgJmfwXg/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/AOcdgJmfwXg/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/AOcdgJmfwXg/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LEARNING CRAZY PARKOUR SKILLS"
+    }
+  },
+  {
+    "id": "UCLcpu14tgA",
+    "snippet": {
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "I AM HOME ALONE #Horror #Techno Business Email : technogamerzofficial@gmail.com About : Hey! My name is Ujjwal Aka ...",
+      "publishedAt": "2023-05-15T18:21:21Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/UCLcpu14tgA/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/UCLcpu14tgA/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/UCLcpu14tgA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I AM HOME ALONE"
+    }
+  },
+  {
+    "id": "imCOAyoKo1w",
+    "snippet": {
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "I BUILT A HOUSE IN JUNGLE #Jungle #Techno Business Email : technogamerzofficial@gmail.com About : Hey! My name is ...",
+      "publishedAt": "2023-04-15T13:46:35Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/imCOAyoKo1w/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/imCOAyoKo1w/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/imCOAyoKo1w/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I BUILT A HOUSE IN JUNGLE"
+    }
+  },
+  {
+    "id": "5lAFnzXGgxs",
+    "snippet": {
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "DRIVING A SUPERCAR ON RACETRACK #Supercar #Techno Business Email : technogamerzofficial@gmail.com About : Hey!",
+      "publishedAt": "2023-03-15T17:30:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/5lAFnzXGgxs/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/5lAFnzXGgxs/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/5lAFnzXGgxs/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "DRIVING A SUPERCAR ON RACE TRACK"
+    }
+  },
+  {
+    "id": "T1IgeNfP_aM",
+    "snippet": {
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "LEARNING SUPERCRAZY CYCLE STUNTS #Cycle #Techno Business Email : technogamerzofficial@gmail.com About : Hey!",
+      "publishedAt": "2023-02-15T15:42:30Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/T1IgeNfP_aM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/T1IgeNfP_aM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/T1IgeNfP_aM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LEARNING SUPERCRAZY CYCLE STUNTS"
+    }
+  },
+  {
+    "id": "Qgv39v-NilM",
+    "snippet": {
+      "channelId": "UCY6s6soycjPFPAajxbmrmBg",
+      "channelTitle": "Techno",
+      "description": "WORLD\u0027S MOST EPIC RC CAR | TECHNO #RCCar #Techno Business Email : technogamerzofficial@gmail.com About : Hey!",
+      "publishedAt": "2023-01-15T11:30:14Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Qgv39v-NilM/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Qgv39v-NilM/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Qgv39v-NilM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "WORLD\u0026#39;S MOST EPIC RC CAR"
     }
   }
 ]
