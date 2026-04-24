@@ -1,11 +1,197 @@
 {"items":
 [
   {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
+      "duration": "PT15M35S",
+      "licensedContent": true
+    },
+    "id": "zVHOF-Mc_xU",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "TYPES OF KEYBOARDS\n#keyboard  #ujjwal #technogamerz \n\nIn this video, I’m showcasing my complete keyboard collection – from budget options to premium setups. Whether you’re into gaming, typing, or just love cool tech, this video has something for everyone. I’ve included different types of keyboards with unique features, designs, and price ranges so you can see what fits your style and needs.\nIf you’re planning to upgrade your setup or just curious about different keyboards, this video will help you explore some amazing options.\n\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "publishedAt": "2026-04-22T12:31:30Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/zVHOF-Mc_xU/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/zVHOF-Mc_xU/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/zVHOF-Mc_xU/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/zVHOF-Mc_xU/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/zVHOF-Mc_xU/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "TYPES OF KEYBOARDS"
+    },
+    "statistics": {
+      "commentCount": 3103,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 38667,
+      "viewCount": 1013402
+    }
+  },
+  {
+    "id": "YrvQaOeVMlw",
+    "snippet": {
+      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
+      "channelTitle": "Ujjwal Shorts",
+      "description": "Game bhi smooth. Privacy bhi tight ⚡ #GalaxyS26Ultra #WithGalaxy #GalaxyAI #Samsung #PrivacyDisplay @samsungindia.",
+      "publishedAt": "2026-04-19T15:30:56Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/YrvQaOeVMlw/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/YrvQaOeVMlw/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/YrvQaOeVMlw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Game bhi smooth. Privacy bhi tight ⚡"
+    }
+  },
+  {
+    "id": "XfQVZBr2MNE",
+    "snippet": {
+      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
+      "channelTitle": "Techno Plays",
+      "description": "100 YEARS LIFE SIMULATOR IS CRAZY FUN | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
+      "publishedAt": "2026-04-12T05:57:25Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/XfQVZBr2MNE/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/XfQVZBr2MNE/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/XfQVZBr2MNE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "100 YEARS LIFE SIMULATOR IS CRAZY FUN | TECHNO GAMERZ"
+    }
+  },
+  {
+    "id": "s2wU4ItB0e4",
+    "snippet": {
+      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
+      "channelTitle": "Ujjwal",
+      "description": "I TRIED A SHOOTING RANGE Share, Support, Subscribe!!! Subscribe: http://bit.ly/ujjwalgamer Discord ...",
+      "publishedAt": "2026-04-09T04:00:52Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/s2wU4ItB0e4/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/s2wU4ItB0e4/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/s2wU4ItB0e4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED A SHOOTING RANGE"
+    }
+  },
+  {
+    "id": "QCZhjOLE0do",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED BEST SUMMER GADGETS #gadgets #ujjwal #technogamerz In this video I explored some super useful summer gadgets ...",
+      "publishedAt": "2026-04-07T12:36:37Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/QCZhjOLE0do/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/QCZhjOLE0do/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/QCZhjOLE0do/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "I TRIED BEST SUMMER GADGETS"
+    }
+  },
+  {
+    "id": "n_xM36ybvqQ",
+    "snippet": {
+      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
+      "channelTitle": "Ujjwal",
+      "description": "LEVEL 1 VS LEVEL 100 MINECRAFT WAVES Share, Support, Subscribe!!! Subscribe: http://bit.ly/ujjwalgamer Discord ...",
+      "publishedAt": "2026-04-06T04:00:51Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/n_xM36ybvqQ/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/n_xM36ybvqQ/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/n_xM36ybvqQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LEVEL 1 VS LEVEL 100 MINECRAFT WAVES"
+    }
+  },
+  {
     "id": "thZVwHVcIfQ",
     "snippet": {
       "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
       "channelTitle": "Techno Plays",
-      "description": "DRIVING A SUPERCAR ON A RACING SETUP | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME‬ ...",
+      "description": "MY FIRST DRIVING TEST | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
       "publishedAt": "2026-04-05T05:25:53Z",
       "thumbnails": {
         "high": {
@@ -24,7 +210,7 @@
           "width": 320
         }
       },
-      "title": "DRIVING A SUPERCAR ON A RACING SETUP | TECHNO GAMERZ"
+      "title": "MY FIRST DRIVING TEST | TECHNO GAMERZ"
     }
   },
   {
@@ -71,11 +257,11 @@
       "title": "I BUILT MY NEW CINEMA CAMERA"
     },
     "statistics": {
-      "commentCount": 2405,
+      "commentCount": 3552,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 35415,
-      "viewCount": 569427
+      "likeCount": 77362,
+      "viewCount": 2032415
     }
   },
   {
@@ -149,11 +335,11 @@
       "title": "₹50 VS ₹50000 MOUSE"
     },
     "statistics": {
-      "commentCount": 3551,
+      "commentCount": 4162,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 82307,
-      "viewCount": 2699897
+      "likeCount": 117200,
+      "viewCount": 5178934
     }
   },
   {
@@ -254,11 +440,11 @@
       "title": "THE MYSTERY OF HEROBRINE IN MINECRAFT"
     },
     "statistics": {
-      "commentCount": 18251,
+      "commentCount": 18448,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 205461,
-      "viewCount": 4868168
+      "likeCount": 211204,
+      "viewCount": 5437588
     }
   },
   {
@@ -359,11 +545,11 @@
       "title": "MY GAMING CONSOLE COLLECTION"
     },
     "statistics": {
-      "commentCount": 6589,
+      "commentCount": 7054,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 77209,
-      "viewCount": 3208061
+      "likeCount": 82646,
+      "viewCount": 3715950
     }
   },
   {
@@ -410,11 +596,11 @@
       "title": "I BECAME A BUS DRIVER"
     },
     "statistics": {
-      "commentCount": 55059,
+      "commentCount": 65091,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 266725,
-      "viewCount": 7854594
+      "likeCount": 280266,
+      "viewCount": 8792849
     }
   },
   {
@@ -461,11 +647,11 @@
       "title": "I TRIED ₹12,00,000 HUMAN ROBOT"
     },
     "statistics": {
-      "commentCount": 2202,
+      "commentCount": 2254,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 66545,
-      "viewCount": 3204310
+      "likeCount": 70356,
+      "viewCount": 3705970
     }
   },
   {
@@ -512,11 +698,11 @@
       "title": "WELCOME TO THE MOST EXPENSIVE CITY | GTA 5 GAMEPLAY #166"
     },
     "statistics": {
-      "commentCount": 178347,
+      "commentCount": 184724,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 994883,
-      "viewCount": 18064316
+      "likeCount": 1013001,
+      "viewCount": 19550573
     }
   },
   {
@@ -563,11 +749,11 @@
       "title": "APPLE PRODUCTS THAT FAILED BUT BECAME RARE"
     },
     "statistics": {
-      "commentCount": 4663,
+      "commentCount": 4662,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 51798,
-      "viewCount": 1605079
+      "likeCount": 52638,
+      "viewCount": 1679531
     }
   },
   {
@@ -614,11 +800,11 @@
       "title": "I TRIED GADGETS UNDER ₹500"
     },
     "statistics": {
-      "commentCount": 3461,
+      "commentCount": 3549,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 83465,
-      "viewCount": 3771447
+      "likeCount": 86768,
+      "viewCount": 4121736
     }
   },
   {
@@ -665,11 +851,11 @@
       "title": "MICHAEL GOT KIDNAPPED BY TOMMY VERCETTI | GTA 5 GAMEPLAY #165"
     },
     "statistics": {
-      "commentCount": 292264,
+      "commentCount": 291652,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1038604,
-      "viewCount": 17543733
+      "likeCount": 1044096,
+      "viewCount": 18326282
     }
   },
   {
@@ -716,11 +902,11 @@
       "title": "ESCAPING A GANGSTER’S SECRET BASE | GTA 5 GAMEPLAY #164"
     },
     "statistics": {
-      "commentCount": 60179,
+      "commentCount": 60022,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 861048,
-      "viewCount": 16042132
+      "likeCount": 865033,
+      "viewCount": 16606093
     }
   },
   {
@@ -767,11 +953,11 @@
       "title": "LIVING IN A FOREST AT NIGHT GONE WRONG!"
     },
     "statistics": {
-      "commentCount": 24278,
+      "commentCount": 24470,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 284373,
-      "viewCount": 10241515
+      "likeCount": 293542,
+      "viewCount": 11099748
     }
   },
   {
@@ -818,11 +1004,11 @@
       "title": "BEST SMARTPHONE UNDER ₹30,000"
     },
     "statistics": {
-      "commentCount": 1485,
+      "commentCount": 1488,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 23099,
-      "viewCount": 493305
+      "likeCount": 23395,
+      "viewCount": 512201
     }
   },
   {
@@ -869,62 +1055,11 @@
       "title": "ATTACKING ON A LUXURY HOTEL | GTA 5 GAMEPLAY #163"
     },
     "statistics": {
-      "commentCount": 58827,
+      "commentCount": 58468,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1513215,
-      "viewCount": 19098404
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT57M18S",
-      "licensedContent": true
-    },
-    "id": "Eng_yfPbwIg",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "MY EX-GIRL FRIEND BROKE INTO MY HOUSE | FEARS TO FATHOM: CARSON HOUSE\n#technogamerz  \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2026-02-04T08:11:07Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Eng_yfPbwIg/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Eng_yfPbwIg/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/Eng_yfPbwIg/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Eng_yfPbwIg/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/Eng_yfPbwIg/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "MY EX-GIRL FRIEND BROKE INTO MY HOUSE"
-    },
-    "statistics": {
-      "commentCount": 14293,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 199969,
-      "viewCount": 6986093
+      "likeCount": 1517652,
+      "viewCount": 19657437
     }
   },
   {
@@ -952,60 +1087,6 @@
         }
       },
       "title": "I TRIED EVERY TYPE OF RING FROM WATCH TO FITNESS"
-    }
-  },
-  {
-    "id": "PrhS93falNc",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "I\u0027m excited to be part of Good Game India and to help discover the next generation of creators. Register here: ...",
-      "publishedAt": "2026-01-23T03:30:15Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/PrhS93falNc/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/PrhS93falNc/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/PrhS93falNc/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "The ₹1 Crore Creator Challenge Begins | Techno Gamerz x @goodgametvshow"
-    }
-  },
-  {
-    "id": "kiiP56E_cCQ",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "BEST DESK GADGETS WORTH BUYING #gadgets #technogamerz #ujjwal In this video, I checked out some really cool desk ...",
-      "publishedAt": "2026-01-18T04:00:45Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/kiiP56E_cCQ/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/kiiP56E_cCQ/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/kiiP56E_cCQ/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "BEST DESK GADGETS WORTH BUYING"
     }
   },
   {
@@ -1087,33 +1168,6 @@
         }
       },
       "title": "BGMI SOLO VS SQUAD AFTER 2 YEARS"
-    }
-  },
-  {
-    "id": "c0nCZL7WxWI",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON #gadgets #technogamerz #ujjwal Level up your mobile gaming ...",
-      "publishedAt": "2025-12-16T03:32:28Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/c0nCZL7WxWI/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I BOUGHT AMAZING GAMING GADGETS FROM AMAZON"
     }
   },
   {
@@ -1276,33 +1330,6 @@
         }
       },
       "title": "24 HOURS OVERNIGHT CAMPING GONE WRONG!"
-    }
-  },
-  {
-    "id": "U32b3_iKcnY",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "CAN I ESCAPE FROM JAIL | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-08-10T04:42:05Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/U32b3_iKcnY/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/U32b3_iKcnY/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/U32b3_iKcnY/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "CAN I ESCAPE FROM JAIL | TECHNO GAMERZ"
     }
   },
   {
@@ -1603,33 +1630,6 @@
     }
   },
   {
-    "id": "QT3YB6JgD5I",
-    "snippet": {
-      "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
-      "channelTitle": "Ujjwal",
-      "description": "Aaj humare saath stream karenge OMEN Arcade Army, that is 4 winners from OMEN Arcade tournament are going to join me LIVE ...",
-      "publishedAt": "2024-10-18T14:54:31Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/QT3YB6JgD5I/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/QT3YB6JgD5I/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/QT3YB6JgD5I/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "Fall Guys Lobby ft. Omen Arcade Army @OMENIndia || Jeetne ka Josh Hai"
-    }
-  },
-  {
     "id": "-GMsvQQ_CF4",
     "snippet": {
       "channelId": "UCl_vAxZpvbO-PFXdDu7EdHw",
@@ -1735,33 +1735,6 @@
         }
       },
       "title": "Playing Cricket At Home Gone Wrong"
-    }
-  },
-  {
-    "id": "Exl-pQVFbfw",
-    "snippet": {
-      "channelId": "UCUA81A-VZAZXYALpOScwFOQ",
-      "channelTitle": "Ujjwal Shorts",
-      "description": "shorts.",
-      "publishedAt": "2024-05-28T04:30:04Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Exl-pQVFbfw/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Exl-pQVFbfw/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Exl-pQVFbfw/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "A PEN WITH SECRET CAMERA"
     }
   },
   {
