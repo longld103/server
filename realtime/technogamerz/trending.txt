@@ -5,6 +5,84 @@
       "caption": false,
       "definition": "hd",
       "dimension": "2d",
+      "duration": "PT10M56S",
+      "licensedContent": true
+    },
+    "id": "-jPfsTyCQxg",
+    "snippet": {
+      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
+      "channelTitle": "TechShot",
+      "description": "I TRIED COOL TRENDING GADGETS\n#gadgets #cool #ujjwal #technogamerz \n\nIn this video, I tried some of the coolest and most trending gadgets you need to see \nFrom useful tech to crazy innovations, these gadgets are actually next level.\nPerfect for daily use, fun, and upgrading your setup.\nWhich gadget was your favourite? Let me know in the comments!\n\nShare, Support, Subscribe!!!\n\nX: https://x.com/ujjwalgamer\nInstagram: https://www.instagram.com/ujjwalgamer/\n\nBusiness Email : technogamerzofficial@gmail.com\nFor PR packages and Product queries only - techshotwork@gmail.com\n\nHit that subscribe button to join the fam on this new tech adventure!",
+      "publishedAt": "2026-04-25T12:30:00Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/-jPfsTyCQxg/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/-jPfsTyCQxg/default.jpg",
+          "width": 120
+        },
+        "maxres": {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/-jPfsTyCQxg/maxresdefault.jpg",
+          "width": 1280
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/-jPfsTyCQxg/mqdefault.jpg",
+          "width": 320
+        },
+        "standard": {
+          "height": 480,
+          "url": "https://i.ytimg.com/vi/-jPfsTyCQxg/sddefault.jpg",
+          "width": 640
+        }
+      },
+      "title": "I TRIED COOL TRENDING GADGETS"
+    },
+    "statistics": {
+      "commentCount": 1965,
+      "dislikeCount": 0,
+      "favoriteCount": 0,
+      "likeCount": 19477,
+      "viewCount": 346751
+    }
+  },
+  {
+    "id": "ENbkN4Xv--8",
+    "snippet": {
+      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
+      "channelTitle": "Techno Plays",
+      "description": "MY FIRST DAY IN JUNKYARD TRUCK | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
+      "publishedAt": "2026-04-25T06:58:01Z",
+      "thumbnails": {
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ENbkN4Xv--8/hqdefault.jpg",
+          "width": 480
+        },
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ENbkN4Xv--8/default.jpg",
+          "width": 120
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ENbkN4Xv--8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "MY FIRST DAY IN JUNKYARD TRUCK | TECHNO GAMERZ"
+    }
+  },
+  {
+    "contentDetails": {
+      "caption": false,
+      "definition": "hd",
+      "dimension": "2d",
       "duration": "PT15M35S",
       "licensedContent": true
     },
@@ -44,11 +122,11 @@
       "title": "TYPES OF KEYBOARDS"
     },
     "statistics": {
-      "commentCount": 3103,
+      "commentCount": 3354,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 38667,
-      "viewCount": 1013402
+      "likeCount": 42602,
+      "viewCount": 1249440
     }
   },
   {
@@ -257,11 +335,11 @@
       "title": "I BUILT MY NEW CINEMA CAMERA"
     },
     "statistics": {
-      "commentCount": 3552,
+      "commentCount": 3559,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 77362,
-      "viewCount": 2032415
+      "likeCount": 77772,
+      "viewCount": 2054990
     }
   },
   {
@@ -335,11 +413,11 @@
       "title": "₹50 VS ₹50000 MOUSE"
     },
     "statistics": {
-      "commentCount": 4162,
+      "commentCount": 4165,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 117200,
-      "viewCount": 5178934
+      "likeCount": 117641,
+      "viewCount": 5230227
     }
   },
   {
@@ -440,11 +518,11 @@
       "title": "THE MYSTERY OF HEROBRINE IN MINECRAFT"
     },
     "statistics": {
-      "commentCount": 18448,
+      "commentCount": 18452,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 211204,
-      "viewCount": 5437588
+      "likeCount": 211366,
+      "viewCount": 5463908
     }
   },
   {
@@ -545,11 +623,11 @@
       "title": "MY GAMING CONSOLE COLLECTION"
     },
     "statistics": {
-      "commentCount": 7054,
+      "commentCount": 7063,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 82646,
-      "viewCount": 3715950
+      "likeCount": 82837,
+      "viewCount": 3742341
     }
   },
   {
@@ -596,11 +674,11 @@
       "title": "I BECAME A BUS DRIVER"
     },
     "statistics": {
-      "commentCount": 65091,
+      "commentCount": 65703,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 280266,
-      "viewCount": 8792849
+      "likeCount": 280980,
+      "viewCount": 8850032
     }
   },
   {
@@ -647,11 +725,11 @@
       "title": "I TRIED ₹12,00,000 HUMAN ROBOT"
     },
     "statistics": {
-      "commentCount": 2254,
+      "commentCount": 2257,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 70356,
-      "viewCount": 3705970
+      "likeCount": 70442,
+      "viewCount": 3726928
     }
   },
   {
@@ -698,11 +776,11 @@
       "title": "WELCOME TO THE MOST EXPENSIVE CITY | GTA 5 GAMEPLAY #166"
     },
     "statistics": {
-      "commentCount": 184724,
+      "commentCount": 185076,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1013001,
-      "viewCount": 19550573
+      "likeCount": 1014005,
+      "viewCount": 19652988
     }
   },
   {
@@ -749,11 +827,11 @@
       "title": "APPLE PRODUCTS THAT FAILED BUT BECAME RARE"
     },
     "statistics": {
-      "commentCount": 4662,
+      "commentCount": 4664,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 52638,
-      "viewCount": 1679531
+      "likeCount": 52672,
+      "viewCount": 1685069
     }
   },
   {
@@ -800,11 +878,11 @@
       "title": "I TRIED GADGETS UNDER ₹500"
     },
     "statistics": {
-      "commentCount": 3549,
+      "commentCount": 3555,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 86768,
-      "viewCount": 4121736
+      "likeCount": 86923,
+      "viewCount": 4141217
     }
   },
   {
@@ -851,11 +929,11 @@
       "title": "MICHAEL GOT KIDNAPPED BY TOMMY VERCETTI | GTA 5 GAMEPLAY #165"
     },
     "statistics": {
-      "commentCount": 291652,
+      "commentCount": 291612,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 1044096,
-      "viewCount": 18326282
+      "likeCount": 1044372,
+      "viewCount": 18382839
     }
   },
   {
@@ -902,11 +980,11 @@
       "title": "ESCAPING A GANGSTER’S SECRET BASE | GTA 5 GAMEPLAY #164"
     },
     "statistics": {
-      "commentCount": 60022,
+      "commentCount": 60017,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 865033,
-      "viewCount": 16606093
+      "likeCount": 865236,
+      "viewCount": 16648914
     }
   },
   {
@@ -953,11 +1031,11 @@
       "title": "LIVING IN A FOREST AT NIGHT GONE WRONG!"
     },
     "statistics": {
-      "commentCount": 24470,
+      "commentCount": 24508,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 293542,
-      "viewCount": 11099748
+      "likeCount": 294035,
+      "viewCount": 11150999
     }
   },
   {
@@ -1004,89 +1082,11 @@
       "title": "BEST SMARTPHONE UNDER ₹30,000"
     },
     "statistics": {
-      "commentCount": 1488,
+      "commentCount": 1489,
       "dislikeCount": 0,
       "favoriteCount": 0,
-      "likeCount": 23395,
-      "viewCount": 512201
-    }
-  },
-  {
-    "contentDetails": {
-      "caption": false,
-      "definition": "hd",
-      "dimension": "2d",
-      "duration": "PT55M32S",
-      "licensedContent": true
-    },
-    "id": "Ly72G5N-G9c",
-    "snippet": {
-      "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "channelTitle": "Techno Gamerz",
-      "description": "ATTACKING ON A LUXURY HOTEL | GTA 5 GAMEPLAY #163 \n#163  #GTA5 #TechnoGamerz\n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
-      "publishedAt": "2026-02-07T15:30:15Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/Ly72G5N-G9c/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/Ly72G5N-G9c/default.jpg",
-          "width": 120
-        },
-        "maxres": {
-          "height": 720,
-          "url": "https://i.ytimg.com/vi/Ly72G5N-G9c/maxresdefault.jpg",
-          "width": 1280
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/Ly72G5N-G9c/mqdefault.jpg",
-          "width": 320
-        },
-        "standard": {
-          "height": 480,
-          "url": "https://i.ytimg.com/vi/Ly72G5N-G9c/sddefault.jpg",
-          "width": 640
-        }
-      },
-      "title": "ATTACKING ON A LUXURY HOTEL | GTA 5 GAMEPLAY #163"
-    },
-    "statistics": {
-      "commentCount": 58468,
-      "dislikeCount": 0,
-      "favoriteCount": 0,
-      "likeCount": 1517652,
-      "viewCount": 19657437
-    }
-  },
-  {
-    "id": "RvvC-aXFfks",
-    "snippet": {
-      "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-      "channelTitle": "TechShot",
-      "description": "I TRIED EVERY TYPE OF RING FROM WATCH TO FITNESS #rings #technogamerz #ujjwal In this video, I tried different types of ...",
-      "publishedAt": "2026-02-01T04:30:32Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/RvvC-aXFfks/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/RvvC-aXFfks/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/RvvC-aXFfks/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "I TRIED EVERY TYPE OF RING FROM WATCH TO FITNESS"
+      "likeCount": 23403,
+      "viewCount": 513269
     }
   },
   {
@@ -1276,33 +1276,6 @@
         }
       },
       "title": "I BECAME A DOG | TECHNO GAMERZ"
-    }
-  },
-  {
-    "id": "-MamaU141n4",
-    "snippet": {
-      "channelId": "UCg2eM8I_gLQmCY1CVf_wDUw",
-      "channelTitle": "Techno Plays",
-      "description": "STICKMAN FALLING IS SUPER FUN | TECHNO GAMERZ CREDIT - ‪@TechnoGamerzOfficial CONNECT TO ME Instagram‬ ...",
-      "publishedAt": "2025-10-30T06:20:04Z",
-      "thumbnails": {
-        "high": {
-          "height": 360,
-          "url": "https://i.ytimg.com/vi/-MamaU141n4/hqdefault.jpg",
-          "width": 480
-        },
-        "default": {
-          "height": 90,
-          "url": "https://i.ytimg.com/vi/-MamaU141n4/default.jpg",
-          "width": 120
-        },
-        "medium": {
-          "height": 180,
-          "url": "https://i.ytimg.com/vi/-MamaU141n4/mqdefault.jpg",
-          "width": 320
-        }
-      },
-      "title": "STICKMAN FALLING IS SUPER FUN | TECHNO GAMERZ"
     }
   },
   {
