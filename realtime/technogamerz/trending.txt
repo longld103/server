@@ -17,27 +17,17 @@
         "thumbnails": {
           "high": {
             "height": 360,
-            "url": "https://i.ytimg.com/vi/dn5_p5jaJn0/hqdefault.jpg",
+            "url": "https://raw.githubusercontent.com/longld103/server/refs/heads/master/realtime/technogamerz/notsupport.jpg",
             "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/dn5_p5jaJn0/default.jpg",
-            "width": 120
           },
           "maxres": {
             "height": 720,
-            "url": "https://i.ytimg.com/vi/dn5_p5jaJn0/maxresdefault.jpg",
+            "url": "https://raw.githubusercontent.com/longld103/server/refs/heads/master/realtime/technogamerz/notsupport.jpg",
             "width": 1280
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/dn5_p5jaJn0/mqdefault.jpg",
-            "width": 320
           },
           "standard": {
             "height": 480,
-            "url": "https://i.ytimg.com/vi/dn5_p5jaJn0/sddefault.jpg",
+            "url": "https://raw.githubusercontent.com/longld103/server/refs/heads/master/realtime/technogamerz/notsupport.jpg",
             "width": 640
           }
         },
@@ -61,27 +51,17 @@
         "thumbnails": {
           "high": {
             "height": 360,
-            "url": "https://i.ytimg.com/vi/nC5Ur61kDwI/hqdefault.jpg",
+            "url": "https://raw.githubusercontent.com/longld103/server/refs/heads/master/realtime/technogamerz/notsupport.jpg",
             "width": 480
-          },
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/nC5Ur61kDwI/default.jpg",
-            "width": 120
           },
           "maxres": {
             "height": 720,
-            "url": "https://i.ytimg.com/vi/nC5Ur61kDwI/maxresdefault.jpg",
+            "url": "https://raw.githubusercontent.com/longld103/server/refs/heads/master/realtime/technogamerz/notsupport.jpg",
             "width": 1280
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/nC5Ur61kDwI/mqdefault.jpg",
-            "width": 320
           },
           "standard": {
             "height": 480,
-            "url": "https://i.ytimg.com/vi/nC5Ur61kDwI/sddefault.jpg",
+            "url": "https://raw.githubusercontent.com/longld103/server/refs/heads/master/realtime/technogamerz/notsupport.jpg",
             "width": 640
           }
         },
